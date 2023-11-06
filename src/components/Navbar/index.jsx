@@ -74,15 +74,48 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                   <a className="nav-link">Hakkımızda</a>
                 </Link>
               </li>
-              <li className="nav-item">
-                <Link href="/about">
-                  <a className="nav-link">Hizmetlerimiz</a>
-                </Link>
+              <li className="nav-item dropdown" onClick={handleDropdown}>
+                <span
+                  className="nav-link dropdown-toggle"
+                  data-toggle="dropdown"
+                  href="#"
+                  role="button"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  Hizmetlerimiz
+                </span>
+                <div className="dropdown-menu">
+                  <Link href="/work1">
+                    <a className="dropdown-item">Taşlar</a>
+                  </Link>
+                  <Link href="/work2">
+                    <a className="dropdown-item">Şömine</a>
+                  </Link>
+                </div>
               </li>
-              <li className="nav-item">
-                <Link href="/about">
-                  <a className="nav-link">Taşlar</a>
-                </Link>
+              <li className="nav-item dropdown" onClick={handleDropdown}>
+                <span
+                  className="nav-link dropdown-toggle"
+                  data-toggle="dropdown"
+                  href="#"
+                  role="button"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  Mağaza
+                </span>
+                <div className="dropdown-menu">
+                  <Link href="/work1">
+                    <a className="dropdown-item">Kültür Taşı</a>
+                  </Link>
+                  <Link href="/work2">
+                    <a className="dropdown-item">Kültür Tuğlası</a>
+                  </Link>
+                  <Link href="/work2">
+                    <a className="dropdown-item">Şömineler</a>
+                  </Link>
+                </div>
               </li>
               <li className="nav-item">
                 <Link href="/contact">

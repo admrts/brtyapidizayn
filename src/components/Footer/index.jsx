@@ -48,7 +48,11 @@ const Footer = ({ classText }) => {
               </div>
               <div className="social">
                 <Link href="#">
-                  <a href="https://wa.me/905323006879" target="_blank">
+                  <a
+                    href="https://wa.me/905323006879"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <i className="fab fa-whatsapp"></i>
                   </a>
                 </Link>

@@ -3,7 +3,7 @@ import introData from "../../data/Intro-with-horizontal.json";
 import { Swiper, SwiperSlide } from "swiper/react";
 import Split from "../Split";
 import Link from "next/link";
-import SwiperCore, { Navigation, Pagination, Parallax } from "swiper";
+import SwiperCore, { Navigation, Pagination, Parallax, Autoplay } from "swiper";
 
 import "swiper/css";
 import "swiper/css/pagination";
@@ -32,8 +32,9 @@ const IntroWithHorizontal = () => {
       <div className="swiper-container parallax-slider ">
         {!load ? (
           <Swiper
+            modules={[Autoplay, Pagination, Navigation]}
             autoplay={{
-              delay: 1000,
+              delay: 4000,
               disableOnInteraction: false,
             }}
             speed={1000}
