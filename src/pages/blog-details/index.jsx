@@ -5,8 +5,8 @@ import PostDetails from "../../components/Post-details";
 
 const BlogDetails = () => {
   React.useEffect(() => {
-    document.querySelector('body').classList.add('index3')
-  }, [])
+    document.querySelector("body").classList.add("index3");
+  }, []);
   return (
     <MainLayout>
       <PageHeader

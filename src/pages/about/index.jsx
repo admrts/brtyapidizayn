@@ -15,11 +15,12 @@ const About = () => {
   return (
     <MainLayout>
       <PageHeader
-        title="About Us"
+        title="Hakkımızda"
         fullPath={[
-          { id: 1, name: "home", url: "/" },
-          { id: 2, name: "about us", url: "/about" },
+          { id: 1, name: "Anasayfa", url: "/" },
+          { id: 2, name: "Hakkımızda", url: "/about" },
         ]}
+        image="/assets/img/brt/about/about.jpg"
       />
       <AboutUs4 />
       <Services3 bigTitle grid />

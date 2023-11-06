@@ -29,9 +29,13 @@ const IntroWithHorizontal = () => {
 
   return (
     <header className="slider">
-      <div className="swiper-container parallax-slider">
+      <div className="swiper-container parallax-slider ">
         {!load ? (
           <Swiper
+            autoplay={{
+              delay: 1000,
+              disableOnInteraction: false,
+            }}
             speed={1000}
             parallax={true}
             navigation={{

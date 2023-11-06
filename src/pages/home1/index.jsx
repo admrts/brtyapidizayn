@@ -10,6 +10,7 @@ import Testimonials from "../../components/Testimonials1";
 import Team1 from "../../components/Team1";
 import Blogs1 from "../../components/Blogs1";
 import Contact from "../../components/Contact";
+import MainLayout from "../../layouts/main";
 
 const Home1 = () => {
   React.useEffect(() => {

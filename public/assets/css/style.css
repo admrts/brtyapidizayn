@@ -4914,11 +4914,11 @@ body {
 /* ====================== [ End contact ] ====================== */
 /* ====================== [ Start Footer ] ====================== */
 footer {
-  background: #151515;
+  background: #401e00;
   width: calc(100% - 50px);
   margin-left: 25px;
   margin-bottom: 25px;
-  color: #fff;
+  color: #f3ebdf;
   padding: 100px 0;
 }
 footer .item .title h5 {
