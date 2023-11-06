@@ -1,5 +1,5 @@
 import React from "react";
-import appData from '../../data/app.json'
+import appData from "../../data/app.json";
 
 const ContactWithMap = () => {
   return (
@@ -18,8 +18,9 @@ const ContactWithMap = () => {
                   id="form_name"
                   type="text"
                   name="name"
-                  placeholder="Name"
+                  placeholder="Ad Soyad"
                   required="required"
+                  style={{ color: "#401e00", borderBottomColor: "#401e00" }}
                 />
               </div>
 
@@ -30,6 +31,7 @@ const ContactWithMap = () => {
                   name="email"
                   placeholder="Email"
                   required="required"
+                  style={{ color: "#401e00", borderBottomColor: "#401e00" }}
                 />
               </div>
 
@@ -37,14 +39,19 @@ const ContactWithMap = () => {
                 <textarea
                   id="form_message"
                   name="message"
-                  placeholder="Message"
+                  placeholder="Mesaj"
                   rows="4"
                   required="required"
+                  style={{
+                    color: "#401e00",
+                    borderBottomColor: "#401e00",
+                    resize: "none",
+                  }}
                 ></textarea>
               </div>
 
               <button type="submit" className="btn-curve btn-color">
-                <span>Send Message</span>
+                <span>Mesaj Gönder</span>
               </button>
             </div>
           </form>

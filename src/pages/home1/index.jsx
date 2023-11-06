@@ -13,9 +13,9 @@ import Contact from "../../components/Contact";
 import MainLayout from "../../layouts/main";
 
 const Home1 = () => {
-  React.useEffect(() => {
-    document.querySelector("body").classList.add("homepage");
-  }, []);
+  // React.useEffect(() => {
+  //   document.querySelector("body").classList.add("homepage");
+  // }, []);
   return (
     <LightLayout footerClass={"mt-30"}>
       <IntroWithHorizontal />

@@ -11,7 +11,7 @@ const Contact = () => {
   return (
     <MainLayout>
       <PageHeader
-        title="Contact Us"
+        title="İletişim"
         fullPath={[
           { id: 1, name: "Anasayfa", url: "/" },
           { id: 2, name: "İletişim", url: "/contact" },
