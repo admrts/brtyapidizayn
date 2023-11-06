@@ -130,10 +130,14 @@ span:hover {
   -webkit-box-shadow: 0px 4px 40px -4px rgba(255, 255, 255, 0.2);
   box-shadow: 0px 4px 40px -4px rgba(255, 255, 255, 0.2);
 }
-.bg-img {
+.bg-homepage-img {
   background-size: cover;
   background-repeat: no-repeat;
   animation: zoom 5s infinite !important;
+}
+.bg-img {
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 @keyframes zoom {
   0% {

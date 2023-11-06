@@ -82,7 +82,7 @@ const IntroWithHorizontal = () => {
             {introData.map((slide) => (
               <SwiperSlide key={slide.id} className="swiper-slide">
                 <div
-                  className="bg-img valign"
+                  className="bg-img valign bg-homepage-img"
                   style={{ backgroundImage: `url(${slide.image})` }}
                   data-overlay-dark="6"
                 >
