@@ -1,0 +1,734 @@
+[
+  {
+    "title": "Asimetrik",
+    "image": "/assets/img/stones/asimetrik/atacama/antracita.jpeg",
+    "kind": [
+      {
+        "title": "Atacama",
+        "image": "/assets/img/stones/asimetrik/atacama/antracita.jpeg",
+        "colors": [
+          {
+            "title": "Antracita",
+            "image": "/assets/img/stones/asimetrik/atacama/antracita.jpeg"
+          },
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/asimetrik/atacama/arena.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/asimetrik/atacama/ceniza.jpeg"
+          },
+          {
+            "title": "Cognac",
+            "image": "/assets/img/stones/asimetrik/atacama/cognac.jpeg"
+          },
+          {
+            "title": "Marron",
+            "image": "/assets/img/stones/asimetrik/atacama/marron.jpeg"
+          },
+          {
+            "title": "Oliva",
+            "image": "/assets/img/stones/asimetrik/atacama/oliva.jpeg"
+          },
+          {
+            "title": "Perola",
+            "image": "/assets/img/stones/asimetrik/atacama/perola.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Herrera",
+        "image": "/assets/img/stones/asimetrik/herrera/antracita.jpeg",
+        "colors": [
+          {
+            "title": "Antracita",
+            "image": "/assets/img/stones/asimetrik/herrera/antracita.jpeg"
+          },
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/asimetrik/herrera/arena.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/asimetrik/herrera/ceniza.jpeg"
+          },
+          {
+            "title": "Marron",
+            "image": "/assets/img/stones/asimetrik/herrera/marron.jpeg"
+          },
+          {
+            "title": "Oliva",
+            "image": "/assets/img/stones/asimetrik/herrera/oliva.jpeg"
+          },
+          {
+            "title": "Perola",
+            "image": "/assets/img/stones/asimetrik/herrera/perola.jpeg"
+          },
+          {
+            "title": "Polaris",
+            "image": "/assets/img/stones/asimetrik/herrera/polaris.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Ilion",
+        "image": "/assets/img/stones/asimetrik/ilion/arena.jpeg",
+        "colors": [
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/asimetrik/ilion/arena.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/asimetrik/ilion/ceniza.jpeg"
+          },
+          {
+            "title": "Cognac",
+            "image": "/assets/img/stones/asimetrik/ilion/cognac.jpeg"
+          },
+          {
+            "title": "Oliva",
+            "image": "/assets/img/stones/asimetrik/ilion/oliva.jpeg"
+          },
+          {
+            "title": "Perola",
+            "image": "/assets/img/stones/asimetrik/ilion/perola.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Invicta",
+        "image": "/assets/img/stones/asimetrik/invicta/antracita.jpeg",
+        "colors": [
+          {
+            "title": "Antracita",
+            "image": "/assets/img/stones/asimetrik/invicta/antracita.jpeg"
+          },
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/asimetrik/invicta/arena.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/asimetrik/invicta/ceniza.jpeg"
+          },
+          {
+            "title": "Marron",
+            "image": "/assets/img/stones/asimetrik/invicta/marron.jpeg"
+          },
+          {
+            "title": "Oliva",
+            "image": "/assets/img/stones/asimetrik/invicta/oliva.jpeg"
+          },
+          {
+            "title": "Perola",
+            "image": "/assets/img/stones/asimetrik/invicta/perola.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "La Rinconada",
+        "image": "/assets/img/stones/asimetrik/laRinconada/ceniza.jpeg",
+        "colors": [
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/asimetrik/laRinconada/arena.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/asimetrik/laRinconada/ceniza.jpeg"
+          },
+          {
+            "title": "Marron",
+            "image": "/assets/img/stones/asimetrik/laRinconada/marron.jpeg"
+          },
+          {
+            "title": "Oliva",
+            "image": "/assets/img/stones/asimetrik/laRinconada/oliva.jpeg"
+          },
+          {
+            "title": "Perola",
+            "image": "/assets/img/stones/asimetrik/laRinconada/perola.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Lumumba",
+        "image": "/assets/img/stones/asimetrik/lumumba/cognac.jpeg",
+        "colors": [
+          {
+            "title": "Antracita",
+            "image": "/assets/img/stones/asimetrik/lumumba/antracita.jpeg"
+          },
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/asimetrik/lumumba/arena.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/asimetrik/lumumba/ceniza.jpeg"
+          },
+          {
+            "title": "Cognac",
+            "image": "/assets/img/stones/asimetrik/lumumba/cognac.jpeg"
+          },
+          {
+            "title": "Marona",
+            "image": "/assets/img/stones/asimetrik/lumumba/marona.jpeg"
+          },
+          {
+            "title": "Oliva",
+            "image": "/assets/img/stones/asimetrik/lumumba/oliva.jpeg"
+          },
+          {
+            "title": "Perola",
+            "image": "/assets/img/stones/asimetrik/lumumba/perola.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Montana",
+        "image": "/assets/img/stones/asimetrik/montana/calidum.jpeg",
+        "colors": [
+          {
+            "title": "Calidum",
+            "image": "/assets/img/stones/asimetrik/montana/calidum.jpeg"
+          },
+          {
+            "title": "Fresco",
+            "image": "/assets/img/stones/asimetrik/montana/fresco.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Monte Pellegrino",
+        "image": "/assets/img/stones/asimetrik/montePellegrino/antracita.jpeg",
+        "colors": [
+          {
+            "title": "Calidum",
+            "image": "/assets/img/stones/asimetrik/montePellegrino/calidum.jpeg"
+          },
+          {
+            "title": "Fresco",
+            "image": "/assets/img/stones/asimetrik/montePellegrino/fresco.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Ota Benga",
+        "image": "/assets/img/stones/asimetrik/otaBenga/antracita.jpeg",
+        "colors": [
+          {
+            "title": "Antracita",
+            "image": "/assets/img/stones/asimetrik/otaBenga/antracita.jpeg"
+          },
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/asimetrik/otaBenga/arena.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/asimetrik/otaBenga/ceniza.jpeg"
+          },
+          {
+            "title": "Cognac",
+            "image": "/assets/img/stones/asimetrik/otaBenga/cognac.jpeg"
+          },
+          {
+            "title": "Marron",
+            "image": "/assets/img/stones/asimetrik/otaBenga/marron.jpeg"
+          },
+          {
+            "title": "Oliva",
+            "image": "/assets/img/stones/asimetrik/otaBenga/oliva.jpeg"
+          },
+          {
+            "title": "Perola",
+            "image": "/assets/img/stones/asimetrik/otaBenga/perola.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Perito Mereno",
+        "image": "/assets/img/stones/asimetrik/peritoMoreno/oliva.jpeg",
+        "colors": [
+          {
+            "title": "Antracita",
+            "image": "/assets/img/stones/asimetrik/peritoMoreno/antracita.jpeg"
+          },
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/asimetrik/peritoMoreno/arena.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/asimetrik/peritoMoreno/ceniza.jpeg"
+          },
+          {
+            "title": "Marron",
+            "image": "/assets/img/stones/asimetrik/peritoMoreno/marron.jpeg"
+          },
+          {
+            "title": "Oliva",
+            "image": "/assets/img/stones/asimetrik/peritoMoreno/oliva.jpeg"
+          },
+          {
+            "title": "Perola",
+            "image": "/assets/img/stones/asimetrik/peritoMoreno/perola.jpeg"
+          },
+          {
+            "title": "Polaris",
+            "image": "/assets/img/stones/asimetrik/peritoMoreno/polaris.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Saro Wiwa",
+        "image": "/assets/img/stones/asimetrik/saroWiwa/perola.jpeg",
+        "colors": [
+          {
+            "title": "Antracita",
+            "image": "/assets/img/stones/asimetrik/saroWiwa/antracita.jpeg"
+          },
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/asimetrik/saroWiwa/arena.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/asimetrik/saroWiwa/ceniza.jpeg"
+          },
+          {
+            "title": "Cognac",
+            "image": "/assets/img/stones/asimetrik/saroWiwa/cognac.jpeg"
+          },
+          {
+            "title": "Marron",
+            "image": "/assets/img/stones/asimetrik/saroWiwa/marron.jpeg"
+          },
+          {
+            "title": "Perola",
+            "image": "/assets/img/stones/asimetrik/saroWiwa/perola.jpeg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hardwood",
+    "image": "/assets/img/stones/hardwood/arena.jpeg",
+    "kind": [
+      {
+        "title": "Mount Leuser",
+        "image": "/assets/img/stones/hardwood/mountLeuser/arena.jpeg",
+        "colors": [
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/hardwood/mountLeuser/arena.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/hardwood/mountLeuser/ceniza.jpeg"
+          },
+          {
+            "title": "Marron",
+            "image": "/assets/img/stones/hardwood/mountLeuser/marron.jpeg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Modüler",
+    "image": "/assets/img/stones/moduler/evo/bianco.jpeg",
+    "kind": [
+      {
+        "title": "Baja California",
+        "image": "/assets/img/stones/moduler/bajaCalifornia/arena.jpeg",
+        "colors": [
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/moduler/bajaCalifornia/arena.jpeg"
+          },
+          {
+            "title": "Caliente",
+            "image": "/assets/img/stones/moduler/bajaCalifornia/caliente.jpeg"
+          },
+          {
+            "title": "Desierto",
+            "image": "/assets/img/stones/moduler/bajaCalifornia/desierto.jpeg"
+          },
+          {
+            "title": "Frio",
+            "image": "/assets/img/stones/moduler/bajaCalifornia/frio.jpeg"
+          },
+          {
+            "title": "Gris",
+            "image": "/assets/img/stones/moduler/bajaCalifornia/gris.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Evo",
+        "image": "/assets/img/stones/moduler/evo/bianco.jpeg",
+        "colors": [
+          {
+            "title": "Bianco",
+            "image": "/assets/img/stones/moduler/evo/bianco.jpeg"
+          },
+          {
+            "title": "Fumo",
+            "image": "/assets/img/stones/moduler/evo/fumo.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Mujica",
+        "image": "/assets/img/stones/moduler/mujica/arena.jpeg",
+        "colors": [
+          {
+            "title": "Antracita",
+            "image": "/assets/img/stones/moduler/mujica/antracita.jpeg"
+          },
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/moduler/mujica/arena.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/moduler/mujica/ceniza.jpeg"
+          },
+          {
+            "title": "Cognac",
+            "image": "/assets/img/stones/moduler/mujica/cognac.jpeg"
+          },
+          {
+            "title": "Kodiaq",
+            "image": "/assets/img/stones/moduler/mujica/kodiaq.jpeg"
+          },
+          {
+            "title": "Marron",
+            "image": "/assets/img/stones/moduler/mujica/marron.jpeg"
+          },
+          {
+            "title": "Perola",
+            "image": "/assets/img/stones/moduler/mujica/perola.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Persia",
+        "image": "/assets/img/stones/moduler/persia/ceniza.jpeg",
+        "colors": [
+          {
+            "title": "Antracita",
+            "image": "/assets/img/stones/moduler/persia/antracita.jpeg"
+          },
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/moduler/persia/arena.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/moduler/persia/ceniza.jpeg"
+          },
+          {
+            "title": "Cognac",
+            "image": "/assets/img/stones/moduler/persia/cognac.jpeg"
+          },
+          {
+            "title": "Marron",
+            "image": "/assets/img/stones/moduler/persia/marron.jpeg"
+          },
+          {
+            "title": "Oliva",
+            "image": "/assets/img/stones/moduler/persia/oliva.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Roldos",
+        "image": "/assets/img/stones/moduler/roldos/bianco.jpeg",
+        "colors": [
+          {
+            "title": "Antracita",
+            "image": "/assets/img/stones/moduler/roldos/antracita.jpeg"
+          },
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/moduler/roldos/arena.jpeg"
+          },
+          {
+            "title": "Bianco",
+            "image": "/assets/img/stones/moduler/roldos/bianco.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/moduler/roldos/ceniza.jpeg"
+          },
+          {
+            "title": "Cognac",
+            "image": "/assets/img/stones/moduler/roldos/cognac.jpeg"
+          },
+          {
+            "title": "Marron",
+            "image": "/assets/img/stones/moduler/roldos/marron.jpeg"
+          },
+          {
+            "title": "Perola",
+            "image": "/assets/img/stones/moduler/roldos/perola.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Volantis",
+        "image": "/assets/img/stones/moduler/volantis/marron.jpeg",
+        "colors": [
+          {
+            "title": "Antracita",
+            "image": "/assets/img/stones/moduler/volantis/antracita.jpeg"
+          },
+          {
+            "title": "Arena",
+            "image": "/assets/img/stones/moduler/volantis/arena.jpeg"
+          },
+          {
+            "title": "Ceniza",
+            "image": "/assets/img/stones/moduler/volantis/ceniza.jpeg"
+          },
+          {
+            "title": "Cognac",
+            "image": "/assets/img/stones/moduler/volantis/cognac.jpeg"
+          },
+          {
+            "title": "Kodiaq",
+            "image": "/assets/img/stones/moduler/volantis/kodiaq.jpeg"
+          },
+          {
+            "title": "Marron",
+            "image": "/assets/img/stones/moduler/volantis/marron.jpeg"
+          },
+          {
+            "title": "Tramonto",
+            "image": "/assets/img/stones/moduler/volantis/tramonto.jpeg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tuğlalar",
+    "image": "/assets/img/stones/tuglalar/java/antico.jpeg",
+    "kind": [
+      {
+        "title": "Carnivore",
+        "image": "/assets/img/stones/tuglalar/carnivore/brunetta.jpeg",
+        "color": [
+          {
+            "title": "Brunetta",
+            "image": "/assets/img/stones/tuglalar/carnivore/brunetta.jpeg"
+          },
+          {
+            "title": "Carnivore",
+            "image": "/assets/img/stones/tuglalar/carnivore/carnivore.jpeg"
+          },
+          {
+            "title": "Catagna",
+            "image": "/assets/img/stones/tuglalar/carnivore/catagna.jpeg"
+          },
+          {
+            "title": "Meadow",
+            "image": "/assets/img/stones/tuglalar/carnivore/meadow.jpeg"
+          },
+          {
+            "title": "Panna",
+            "image": "/assets/img/stones/tuglalar/carnivore/panna.jpeg"
+          },
+          {
+            "title": "Sabbia",
+            "image": "/assets/img/stones/tuglalar/carnivore/sabbia.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Colombiano",
+        "image": "/assets/img/stones/tuglalar/colombiano/cotto.jpeg",
+        "colors": [
+          {
+            "title": "Cotto",
+            "image": "/assets/img/stones/tuglalar/colombiano/cotto.jpeg"
+          },
+          {
+            "title": "Giallo",
+            "image": "/assets/img/stones/tuglalar/colombiano/giallo.jpeg"
+          },
+          {
+            "title": "Laranja",
+            "image": "/assets/img/stones/tuglalar/colombiano/laranja.jpeg"
+          },
+          {
+            "title": "Rosso Antico",
+            "image": "/assets/img/stones/tuglalar/colombiano/rossoAntico.jpeg"
+          },
+          {
+            "title": "Sabbia",
+            "image": "/assets/img/stones/tuglalar/colombiano/sabbia.jpeg"
+          },
+          {
+            "title": "Scuro",
+            "image": "/assets/img/stones/tuglalar/colombiano/scuro.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Damascus",
+        "image": "/assets/img/stones/tuglalar/damascus/ambra.jpeg",
+        "colors": [
+          {
+            "title": "Ambra",
+            "image": "/assets/img/stones/tuglalar/damascus/ambra.jpeg"
+          },
+          {
+            "title": "Rosso Antico",
+            "image": "/assets/img/stones/tuglalar/damascus/rossoAntico.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Java",
+        "image": "/assets/img/stones/tuglalar/java/antico.jpeg",
+        "colors": [
+          {
+            "title": "Ambra",
+            "image": "/assets/img/stones/tuglalar/java/ambra.jpeg"
+          },
+          {
+            "title": "Antico",
+            "image": "/assets/img/stones/tuglalar/java/antico.jpeg"
+          },
+          {
+            "title": "Bianco",
+            "image": "/assets/img/stones/tuglalar/java/bianco.jpeg"
+          },
+          {
+            "title": "Caramello",
+            "image": "/assets/img/stones/tuglalar/java/caramello.jpeg"
+          },
+          {
+            "title": "Clasico",
+            "image": "/assets/img/stones/tuglalar/java/clasico.jpeg"
+          },
+          {
+            "title": "Cotto",
+            "image": "/assets/img/stones/tuglalar/java/cotto.jpeg"
+          },
+          {
+            "title": "Mais Elevado",
+            "image": "/assets/img/stones/tuglalar/java/maisElevado.jpeg"
+          },
+          {
+            "title": "Panna",
+            "image": "/assets/img/stones/tuglalar/java/panna.jpeg"
+          },
+          {
+            "title": "Rosso Antico",
+            "image": "/assets/img/stones/tuglalar/java/rossoAntico.jpeg"
+          },
+          {
+            "title": "Sabbia",
+            "image": "/assets/img/stones/tuglalar/java/sabbia.jpeg"
+          },
+          {
+            "title": "Scuro",
+            "image": "/assets/img/stones/tuglalar/java/scuro.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "Kalahari",
+        "image": "/assets/img/stones/tuglalar/kalahari/giallo.jpeg",
+        "colors": [
+          {
+            "title": "Bianco",
+            "image": "/assets/img/stones/tuglalar/kalahari/bianco.jpeg"
+          },
+          {
+            "title": "Giallo",
+            "image": "/assets/img/stones/tuglalar/kalahari/giallo.jpeg"
+          },
+          {
+            "title": "Meadow",
+            "image": "/assets/img/stones/tuglalar/kalahari/meadow.jpeg"
+          },
+          {
+            "title": "Rosa",
+            "image": "/assets/img/stones/tuglalar/kalahari/rosa.jpeg"
+          },
+          {
+            "title": "Rosso",
+            "image": "/assets/img/stones/tuglalar/kalahari/rosso.jpeg"
+          },
+          {
+            "title": "Ruga Rustica",
+            "image": "/assets/img/stones/tuglalar/kalahari/rugaRustica.jpeg"
+          },
+          {
+            "title": "Vino Rosado",
+            "image": "/assets/img/stones/tuglalar/kalahari/vinoRosado.jpeg"
+          },
+          {
+            "title": "Bianco",
+            "image": "/assets/img/stones/tuglalar/kalahari/bianco.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "The Glade",
+        "image": "/assets/img/stones/tuglalar/theGlade/brunetta.jpeg",
+        "colors": [
+          {
+            "title": "Brunetta",
+            "image": "/assets/img/stones/tuglalar/theGlade/brunetta.jpeg"
+          },
+          {
+            "title": "Caramello",
+            "image": "/assets/img/stones/tuglalar/theGlade/caramello.jpeg"
+          },
+          {
+            "title": "Castagna",
+            "image": "/assets/img/stones/tuglalar/theGlade/castagna.jpeg"
+          },
+          {
+            "title": "Giallo",
+            "image": "/assets/img/stones/tuglalar/theGlade/giallo.jpeg"
+          },
+          {
+            "title": "Mais Elevado",
+            "image": "/assets/img/stones/tuglalar/theGlade/maisElevado.jpeg"
+          },
+          {
+            "title": "Meadow",
+            "image": "/assets/img/stones/tuglalar/theGlade/meadow.jpeg"
+          },
+          {
+            "title": "Nebbia",
+            "image": "/assets/img/stones/tuglalar/theGlade/nebbia.jpeg"
+          },
+          {
+            "title": "Ruga Rustica",
+            "image": "/assets/img/stones/tuglalar/theGlade/rugaRustica.jpeg"
+          },
+          {
+            "title": "Ucello",
+            "image": "/assets/img/stones/tuglalar/theGlade/ucello.jpeg"
+          },
+          {
+            "title": "Verseto",
+            "image": "/assets/img/stones/tuglalar/theGlade/verseto.jpeg"
+          }
+        ]
+      }
+    ]
+  }
+]

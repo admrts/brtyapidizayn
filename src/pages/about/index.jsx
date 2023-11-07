@@ -1,7 +1,7 @@
 import React from "react";
 import MainLayout from "../../layouts/main";
 import PageHeader from "../../components/Page-header";
-import AboutUs4 from "../../components/About-Us4";
+import AboutUs4 from "../../components/About-Us2";
 import Services3 from "../../components/Services3";
 import Skills2 from "../../components/Skills2";
 import Testimonials1 from "../../components/Testimonials1";
@@ -26,7 +26,6 @@ const About = () => {
       <Services3 bigTitle grid />
       <Testimonials1 bigTitle />
       <Team2 />
-      <Skills2 />
     </MainLayout>
   );
 };

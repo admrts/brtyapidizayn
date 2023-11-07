@@ -7,7 +7,7 @@ import Head from "next/head";
 const MainSkin = ({ children }) => {
   const navbarRef = React.useRef(null);
   const logoRef = React.useRef(null);
-  
+
   React.useEffect(() => {
     var navbar = navbarRef.current,
       logo = logoRef.current;
@@ -31,6 +31,7 @@ const MainSkin = ({ children }) => {
       <Head>
         <link rel="stylesheet" href="/assets/css/style.css" />
         <link rel="stylesheet" href="/assets/css/skin-green.css" />
+        <link rel="stylesheet" href="/assets/css/custom.css" />
       </Head>
       <Navbar navbarRef={navbarRef} logoRef={logoRef} />
       {children}

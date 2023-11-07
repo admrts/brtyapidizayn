@@ -58,7 +58,7 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
           </button>
 
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul className="navbar-nav ml-auto">
+            <ul className="navbar-nav ms-auto ">
               <li className="nav-item">
                 <span
                   className="nav-link"
