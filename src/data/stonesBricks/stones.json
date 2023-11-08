@@ -8,6 +8,7 @@
       {
         "id": 1,
         "title": "Atacama",
+        "category": "Asimetrik",
         "image": "/assets/img/stones/asimetrik/atacama/antracita.jpeg",
         "colors": [
           {
@@ -43,6 +44,7 @@
       {
         "id": 2,
         "title": "Herrera",
+        "category": "Asimetrik",
         "image": "/assets/img/stones/asimetrik/herrera/antracita.jpeg",
         "colors": [
           {
@@ -78,6 +80,7 @@
       {
         "id": 3,
         "title": "Ilion",
+        "category": "Asimetrik",
         "image": "/assets/img/stones/asimetrik/ilion/arena.jpeg",
         "colors": [
           {
@@ -105,6 +108,7 @@
       {
         "id": 4,
         "title": "Invicta",
+        "category": "Asimetrik",
         "image": "/assets/img/stones/asimetrik/invicta/antracita.jpeg",
         "colors": [
           {
@@ -136,6 +140,7 @@
       {
         "id": 5,
         "title": "LaRinconada",
+        "category": "Asimetrik",
         "image": "/assets/img/stones/asimetrik/laRinconada/ceniza.jpeg",
         "colors": [
           {
@@ -163,6 +168,7 @@
       {
         "id": 6,
         "title": "Lumumba",
+        "category": "Asimetrik",
         "image": "/assets/img/stones/asimetrik/lumumba/cognac.jpeg",
         "colors": [
           {
@@ -198,6 +204,7 @@
       {
         "id": 7,
         "title": "Montana",
+        "category": "Asimetrik",
         "image": "/assets/img/stones/asimetrik/montana/calidum.jpeg",
         "colors": [
           {
@@ -213,6 +220,7 @@
       {
         "id": 8,
         "title": "MontePellegrino",
+        "category": "Asimetrik",
         "image": "/assets/img/stones/asimetrik/montePellegrino/calidum.jpeg",
         "colors": [
           {
@@ -228,6 +236,7 @@
       {
         "id": 9,
         "title": "OtaBenga",
+        "category": "Asimetrik",
         "image": "/assets/img/stones/asimetrik/otaBenga/antracita.jpeg",
         "colors": [
           {
@@ -263,6 +272,7 @@
       {
         "id": 10,
         "title": "PeritoMereno",
+        "category": "Asimetrik",
         "image": "/assets/img/stones/asimetrik/peritoMoreno/oliva.jpeg",
         "colors": [
           {
@@ -298,6 +308,7 @@
       {
         "id": 11,
         "title": "SaroWiwa",
+        "category": "Asimetrik",
         "image": "/assets/img/stones/asimetrik/saroWiwa/perola.jpeg",
         "colors": [
           {
@@ -337,6 +348,7 @@
       {
         "id": 1,
         "title": "MountLeuser",
+        "category": "Hardwood",
         "image": "/assets/img/stones/hardwood/mountLeuser/arena.jpeg",
         "colors": [
           {
@@ -367,6 +379,7 @@
       {
         "id": 1,
         "title": "BajaCalifornia",
+        "category": "Modüler",
         "image": "/assets/img/stones/moduler/bajaCalifornia/arena.jpeg",
         "colors": [
           {
@@ -399,6 +412,7 @@
       {
         "id": 2,
         "title": "Evo",
+        "category": "Modüler",
         "image": "/assets/img/stones/moduler/evo/bianco.jpeg",
         "colors": [
           {
@@ -416,6 +430,7 @@
       {
         "id": 3,
         "title": "Mujica",
+        "category": "Modüler",
         "image": "/assets/img/stones/moduler/mujica/arena.jpeg",
         "colors": [
           {
@@ -458,6 +473,7 @@
       {
         "id": 4,
         "title": "Persia",
+        "category": "Modüler",
         "image": "/assets/img/stones/moduler/persia/ceniza.jpeg",
         "colors": [
           {
@@ -495,6 +511,7 @@
       {
         "id": 5,
         "title": "Roldos",
+        "category": "Modüler",
         "image": "/assets/img/stones/moduler/roldos/bianco.jpeg",
         "colors": [
           {
@@ -537,6 +554,7 @@
       {
         "id": 6,
         "title": "Volantis",
+        "category": "Modüler",
         "image": "/assets/img/stones/moduler/volantis/marron.jpeg",
         "colors": [
           {
