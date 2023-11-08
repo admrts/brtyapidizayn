@@ -10,7 +10,7 @@
         "title": "Carnivore",
         "category": "Tuğlalar",
         "image": "/assets/img/stones/tuglalar/carnivore/brunetta.jpeg",
-        "color": [
+        "colors": [
           {
             "id": 1,
             "title": "Brunetta",

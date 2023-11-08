@@ -3,16 +3,21 @@ import stones from "../../data/stonesBricks/stones.json";
 import bricks from "../../data/stonesBricks/bricks.json";
 
 const Stones = ({ category, name }) => {
-  const stonesData = stones.filter((item) => {
-    return item.title == category;
-  });
+  const stonesData = stones
+    .filter((item) => item.title === category)
+    .concat(bricks.filter((item) => item.title == category));
+  // const stonesData =
+  //   stones.filter((item) => {
+  //     return item.title == category;
+  //   }) ||
+  //   bricks.filter((item) => {
+  //     return item.title == category;
+  //   });
 
   const currentStoneData = stonesData[0].kind.find(
     (item) => item.title === name
   );
-
   console.log(currentStoneData);
-
   return (
     <div>
       <div className="container mt-100">
