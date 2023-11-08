@@ -48,7 +48,7 @@ class MyDocument extends Document {
           />
         </Head>
 
-        <body>
+        <body className="index3">
           <Main />
           <NextScript />
         </body>

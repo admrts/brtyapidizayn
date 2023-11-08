@@ -118,12 +118,13 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                   Mağaza
                 </span>
                 <div className="dropdown-menu">
-                  <Link href="/work1">
-                    <a className="dropdown-item">Kültür Taşı</a>
+                  <Link href="/stones">
+                    <a className="dropdown-item">Kültür Taşları</a>
                   </Link>
-                  <Link href="/work2">
-                    <a className="dropdown-item">Kültür Tuğlası</a>
+                  <Link href="/bricks">
+                    <a className="dropdown-item">Kültür Tuğlaları</a>
                   </Link>
+
                   <Link href="/work2">
                     <a className="dropdown-item">Şömineler</a>
                   </Link>

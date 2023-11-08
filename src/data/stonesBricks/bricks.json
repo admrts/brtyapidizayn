@@ -1,0 +1,267 @@
+[
+  {
+    "id": 1,
+    "title": "Tuğlalar",
+    "image": "/assets/img/stones/tuglalar/java/antico.jpeg",
+    "description": "6 Model, 24 Renk",
+    "kind": [
+      {
+        "id": 1,
+        "title": "Carnivore",
+        "image": "/assets/img/stones/tuglalar/carnivore/brunetta.jpeg",
+        "color": [
+          {
+            "id": 1,
+            "title": "Brunetta",
+            "image": "/assets/img/stones/tuglalar/carnivore/brunetta.jpeg"
+          },
+          {
+            "id": 2,
+            "title": "Carnivore",
+            "image": "/assets/img/stones/tuglalar/carnivore/carnivore.jpeg"
+          },
+          {
+            "id": 3,
+            "title": "Catagna",
+            "image": "/assets/img/stones/tuglalar/carnivore/catagna.jpeg"
+          },
+          {
+            "id": 4,
+            "title": "Meadow",
+            "image": "/assets/img/stones/tuglalar/carnivore/meadow.jpeg"
+          },
+          {
+            "id": 5,
+            "title": "Panna",
+            "image": "/assets/img/stones/tuglalar/carnivore/panna.jpeg"
+          },
+          {
+            "id": 6,
+            "title": "Sabbia",
+            "image": "/assets/img/stones/tuglalar/carnivore/sabbia.jpeg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Colombiano",
+        "image": "/assets/img/stones/tuglalar/colombiano/cotto.jpeg",
+        "colors": [
+          {
+            "id": 1,
+            "title": "Cotto",
+            "image": "/assets/img/stones/tuglalar/colombiano/cotto.jpeg"
+          },
+          {
+            "id": 2,
+            "title": "Giallo",
+            "image": "/assets/img/stones/tuglalar/colombiano/giallo.jpeg"
+          },
+          {
+            "id": 3,
+            "title": "Laranja",
+            "image": "/assets/img/stones/tuglalar/colombiano/laranja.jpeg"
+          },
+          {
+            "id": 4,
+            "title": "RossoAntico",
+            "image": "/assets/img/stones/tuglalar/colombiano/rossoAntico.jpeg"
+          },
+          {
+            "id": 5,
+            "title": "Sabbia",
+            "image": "/assets/img/stones/tuglalar/colombiano/sabbia.jpeg"
+          },
+          {
+            "id": 6,
+            "title": "Scuro",
+            "image": "/assets/img/stones/tuglalar/colombiano/scuro.jpeg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Damascus",
+        "image": "/assets/img/stones/tuglalar/damascus/ambra.jpeg",
+        "colors": [
+          {
+            "id": 1,
+            "title": "Ambra",
+            "image": "/assets/img/stones/tuglalar/damascus/ambra.jpeg"
+          },
+          {
+            "id": 2,
+            "title": "RossoAntico",
+            "image": "/assets/img/stones/tuglalar/damascus/rossoAntico.jpeg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Java",
+        "image": "/assets/img/stones/tuglalar/java/antico.jpeg",
+        "colors": [
+          {
+            "id": 1,
+            "title": "Ambra",
+            "image": "/assets/img/stones/tuglalar/java/ambra.jpeg"
+          },
+          {
+            "id": 2,
+            "title": "Antico",
+            "image": "/assets/img/stones/tuglalar/java/antico.jpeg"
+          },
+          {
+            "id": 3,
+            "title": "Bianco",
+            "image": "/assets/img/stones/tuglalar/java/bianco.jpeg"
+          },
+          {
+            "id": 4,
+            "title": "Caramello",
+            "image": "/assets/img/stones/tuglalar/java/caramello.jpeg"
+          },
+          {
+            "id": 5,
+            "title": "Clasico",
+            "image": "/assets/img/stones/tuglalar/java/clasico.jpeg"
+          },
+          {
+            "id": 6,
+            "title": "Cotto",
+            "image": "/assets/img/stones/tuglalar/java/cotto.jpeg"
+          },
+          {
+            "id": 7,
+            "title": "MaisElevado",
+            "image": "/assets/img/stones/tuglalar/java/maisElevado.jpeg"
+          },
+          {
+            "id": 8,
+            "title": "Panna",
+            "image": "/assets/img/stones/tuglalar/java/panna.jpeg"
+          },
+          {
+            "id": 9,
+            "title": "RossoAntico",
+            "image": "/assets/img/stones/tuglalar/java/rossoAntico.jpeg"
+          },
+          {
+            "id": 10,
+            "title": "Sabbia",
+            "image": "/assets/img/stones/tuglalar/java/sabbia.jpeg"
+          },
+          {
+            "id": 11,
+            "title": "Scuro",
+            "image": "/assets/img/stones/tuglalar/java/scuro.jpeg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Kalahari",
+        "image": "/assets/img/stones/tuglalar/kalahari/giallo.jpeg",
+        "colors": [
+          {
+            "id": 1,
+            "title": "Bianco",
+            "image": "/assets/img/stones/tuglalar/kalahari/bianco.jpeg"
+          },
+          {
+            "id": 2,
+            "title": "Giallo",
+            "image": "/assets/img/stones/tuglalar/kalahari/giallo.jpeg"
+          },
+          {
+            "id": 3,
+            "title": "Meadow",
+            "image": "/assets/img/stones/tuglalar/kalahari/meadow.jpeg"
+          },
+          {
+            "id": 4,
+            "title": "Rosa",
+            "image": "/assets/img/stones/tuglalar/kalahari/rosa.jpeg"
+          },
+          {
+            "id": 5,
+            "title": "Rosso",
+            "image": "/assets/img/stones/tuglalar/kalahari/rosso.jpeg"
+          },
+          {
+            "id": 6,
+            "title": "RugaRustica",
+            "image": "/assets/img/stones/tuglalar/kalahari/rugaRustica.jpeg"
+          },
+          {
+            "id": 7,
+            "title": "VinoRosado",
+            "image": "/assets/img/stones/tuglalar/kalahari/vinoRosado.jpeg"
+          },
+          {
+            "id": 8,
+            "title": "Bianco",
+            "image": "/assets/img/stones/tuglalar/kalahari/bianco.jpeg"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "TheGlade",
+        "image": "/assets/img/stones/tuglalar/theGlade/brunetta.jpeg",
+        "colors": [
+          {
+            "id": 1,
+            "title": "Brunetta",
+            "image": "/assets/img/stones/tuglalar/theGlade/brunetta.jpeg"
+          },
+          {
+            "id": 2,
+            "title": "Caramello",
+            "image": "/assets/img/stones/tuglalar/theGlade/caramello.jpeg"
+          },
+          {
+            "id": 3,
+            "title": "Castagna",
+            "image": "/assets/img/stones/tuglalar/theGlade/castagna.jpeg"
+          },
+          {
+            "id": 4,
+            "title": "Giallo",
+            "image": "/assets/img/stones/tuglalar/theGlade/giallo.jpeg"
+          },
+          {
+            "id": 5,
+            "title": "MaisElevado",
+            "image": "/assets/img/stones/tuglalar/theGlade/maisElevado.jpeg"
+          },
+          {
+            "id": 6,
+            "title": "Meadow",
+            "image": "/assets/img/stones/tuglalar/theGlade/meadow.jpeg"
+          },
+          {
+            "id": 7,
+            "title": "Nebbia",
+            "image": "/assets/img/stones/tuglalar/theGlade/nebbia.jpeg"
+          },
+          {
+            "id": 8,
+            "title": "RugaRustica",
+            "image": "/assets/img/stones/tuglalar/theGlade/rugaRustica.jpeg"
+          },
+          {
+            "id": 9,
+            "title": "Ucello",
+            "image": "/assets/img/stones/tuglalar/theGlade/ucello.jpeg"
+          },
+          {
+            "id": 10,
+            "title": "Verseto",
+            "image": "/assets/img/stones/tuglalar/theGlade/verseto.jpeg"
+          }
+        ]
+      }
+    ]
+  }
+]
