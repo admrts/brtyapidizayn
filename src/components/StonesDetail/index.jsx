@@ -17,7 +17,6 @@ const Stones = ({ category, name }) => {
   const currentStoneData = stonesData[0].kind.find(
     (item) => item.title === name
   );
-  console.log(currentStoneData);
   return (
     <div>
       <div className="container mt-100">
