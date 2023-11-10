@@ -41,7 +41,7 @@ const Stones = ({ category, name }) => {
             </div>
             <div className="col-md-2  border d-flex flex-column gap-3 align-items-center py-3">
               {currentStoneData.colors.map((item, i) => (
-                <div className="shadow-lg  w-75 h-75">
+                <div className="shadow-lg  w-75 h-75" key={i}>
                   <img src={item.image} alt="" />
                   <p className="text-center fs-6 ">{item.title}</p>
                 </div>
