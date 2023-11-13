@@ -106,7 +106,7 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                   </Link>
                 </div>
               </li>
-              <li className="nav-item dropdown" onClick={handleDropdown}>
+              {/* <li className="nav-item dropdown" onClick={handleDropdown}>
                 <span
                   className="nav-link dropdown-toggle"
                   data-toggle="dropdown"
@@ -129,6 +129,16 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                     <a className="dropdown-item">Şömineler</a>
                   </Link>
                 </div>
+              </li> */}
+              <li className="nav-item">
+                <span
+                  className="nav-link"
+                  role="button"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  <Link href="/store">Mağaza</Link>
+                </span>
               </li>
               <li className="nav-item">
                 <Link href="/contact">
