@@ -30,7 +30,18 @@ const MainLayout = ({ children, logoClassText }) => {
     <>
       <Head>
         <link rel="stylesheet" href="/assets/css/style.css" />
-        <link rel="stylesheet" href="/assets/css/custom.css" />
+        <link
+          rel="stylesheet"
+          href="/assets/css/customcss/pages/stonespage/stonespage.css"
+        />
+        <link
+          rel="stylesheet"
+          href="/assets/css/customcss/pages/homepage.css"
+        />
+        <link
+          rel="stylesheet"
+          href="/assets/css/customcss/pages/storepage.css"
+        />
       </Head>
       <Navbar
         navbarRef={navbarRef}

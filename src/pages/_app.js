@@ -2,9 +2,9 @@ import React from "react";
 import Script from "next/script";
 import Head from "next/head";
 import LoadingScreen from "../components/Loading-Screen/loading-screen";
-import "../styles/globals.css";
 import Cursor from "../components/Cursor";
 import ScrollToTop from "../components/scrollToTop";
+import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }) {
   return (

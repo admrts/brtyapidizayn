@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const Store = () => {
@@ -5,20 +6,24 @@ const Store = () => {
     <div className="container mb-50 mt-100 store-container">
       {/* stones */}
       <div className="store-items-container-first">
-        <img
-          src="https://picsum.photos/200"
-          alt=""
-          className="img-fluid rounded-circle store-image-container"
-        />
+        <Link href="/stones">
+          <img
+            src="https://picsum.photos/200"
+            alt=""
+            className="img-fluid rounded-circle store-image-container"
+          />
+        </Link>
         <h3 className="store-items-title">Kültür Taşları</h3>
       </div>
       {/* bricks */}
       <div className="store-items-container-second">
-        <img
-          src="https://picsum.photos/200"
-          alt=""
-          className="img-fluid rounded-circle store-image-container"
-        />
+        <Link href="/bricks">
+          <img
+            src="https://picsum.photos/200"
+            alt=""
+            className="img-fluid rounded-circle store-image-container"
+          />
+        </Link>
         <h3 className="store-items-title">Kültür Tuğlası</h3>
       </div>
       {/* fireplace */}
