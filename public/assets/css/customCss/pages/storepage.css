@@ -64,6 +64,12 @@
     gap: 50px;
     margin-left: 0;
   }
+  .store-items-container-second img {
+    order: 2;
+  }
+  .store-items-container-second h3  {
+    order: 1;
+  }
   .store-items-container-third {
     gap: 50px;
     margin-left: 0;
