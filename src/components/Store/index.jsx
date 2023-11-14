@@ -8,7 +8,7 @@ const Store = () => {
       <div className="store-items-container-first">
         <Link href="/stones">
           <img
-            src="https://picsum.photos/200"
+            src="/assets/img/stones/asimetrik/atacama/antracita.jpeg"
             alt=""
             className="img-fluid rounded-circle store-image-container"
           />
@@ -19,7 +19,7 @@ const Store = () => {
       <div className="store-items-container-second">
         <Link href="/bricks">
           <img
-            src="https://picsum.photos/200"
+            src="/assets/img/stones/tuglalar/java/cotto.jpeg"
             alt=""
             className="img-fluid rounded-circle store-image-container"
           />
@@ -29,7 +29,7 @@ const Store = () => {
       {/* fireplace */}
       <div className="store-items-container-third">
         <img
-          src="https://picsum.photos/200"
+          src="/assets/img/stones/asimetrik/atacama/antracita.jpeg"
           alt=""
           className="img-fluid rounded-circle store-image-container"
         />
