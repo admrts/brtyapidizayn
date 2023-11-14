@@ -1,0 +1,27 @@
+.bg-img-scale {
+  animation: zoom 4s infinite !important;
+}
+@keyframes zoom {
+  0% {
+    transform: scale(1); /* Normal boyut */
+  }
+  25% {
+    transform: scale(1.25);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1); /* Tekrar normal boyut */
+  }
+}
+
+.vertical-text {
+  writing-mode: vertical-rl;
+  text-orientation: sideways;
+  transform: rotate(180deg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 10px;
+}
