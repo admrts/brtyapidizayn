@@ -8,7 +8,6 @@ import stones from "../../../data/stonesBricks/stones.json";
 
 const Work1 = () => {
   const { query } = useRouter();
-  console.log(query);
   return (
     <MainLayout>
       {query.slug ? (

@@ -6,20 +6,14 @@ const Stones = ({ category, name }) => {
   const stonesData = stones
     .filter((item) => item.title === category)
     .concat(bricks.filter((item) => item.title == category));
-  // const stonesData =
-  //   stones.filter((item) => {
-  //     return item.title == category;
-  //   }) ||
-  //   bricks.filter((item) => {
-  //     return item.title == category;
-  //   });
 
   const currentStoneData = stonesData[0].kind.find(
     (item) => item.title === name
   );
+  console.log(currentStoneData);
   return (
     <div>
-      <div className="container mt-100">
+      <div className="container  details-page-container">
         <h4 className="row justify-content-center">{category}</h4>
         <div className="container">
           <div className="row mt-30 mb-30 gap-3 justify-content-center align-items-center">
@@ -33,6 +27,7 @@ const Stones = ({ category, name }) => {
             <div className="text-center fs-3 my-4">{name}</div>
           </div>
         </div>
+
         <div className="container">
           <div className="row">
             <div className="col-md-1">

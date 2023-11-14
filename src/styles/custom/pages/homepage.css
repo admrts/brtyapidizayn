@@ -5,9 +5,7 @@
   0% {
     transform: scale(1); /* Normal boyut */
   }
-  25% {
-    transform: scale(1.25);
-  }
+
   50% {
     transform: scale(1.2);
   }

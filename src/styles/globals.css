@@ -1,6 +1,4 @@
-@import "./custom/pages/stonespage/stonespage.css";
-@import "./custom/pages/homepage.css";
-@import "./custom/pages/storepage.css";
+@import "./custom/index.css";
 
 svg.CircularProgressbar {
   width: 110px;
