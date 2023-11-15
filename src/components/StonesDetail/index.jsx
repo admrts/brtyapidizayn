@@ -24,7 +24,17 @@ const Stones = ({ category, name }) => {
     setCurrentStoneData(item);
   };
   return (
-    <div className="details-page-container">
+    <div className="details-page-container position-relative">
+      {mainImage ? (
+        <div
+          className="position-absolute bg-img valign bg-homepage-img w-100 h-100"
+          style={{
+            backgroundImage: `url(${mainImage.image})`,
+            opacity: "0.6",
+            zIndex: -50,
+          }}
+        ></div>
+      ) : null}
       <div className="container">
         <h4 className="row justify-content-center">{category}</h4>
         <div className="container">
