@@ -5,7 +5,10 @@ import stones from "../../data/stonesBricks/stones.json";
 const Stones2 = ({ title }) => {
   const data = stones.find((item) => item.title === title);
   return (
-    <div className="mt-100 container">
+    <div
+      className="mt-100 container d-flex flex-column align-items-center justify-content-center gap-5"
+      style={{ minHeight: "80vh" }}
+    >
       {data ? (
         <>
           <h2 className="row justify-content-center">{data.title} </h2>
