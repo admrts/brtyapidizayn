@@ -24,6 +24,7 @@ const Stones = ({ category, name }) => {
   };
   const handleButtonClick = (item) => {
     setCurrentStoneData(item);
+    setMainImage(item);
   };
   const handleMainImageClick = () => {
     setImagePreview(true);
