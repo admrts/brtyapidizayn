@@ -1,11 +1,13 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import stones from "../../data/stonesBricks/stones.json";
 import bricks from "../../data/stonesBricks/bricks.json";
+import Image from "next/image";
 
 const Stones = ({ category, name }) => {
   const [mainImage, setMainImage] = useState();
   const [currentStoneData, setCurrentStoneData] = useState();
   const [stonesData, setStonesData] = useState();
+  const [imagePreview, setImagePreview] = useState(false);
 
   useEffect(() => {
     const stonesList = stones
@@ -23,8 +25,15 @@ const Stones = ({ category, name }) => {
   const handleButtonClick = (item) => {
     setCurrentStoneData(item);
   };
+  const handleMainImageClick = () => {
+    setImagePreview(true);
+  };
+
   return (
     <div className="details-page-container position-relative">
+      {imagePreview ? (
+        <ImagePreviewModal item={mainImage} setImagePreview={setImagePreview} />
+      ) : null}
       {mainImage ? (
         <div
           className="position-absolute bg-img valign bg-homepage-img w-100 h-100"
@@ -59,18 +68,22 @@ const Stones = ({ category, name }) => {
         <div className="container"></div>
 
         <div className="container">
-          <div className="row ">
+          <div className="row  ">
             {mainImage ? (
-              <div className="d-flex justify-content-center align-items-center">
-                <img
+              <div className="details-main-image-container">
+                <Image
+                  priority
+                  width={500}
+                  height={500}
                   className="details-main-image"
                   src={mainImage.image}
                   alt={mainImage.title}
+                  onClick={handleMainImageClick}
                 />
               </div>
             ) : null}
           </div>
-          <h5 className="text-center mt-100 mb-50">RENKLER</h5>
+          <h5 className="text-center mt-50 mb-50">RENKLER</h5>
           <div className="details-colors-container">
             {currentStoneData
               ? currentStoneData.colors.map((item, i) => (
@@ -94,3 +107,32 @@ const Stones = ({ category, name }) => {
 };
 
 export default Stones;
+
+const ImagePreviewModal = ({ item, setImagePreview }) => {
+  const handleDivClick = () => {
+    setImagePreview(false);
+  };
+
+  const handleInnerClick = (e) => {
+    e.stopPropagation(); // Olayın yayılmasını engeller
+  };
+
+  useEffect(() => {
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.body.style.overflow = "auto";
+    };
+  }, []);
+  return (
+    <div className="image-preview" onClick={handleDivClick}>
+      <Image
+        onClick={handleInnerClick}
+        priority
+        src={item.image}
+        alt={item.title}
+        height={700}
+        width={1000}
+      />
+    </div>
+  );
+};
