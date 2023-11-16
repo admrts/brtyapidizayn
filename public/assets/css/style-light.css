@@ -107,7 +107,7 @@ span:hover {
   font-family: "Playfair Display", serif;
 }
 .main-color {
-  color: #401e00 !important;
+  color: #401e00;
 }
 .bg-gray {
   background-color: #f3ebdf;

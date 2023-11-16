@@ -4,7 +4,7 @@ import WorkHeader from "../../components/Work-header";
 import MainLayout from "../../layouts/main";
 import { WorkTwoColumn } from "../../components/Work-Two-Column";
 
-const Work1 = () => {
+const StatikProje = () => {
   React.useEffect(() => {
     document.querySelector("body").classList.add("index3");
   }, []);
@@ -15,11 +15,11 @@ const Work1 = () => {
           first: "Statik Proje",
         }}
         // title = "text",
-        content="MİMARİ PROJEYE UYGUN OLARAK, ÖLÇEKLERİ YAPININ BÜYÜKLÜĞÜNE VE PROJENİN ÖZELLİĞİNE GÖRE BETONARME, YIĞMA, ÇELİK VE BENZERİ YAPI TÜRLERİNİN TAŞIYICI SİSTEMLERİNİ GÖSTEREN VE BUNLARIN KESİTLERİ, DETAYLARI İLE HESAPLARI TARAFIMIZCA SİZLER İÇİN YAPILMAKTADIR. MÜHENDİSLİKTE TASARIMLARIMIZ 3E KURALINA UYGUN OLARAK YAPILMAKTADIR."
+        content="Statik proje, mühendislik projelerinin önemli bir aşamasıdır. Yapıların stabilitesini ve dayanıklılığını sağlamak için kullanılır. Bu projeler, yapıların taşıma kapasitesini belirler ve malzeme seçimini içerir. Mühendisler, bina veya köprü gibi yapıların sağlam ve güvenli olmasını garanti altına almak için statik projeleri oluşturur. Bu projeler, yapıların boyutlandırılması, malzeme analizi ve güvenlik faktörlerini içerir. Statik projeler, mühendislik alanında temel bir adımdır ve yapıların uzun süreli sağlamlığını sağlar."
       />
       <WorkTwoColumn />
     </MainLayout>
   );
 };
 
-export default Work1;
+export default StatikProje;

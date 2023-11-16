@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
-import Link from "next/link";
 import initIsotope from "../../common/initIsotope";
+import Image from "next/image";
 
 export const WorkTwoColumn = () => {
   React.useEffect(() => {
@@ -22,35 +22,48 @@ export const WorkTwoColumn = () => {
             <div className="col-lg-6 items theaters">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/statikproje/vertical1.jpg" alt="" />
+                  <Image
+                    width={1000}
+                    height={1188}
+                    src="/assets/img/statikproje/vertical1.jpg"
+                    alt=""
+                  />
                 </div>
               </div>
             </div>
             <div className="col-lg-6 items residential interior">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/statikproje/horizontal1.jpg" alt="" />
+                  <Image
+                    width={1000}
+                    height={667}
+                    src="/assets/img/statikproje/horizontal1.jpg"
+                    alt=""
+                  />
                 </div>
               </div>
             </div>
             <div className="col-lg-6 items interior">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/statikproje/vertical2.jpg" alt="" />
+                  <Image
+                    width={1002}
+                    height={1503}
+                    src="/assets/img/statikproje/vertical2.jpg"
+                    alt=""
+                  />
                 </div>
               </div>
             </div>
             <div className="col-lg-6 items residential">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/statikproje/horizontal2.jpg" alt="" />
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-6 items theaters">
-              <div className="item">
-                <div className="img">
-                  <img src="/assets/img/statikproje/horizontal3.jpg" alt="" />
+                  <Image
+                    width={999}
+                    height={666}
+                    src="/assets/img/statikproje/horizontal2.jpg"
+                    alt=""
+                  />
                 </div>
               </div>
             </div>
