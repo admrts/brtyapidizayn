@@ -2,7 +2,7 @@
 import React from "react";
 import WorkHeader from "../../components/Work-header";
 import MainLayout from "../../layouts/main";
-import { WorkTwoColumn } from "../../components/Work-Two-Column";
+import WorkFourColumn from "../../components/Work-Four-Column";
 
 const Work1 = () => {
   React.useEffect(() => {
@@ -17,7 +17,7 @@ const Work1 = () => {
         // title = "text",
         content="MİMARİ PROJEYE UYGUN OLARAK, ÖLÇEKLERİ YAPININ BÜYÜKLÜĞÜNE VE PROJENİN ÖZELLİĞİNE GÖRE BETONARME, YIĞMA, ÇELİK VE BENZERİ YAPI TÜRLERİNİN TAŞIYICI SİSTEMLERİNİ GÖSTEREN VE BUNLARIN KESİTLERİ, DETAYLARI İLE HESAPLARI TARAFIMIZCA SİZLER İÇİN YAPILMAKTADIR. MÜHENDİSLİKTE TASARIMLARIMIZ 3E KURALINA UYGUN OLARAK YAPILMAKTADIR."
       />
-      <WorkTwoColumn />
+      <WorkFourColumn />
     </MainLayout>
   );
 };
