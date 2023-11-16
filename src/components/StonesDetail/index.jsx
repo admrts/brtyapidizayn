@@ -31,7 +31,7 @@ const Stones = ({ category, name }) => {
   };
 
   return (
-    <div className="details-page-container position-relative">
+    <div className="details-page-container position-relative ">
       {imagePreview ? (
         <ImagePreviewModal item={mainImage} setImagePreview={setImagePreview} />
       ) : null}
@@ -45,8 +45,8 @@ const Stones = ({ category, name }) => {
           }}
         ></div>
       ) : null}
-      <div className="container">
-        <h4 className="row justify-content-center">{category}</h4>
+      <div className="container ">
+        <h4 className="row justify-content-center ">{category}</h4>
         <div className="container">
           <div className=" details-page-kind-container">
             {stonesData
@@ -88,8 +88,11 @@ const Stones = ({ category, name }) => {
           <div className="details-colors-container">
             {currentStoneData
               ? currentStoneData.colors.map((item, i) => (
-                  <div className="" key={i}>
-                    <img
+                  <div className="details-color-image-container" key={i}>
+                    <Image
+                      priority
+                      width={100}
+                      height={100}
                       className="details-colors-image"
                       src={item.image}
                       alt={item.title}

@@ -86,50 +86,26 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                   Hizmetlerimiz
                 </span>
                 <div className="dropdown-menu">
-                  <Link href="/work1">
+                  <Link href="/statikproje">
                     <a className="dropdown-item">Statik Proje</a>
                   </Link>
-                  <Link href="/work2">
+                  <Link href="/mimariproje">
                     <a className="dropdown-item">Mimari Proje</a>
                   </Link>
-                  <Link href="/work2">
+                  <Link href="/kesifplanlama">
                     <a className="dropdown-item">Keşif Planlama</a>
                   </Link>
-                  <Link href="/work2">
+                  <Link href="/3dmodelleme">
                     <a className="dropdown-item">Lazer Tarama & 3D Modelleme</a>
                   </Link>
-                  <Link href="/work2">
+                  <Link href="/dekorasyon">
                     <a className="dropdown-item">Dekorasyon</a>
                   </Link>
-                  <Link href="/work2">
+                  <Link href="/celikkonstruksiyon">
                     <a className="dropdown-item">Çelik Konstrüksiyon</a>
                   </Link>
                 </div>
               </li>
-              {/* <li className="nav-item dropdown" onClick={handleDropdown}>
-                <span
-                  className="nav-link dropdown-toggle"
-                  data-toggle="dropdown"
-                  href="#"
-                  role="button"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                >
-                  Mağaza
-                </span>
-                <div className="dropdown-menu">
-                  <Link href="/stones">
-                    <a className="dropdown-item">Kültür Taşları</a>
-                  </Link>
-                  <Link href="/bricks">
-                    <a className="dropdown-item">Kültür Tuğlaları</a>
-                  </Link>
-
-                  <Link href="/work2">
-                    <a className="dropdown-item">Şömineler</a>
-                  </Link>
-                </div>
-              </li> */}
               <li className="nav-item">
                 <span
                   className="nav-link"
