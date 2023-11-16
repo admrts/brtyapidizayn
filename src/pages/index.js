@@ -1,5 +1,5 @@
-import Home3 from "./home1";
+import Anasayfa from "./anasayfa";
 
 export default function Home() {
-  return <Home3 />;
+  return <Anasayfa />;
 }
