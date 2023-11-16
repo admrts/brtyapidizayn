@@ -1,0 +1,30 @@
+.whatsapp {
+  position: fixed;
+  bottom: 100px;
+  right: 30px;
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+  display: block;
+  border-radius: 50px;
+  z-index: 100;
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  font-size: 30px;
+  color: white;
+}
+
+.whatsapp i {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.whatsapp i:hover {
+  color: white;
+}
