@@ -15,7 +15,7 @@ const StatikProje = () => {
           first: "Statik Proje",
         }}
         // title = "text",
-        content="Statik proje, mühendislik projelerinin önemli bir aşamasıdır. Yapıların stabilitesini ve dayanıklılığını sağlamak için kullanılır. Bu projeler, yapıların taşıma kapasitesini belirler ve malzeme seçimini içerir. Mühendisler, bina veya köprü gibi yapıların sağlam ve güvenli olmasını garanti altına almak için statik projeleri oluşturur. Bu projeler, yapıların boyutlandırılması, malzeme analizi ve güvenlik faktörlerini içerir. Statik projeler, mühendislik alanında temel bir adımdır ve yapıların uzun süreli sağlamlığını sağlar."
+        content="Statik projeler, bina ve altyapıların dayanıklılığını sağlayan temel unsurlardan biridir. Mimarlar ve inşaat mühendisleri tarafından oluşturulan bu projeler, yapıların stabilitesini, yük taşıma kapasitesini ve güvenliğini belirler. Doğru hesaplamalar ve mühendislik prensipleriyle oluşturulan statik projeler, binaların uzun ömürlü olmasını sağlar. Firmamız, uzman kadrosuyla güvenilir ve etkili statik proje hizmetleri sunmaktadır."
       />
       <WorkTwoColumn />
     </MainLayout>

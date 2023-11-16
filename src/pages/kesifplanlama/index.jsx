@@ -15,7 +15,7 @@ const KesifPlanlama = () => {
           first: "Keşif Planlama",
         }}
         // title = "text",
-        content="Statik proje, mühendislik projelerinin önemli bir aşamasıdır. Yapıların stabilitesini ve dayanıklılığını sağlamak için kullanılır. Bu projeler, yapıların taşıma kapasitesini belirler ve malzeme seçimini içerir. Mühendisler, bina veya köprü gibi yapıların sağlam ve güvenli olmasını garanti altına almak için statik projeleri oluşturur. Bu projeler, yapıların boyutlandırılması, malzeme analizi ve güvenlik faktörlerini içerir. Statik projeler, mühendislik alanında temel bir adımdır ve yapıların uzun süreli sağlamlığını sağlar."
+        content="Keşif planlama, inşaat projelerinin başlangıcında önemli bir adımdır. Bu aşamada, maliyet analizi, kaynak tahmini ve proje planlaması yapılır. Firmamız, uzman ekipleriyle detaylı keşif planlaması sunar. Proje gereksinimlerini değerlendirir, bütçe ve zaman çerçevesinde optimize edilmiş çözümler sunarak projenin başarılı bir şekilde ilerlemesini sağlar."
       />
       <WorkTwoColumn />
     </MainLayout>

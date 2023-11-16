@@ -15,7 +15,7 @@ const CelikKonstruksiyon = () => {
           first: "Çelik Konstrüksiyon",
         }}
         // title = "text",
-        content="Statik proje, mühendislik projelerinin önemli bir aşamasıdır. Yapıların stabilitesini ve dayanıklılığını sağlamak için kullanılır. Bu projeler, yapıların taşıma kapasitesini belirler ve malzeme seçimini içerir. Mühendisler, bina veya köprü gibi yapıların sağlam ve güvenli olmasını garanti altına almak için statik projeleri oluşturur. Bu projeler, yapıların boyutlandırılması, malzeme analizi ve güvenlik faktörlerini içerir. Statik projeler, mühendislik alanında temel bir adımdır ve yapıların uzun süreli sağlamlığını sağlar."
+        content="Çelik konstrüksiyon, dayanıklı ve esnek yapısıyla inşaat sektöründe önemli bir yer tutar. Firmamız, uzman ekibiyle çelik yapılarının tasarımından montajına kadar her aşamada kaliteli ve güvenilir hizmet sunar. Yüksek mukavemetli çelik kullanarak, sağlam ve uzun ömürlü yapılar inşa eder, projeleri güvenle tamamlar."
       />
       <WorkTwoColumn />
     </MainLayout>

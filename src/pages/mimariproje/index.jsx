@@ -15,7 +15,7 @@ const MimariProje = () => {
           first: "Mimari Proje",
         }}
         // title = "text",
-        content="Statik proje, mühendislik projelerinin önemli bir aşamasıdır. Yapıların stabilitesini ve dayanıklılığını sağlamak için kullanılır. Bu projeler, yapıların taşıma kapasitesini belirler ve malzeme seçimini içerir. Mühendisler, bina veya köprü gibi yapıların sağlam ve güvenli olmasını garanti altına almak için statik projeleri oluşturur. Bu projeler, yapıların boyutlandırılması, malzeme analizi ve güvenlik faktörlerini içerir. Statik projeler, mühendislik alanında temel bir adımdır ve yapıların uzun süreli sağlamlığını sağlar."
+        content="Mimari projeler, estetik ve işlevsellik açısından tasarlanmış binaların planlamasını içerir. Yapının dış görünümü, iç mekân düzenlemesi ve kullanıcı ihtiyaçları mimari projelerde önceliklidir. Firmamız, deneyimli mimarlarımızla özgün, işlevsel ve estetik açıdan zengin mimari projeler sunar. Her müşteriye özel çözümler üreterek kaliteyi ön planda tutar."
       />
       <WorkTwoColumn />
     </MainLayout>

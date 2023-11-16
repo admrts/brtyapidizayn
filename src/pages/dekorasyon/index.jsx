@@ -15,7 +15,7 @@ const Dekorasyon = () => {
           first: "Dekorasyon",
         }}
         // title = "text",
-        content="Statik proje, mühendislik projelerinin önemli bir aşamasıdır. Yapıların stabilitesini ve dayanıklılığını sağlamak için kullanılır. Bu projeler, yapıların taşıma kapasitesini belirler ve malzeme seçimini içerir. Mühendisler, bina veya köprü gibi yapıların sağlam ve güvenli olmasını garanti altına almak için statik projeleri oluşturur. Bu projeler, yapıların boyutlandırılması, malzeme analizi ve güvenlik faktörlerini içerir. Statik projeler, mühendislik alanında temel bir adımdır ve yapıların uzun süreli sağlamlığını sağlar."
+        content="Dekorasyon, yaşam alanlarını estetik açıdan düzenleme sanatıdır. Firmamız, deneyimli tasarımcılarıyla özgün, işlevsel ve estetik açıdan zengin iç mekânlar oluşturur. Her müşterinin ihtiyaçlarına yönelik özelleştirilmiş tasarımlarla, yaşam alanlarınızı yeniden şekillendirir ve estetik bir dokunuşla kişisel tarzınızı yansıtır."
       />
       <WorkTwoColumn />
     </MainLayout>
