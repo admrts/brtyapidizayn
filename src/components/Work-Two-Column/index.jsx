@@ -16,87 +16,41 @@ export const WorkTwoColumn = () => {
           <div className="row gallery">
             <div className="col-lg-6 items mt-0 interior theaters residential">
               <div className="section-head mb-0">
-                <h3>Works</h3>
-
-                <div className="filtering mt-30">
-                  <div className="filter">
-                    <span data-filter="*" className="active">
-                      All
-                    </span>
-                    <span data-filter=".interior">Interior</span>
-                    <span data-filter=".theaters">Theaters</span>
-                    <span data-filter=".residential">Residential</span>
-                  </div>
-                </div>
+                <h3>Çalışmalar</h3>
               </div>
             </div>
             <div className="col-lg-6 items theaters">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/2.jpg" alt="" />
-                </div>
-                <div className="cont vis">
-                  <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
-                  </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <img src="/assets/img/statikproje/vertical1.jpg" alt="" />
                 </div>
               </div>
             </div>
             <div className="col-lg-6 items residential interior">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/1.jpg" alt="" />
-                </div>
-                <div className="cont vis">
-                  <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
-                  </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <img src="/assets/img/statikproje/horizontal1.jpg" alt="" />
                 </div>
               </div>
             </div>
             <div className="col-lg-6 items interior">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/5.jpg" alt="" />
-                </div>
-                <div className="cont vis">
-                  <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
-                  </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <img src="/assets/img/statikproje/vertical2.jpg" alt="" />
                 </div>
               </div>
             </div>
             <div className="col-lg-6 items residential">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/3.jpg" alt="" />
-                </div>
-                <div className="cont vis">
-                  <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
-                  </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <img src="/assets/img/statikproje/horizontal2.jpg" alt="" />
                 </div>
               </div>
             </div>
             <div className="col-lg-6 items theaters">
               <div className="item">
                 <div className="img">
-                  <img src="/assets/img/works/4.jpg" alt="" />
-                </div>
-                <div className="cont vis">
-                  <h5>
-                    <Link href="/project-details">Modern Townhouse</Link>
-                  </h5>
-                  <span>Architecture</span>
-                  <span>Modern</span>
+                  <img src="/assets/img/statikproje/horizontal3.jpg" alt="" />
                 </div>
               </div>
             </div>
