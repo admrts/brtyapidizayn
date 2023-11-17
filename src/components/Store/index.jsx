@@ -10,6 +10,7 @@ const Store = () => {
         <Link href="/stones">
           <div className="store-image-container">
             <Image
+              priority
               width={200}
               height={200}
               src="/assets/img/stones/asimetrik/atacama/antracita.jpeg"
@@ -25,6 +26,7 @@ const Store = () => {
         <Link href="/bricks">
           <div className="store-image-container">
             <Image
+              priority
               width={200}
               height={200}
               src="/assets/img/stones/tuglalar/java/cotto.jpeg"
@@ -40,6 +42,7 @@ const Store = () => {
         <Link href="#">
           <div className="store-image-container">
             <Image
+              priority
               width={200}
               height={200}
               src="/assets/img/stones/asimetrik/atacama/antracita.jpeg"
