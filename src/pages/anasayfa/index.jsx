@@ -15,14 +15,9 @@ const Home1 = () => {
   return (
     <LightLayout footerClass={"mt-30"}>
       <IntroWithHorizontal />
-      <AboutUs1 />
       <Services1 />
-      <Portfolio1 />
       <SkillsCircle />
       <Testimonials />
-      <Team1 />
-      <Blogs1 />
-      <Contact />
     </LightLayout>
   );
 };
