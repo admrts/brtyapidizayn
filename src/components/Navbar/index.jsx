@@ -29,7 +29,7 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
 
   return (
     <>
-      <nav className="navbar  navbar-expand-lg" ref={navbarRef}>
+      <nav className="navbar  navbar-expand-lg position-fixed" ref={navbarRef}>
         <div className="container">
           <Link href="/">
             <a className={`logo ${logoClass && logoClass}`}>
