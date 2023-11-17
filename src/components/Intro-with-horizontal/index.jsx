@@ -28,7 +28,7 @@ const IntroWithHorizontal = () => {
   const paginationRef = React.useRef(null);
 
   return (
-    <header className="slider">
+    <header className="slider z-index-100">
       <div className="swiper-container parallax-slider ">
         {!load ? (
           <Swiper

@@ -8,7 +8,7 @@ const StonesSlug = () => {
   const { query } = useRouter();
   return (
     <MainLayout>
-      <Stones2 title={query.slug} />
+      {query.slug ? <Stones2 title={query.slug} /> : null}
     </MainLayout>
   );
 };
