@@ -117,7 +117,7 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                 </span>
               </li>
               <li className="nav-item">
-                <Link href="/contact">
+                <Link href="/iletisim">
                   <a className="nav-link">İletişim</a>
                 </Link>
               </li>

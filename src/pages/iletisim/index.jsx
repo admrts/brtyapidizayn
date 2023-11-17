@@ -4,7 +4,7 @@ import ContactInfo from "../../components/Contact-info";
 import ContactWithMap from "../../components/Contact-with-map";
 import MainLayout from "../../layouts/main";
 
-const Contact = () => {
+const Iletisim = () => {
   React.useEffect(() => {
     document.querySelector("body").classList.add("index3");
   }, []);
@@ -26,4 +26,4 @@ const Contact = () => {
   );
 };
 
-export default Contact;
+export default Iletisim;
