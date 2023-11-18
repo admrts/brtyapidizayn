@@ -6,6 +6,7 @@ import Image from "next/image";
 const Stones = ({ category, name }) => {
   const [mainImage, setMainImage] = useState();
   const [currentStoneData, setCurrentStoneData] = useState();
+  const [currentStoneTitle, setCurrentStoneTitle] = useState(name);
   const [stonesData, setStonesData] = useState();
   const [imagePreview, setImagePreview] = useState(false);
 
@@ -24,6 +25,7 @@ const Stones = ({ category, name }) => {
   };
   const handleButtonClick = (item) => {
     setCurrentStoneData(item);
+    setCurrentStoneTitle(item.title);
     setMainImage(item);
   };
   const handleMainImageClick = () => {
@@ -62,7 +64,7 @@ const Stones = ({ category, name }) => {
               : null}
           </div>
           <div className="row">
-            <div className="text-center fs-3 my-4">{name}</div>
+            <div className="text-center fs-3 my-4">{currentStoneTitle}</div>
           </div>
         </div>
 

@@ -26,7 +26,7 @@ const AboutUs5 = () => {
                 </p>
               </Split>
               <div className="exp">
-                <h3 className="">25</h3>
+                <h3 className="">5</h3>
                 <h5 className=" valign">
                   <Split>
                     <span className="wow words chars splitting" data-splitting>

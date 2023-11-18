@@ -6,8 +6,17 @@ import Cursor from "../components/Cursor";
 import ScrollToTop from "../components/scrollToTop";
 import Whatsapp from "../components/Whatsapp";
 import "../styles/globals.css";
+import Router from "next/router";
 
 function MyApp({ Component, pageProps }) {
+  Router.events.on("routeChangeStart", () => {
+    console.log("Sayfa değiştiriliyor");
+  });
+
+  Router.events.on("routeChangeComplete", () => {
+    console.log("sayfa yüklemesi bitti");
+  });
+
   return (
     <>
       <Head>
