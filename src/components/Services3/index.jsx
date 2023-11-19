@@ -17,16 +17,15 @@ const Services3 = ({ bigTitle, grid }) => {
                 <h6 className="custom-font wow fadeInDown" data-wow-delay=".3s">
                   Best Features
                 </h6>
-                <h4 className="playfont wow flipInX" data-wow-delay=".5s">
+                <h4 className="playfont wow flipInX " data-wow-delay=".5s">
                   Our Services
                 </h4>
               </div>
             </div>
           </div>
         ) : (
-          <div className="main-header text-center">
+          <div className="main-header text-center ">
             <h3>Best Features.</h3>
-            <div className="tex-bg">Services</div>
           </div>
         )}
 
@@ -39,13 +38,8 @@ const Services3 = ({ bigTitle, grid }) => {
                 style={{ backgroundImage: `url(${item.image})` }}
               >
                 <span className={item.icon}></span>
-                <h6 className="mb-20">{item.title}</h6>
+                <h6 className="mb-20 text-light">{item.title}</h6>
                 <p>{item.content}</p>
-                <Link href="/about">
-                  <a className={`more ${!grid ? "custom-font" : ""} mt-30`}>
-                    Read More
-                  </a>
-                </Link>
               </div>
             </div>
           ))}

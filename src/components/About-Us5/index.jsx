@@ -44,19 +44,25 @@ const AboutUs5 = () => {
           <div className="col-lg-3 lg-padding">
             <div
               className="item bg-img wow imago"
-              style={{ backgroundImage: "url(/assets/img/b0.jpg)" }}
+              style={{
+                backgroundImage: "url(/assets/img/brt/slider/img1.jpg)",
+              }}
             ></div>
           </div>
           <div className="col-lg-6 lg-padding">
             <div
               className="item bg-img wow imago"
-              style={{ backgroundImage: "url(/assets/img/b00.jpg)" }}
+              style={{
+                backgroundImage: "url(/assets/img/brt/slider/img2.jpg)",
+              }}
             ></div>
           </div>
           <div className="col-lg-3 lg-padding">
             <div
               className="item bg-img wow imago"
-              style={{ backgroundImage: "url(/assets/img/b000.jpg)" }}
+              style={{
+                backgroundImage: "url(/assets/img/brt/slider/img3.jpg)",
+              }}
             ></div>
           </div>
         </div>

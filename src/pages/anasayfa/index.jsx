@@ -5,13 +5,14 @@ import IntroWithHorizontal from "../../components/Intro-with-horizontal";
 import LightLayout from "../../layouts/light";
 import SkillsCircle from "../../components/Skills-circle";
 import Testimonials from "../../components/Testimonials1";
+import Process from "../../components/Process";
 
 const Home1 = () => {
   return (
     <LightLayout footerClass={"mt-30"}>
       <IntroWithHorizontal />
       <Services1 />
-      <SkillsCircle />
+      <Process />
       <Testimonials />
     </LightLayout>
   );

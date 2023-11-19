@@ -17,7 +17,7 @@ const Services1 = () => {
           </div>
         </div>
         <div
-          className="row bord-box bg-img wow fadeInUp"
+          className="row bord-box bg-img wow fadeInUp  shadow-lg rounded"
           data-wow-delay=".3s"
           style={{ backgroundImage: `url(${services1Data.image}` }}
         >

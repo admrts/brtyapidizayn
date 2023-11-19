@@ -12,7 +12,7 @@ class Testimonials1 extends React.Component {
   renderArrows = () => {
     return (
       !this.props.bigTitle && (
-        <div className="navs mt-30">
+        <div className="navs mt-30" style={{ backgroundColor: "#f3ebdf" }}>
           <span className="prev" onClick={() => this.slider.slickPrev()}>
             <i className="fas fa-long-arrow-alt-left"></i>
           </span>
@@ -34,6 +34,7 @@ class Testimonials1 extends React.Component {
             backgroundImage: this.props.withBg
               ? `url(/assets/img/001.jpg)`
               : "none",
+            backgroundColor: "#f3ebdf",
           }}
           data-overlay-dark={this.props.withBg ? 9 : null}
         >

@@ -1,23 +1,23 @@
 [
   {
     "id": 1,
-    "image": "/assets/img/01.jpg",
+    "image": "/assets/img/brt/slider/img2.jpg",
     "icon": "icon flaticon-home-1",
-    "title": "Architecture",
+    "title": "Mimarlık",
     "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
   },
   {
     "id": 2,
-    "image": "/assets/img/02.jpg",
+    "image": "/assets/img/brt/slider/img4.jpg",
     "icon": "icon flaticon-living-room",
-    "title": "Interior Design",
+    "title": "İç Mekan Tasarımı",
     "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
   },
   {
     "id": 3,
-    "image": "/assets/img/03.jpg",
+    "image": "/assets/img/brt/slider/img1.jpg",
     "icon": "icon flaticon-interior-design",
-    "title": "3D Modeling",
+    "title": "3 Boyutlu Modelleme",
     "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
   }
 ]

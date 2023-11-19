@@ -4,17 +4,20 @@ const Process = () => {
   return (
     <section
       className="process section-padding bg-img bg-repeat"
-      style={{ backgroundImage: `url(/assets/img/dots.png)` }}
+      style={{
+        backgroundImage: `url(/assets/img/dots.png)`,
+        backgroundColor: "#f3ebdf",
+      }}
     >
       <div className="container">
         <div className="section-head text-center">
           <div className="row justify-content-center">
             <div className="col-lg-6 col-md-8 col-sm-10">
               <h6 className="custom-font wow fadeInDown" data-wow-delay=".3s">
-                How We Do It
+                Nasıl Yapıyoruz
               </h6>
               <h4 className="playfont wow flipInX" data-wow-delay=".5s">
-                Work Process
+                Çalışma Süreci
               </h4>
             </div>
           </div>
@@ -27,12 +30,14 @@ const Process = () => {
             <div className="item">
               <div
                 className="bg-img"
-                style={{ backgroundImage: `url(/assets/img/process/01.jpg)` }}
+                style={{
+                  backgroundImage: `url(/assets/img/brt/slider/img3.jpg)`,
+                }}
               >
                 <h3 className="numb custom-font">01</h3>
               </div>
               <div className="cont">
-                <h6 className="mb-10">Concept</h6>
+                <h6 className="mb-10">Konsept</h6>
                 <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
               </div>
             </div>
@@ -44,12 +49,14 @@ const Process = () => {
             <div className="item">
               <div
                 className="bg-img"
-                style={{ backgroundImage: `url(/assets/img/process/02.jpg)` }}
+                style={{
+                  backgroundImage: `url(/assets/img/brt/slider/img4.jpg)`,
+                }}
               >
                 <h3 className="numb custom-font">02</h3>
               </div>
               <div className="cont">
-                <h6 className="mb-10">Design Process</h6>
+                <h6 className="mb-10">Tasarım Süreci</h6>
                 <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
               </div>
             </div>
@@ -61,12 +68,14 @@ const Process = () => {
             <div className="item">
               <div
                 className="bg-img"
-                style={{ backgroundImage: `url(/assets/img/process/03.jpg)` }}
+                style={{
+                  backgroundImage: `url(/assets/img/brt/slider/img2.jpg)`,
+                }}
               >
                 <h3 className="numb custom-font">03</h3>
               </div>
               <div className="cont">
-                <h6 className="mb-10">Supervision</h6>
+                <h6 className="mb-10">Revizyon</h6>
                 <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
               </div>
             </div>
@@ -75,12 +84,14 @@ const Process = () => {
             <div className="item">
               <div
                 className="bg-img"
-                style={{ backgroundImage: `url(/assets/img/process/04.jpg)` }}
+                style={{
+                  backgroundImage: `url(/assets/img/brt/slider/img1.jpg)`,
+                }}
               >
                 <h3 className="numb custom-font">04</h3>
               </div>
               <div className="cont">
-                <h6 className="mb-10">Budget Planning</h6>
+                <h6 className="mb-10">Teslim</h6>
                 <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
               </div>
             </div>
