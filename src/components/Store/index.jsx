@@ -39,13 +39,13 @@ const Store = () => {
       </div>
       {/* fireplace */}
       <div className="store-items-container-third">
-        <Link href="#">
+        <Link href="/fireplaces">
           <div className="store-image-container">
             <Image
               priority
               width={200}
               height={200}
-              src="/assets/img/stones/asimetrik/atacama/antracita.jpeg"
+              src="/assets/img/brt/fireplace/fireplace.jpg"
               alt=""
               className="img-fluid rounded-circle"
             />

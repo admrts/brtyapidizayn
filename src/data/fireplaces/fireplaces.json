@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Odunlu Şömineler",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Elektrikli Şömineler",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Doğalgazlı Şömineler",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Etanollü Şömineler",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg"
+  }
+]
