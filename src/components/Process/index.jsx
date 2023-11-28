@@ -31,14 +31,19 @@ const Process = () => {
               <div
                 className="bg-img"
                 style={{
-                  backgroundImage: `url(/assets/img/brt/slider/img3.jpg)`,
+                  backgroundImage: `url(/assets/img/brt/process/concept.png)`,
+                  backgroundSize: "100px",
+                  backgroundPosition: "center",
                 }}
               >
-                <h3 className="numb custom-font">01</h3>
+                {/* <h3 className="numb custom-font">01</h3> */}
               </div>
               <div className="cont">
                 <h6 className="mb-10">Konsept</h6>
-                <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
+                <p>
+                  Müşteri odaklı yaklaşımımızla, ortak vizyon oluşturarak
+                  konsept belirliyoruz.
+                </p>
               </div>
             </div>
           </div>
@@ -50,14 +55,19 @@ const Process = () => {
               <div
                 className="bg-img"
                 style={{
-                  backgroundImage: `url(/assets/img/brt/slider/img4.jpg)`,
+                  backgroundImage: `url(/assets/img/brt/process/design.png)`,
+                  backgroundSize: "100px",
+                  backgroundPosition: "center",
                 }}
               >
-                <h3 className="numb custom-font">02</h3>
+                {/* <h3 className="numb custom-font">02</h3> */}
               </div>
               <div className="cont">
                 <h6 className="mb-10">Tasarım Süreci</h6>
-                <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
+                <p>
+                  Ortak belirlenen konseptten ilham alarak detaylı tasarıma
+                  geçiyoruz birlikte.
+                </p>
               </div>
             </div>
           </div>
@@ -69,14 +79,19 @@ const Process = () => {
               <div
                 className="bg-img"
                 style={{
-                  backgroundImage: `url(/assets/img/brt/slider/img2.jpg)`,
+                  backgroundImage: `url(/assets/img/brt/process/revision.png)`,
+                  backgroundSize: "100px",
+                  backgroundPosition: "center",
                 }}
               >
-                <h3 className="numb custom-font">03</h3>
+                {/* <h3 className="numb custom-font">03</h3> */}
               </div>
               <div className="cont">
                 <h6 className="mb-10">Revizyon</h6>
-                <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
+                <p>
+                  Tasarımın son halini sizlerle birlikte revize ederek son
+                  dokunuşları yapıyoruz.
+                </p>
               </div>
             </div>
           </div>
@@ -85,14 +100,19 @@ const Process = () => {
               <div
                 className="bg-img"
                 style={{
-                  backgroundImage: `url(/assets/img/brt/slider/img1.jpg)`,
+                  backgroundImage: `url(/assets/img/brt/process/delivery.png)`,
+                  backgroundSize: "100px",
+                  backgroundPosition: "center",
                 }}
               >
-                <h3 className="numb custom-font">04</h3>
+                {/* <h3 className="numb custom-font">04</h3> */}
               </div>
               <div className="cont">
                 <h6 className="mb-10">Teslim</h6>
-                <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
+                <p>
+                  Tamamlanan projeyi zamanında ve eksiksiz olarak müşteriye
+                  teslim ediyoruz.
+                </p>
               </div>
             </div>
           </div>

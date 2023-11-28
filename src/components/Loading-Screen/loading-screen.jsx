@@ -29,9 +29,7 @@ const LoadingScreen = () => {
           strategy="beforeInteractive"
           src="/assets/js/pace.min.js"
         ></Script>
-      ) : (
-        ""
-      )}
+      ) : null}
     </>
   );
 };

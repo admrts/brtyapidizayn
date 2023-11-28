@@ -13,13 +13,3 @@
     transform: scale(1); /* Tekrar normal boyut */
   }
 }
-
-.vertical-text {
-  writing-mode: vertical-rl;
-  text-orientation: sideways;
-  transform: rotate(180deg);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  letter-spacing: 10px;
-}

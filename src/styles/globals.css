@@ -258,3 +258,8 @@ body.hideX .pace {
   height: 100%;
   border: 0;
 }
+
+.services {
+  background: url("/assets/img/line-pattern.png");
+  background-color: #f3ebdf;
+}
