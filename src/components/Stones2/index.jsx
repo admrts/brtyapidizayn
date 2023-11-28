@@ -6,7 +6,7 @@ const Stones2 = ({ title }) => {
   const data = stones.find((item) => item.title === title);
   return (
     <div
-      className="mt-100 container d-flex flex-column align-items-center justify-content-center gap-5"
+      className="pt-100 container d-flex flex-column align-items-center justify-content-center gap-5"
       style={{ minHeight: "80vh" }}
     >
       {data ? (

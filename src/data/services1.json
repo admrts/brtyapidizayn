@@ -2,22 +2,22 @@
   "image": "/assets/img/brt/slider/img3.jpg",
   "services": [
     {
-      "id": "01",
+      "id": "1",
       "title": "Statik Proje",
       "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
     },
     {
-      "id": "02",
+      "id": "2",
       "title": "Keşif Planlama",
       "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
     },
     {
-      "id": "03",
+      "id": "3",
       "title": "Mimari Proje",
       "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
     },
     {
-      "id": "04",
+      "id": "4",
       "title": "Dekorasyon",
       "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
     }

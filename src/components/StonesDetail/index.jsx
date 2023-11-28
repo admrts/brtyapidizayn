@@ -48,7 +48,7 @@ const Stones = ({ category, name }) => {
         ></div>
       ) : null}
       <div className="container ">
-        <h4 className="row justify-content-center ">{category}</h4>
+        <h4 className="row justify-content-center pt-100 ">{category}</h4>
         <div className="container">
           <div className=" details-page-kind-container">
             {stonesData
