@@ -5,7 +5,7 @@ import firesplacesList from "../../data/fireplaces/fireplaces.json";
 const FirePlaces = () => {
   return (
     <div className=" pt-100 container  position-relative fireplaces">
-      <video loop autoPlay className="video-bg">
+      <video loop autoPlay playsInline className="video-bg">
         <source
           src="/assets/img/brt/fireplace/fireplaces1.mp4"
           type="video/mp4"
