@@ -5,7 +5,7 @@ import IntroWithHorizontal from "../../components/Intro-with-horizontal";
 import LightLayout from "../../layouts/light";
 import SkillsCircle from "../../components/Skills-circle";
 import Testimonials from "../../components/Testimonials1";
-import Process from "../../components/Process";
+import Process from "../../components/Process3";
 
 const Home1 = () => {
   return (

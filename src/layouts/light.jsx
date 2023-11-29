@@ -11,7 +11,7 @@ const LightLayout = ({ children, footerClass }) => {
         <link rel="stylesheet" href="/assets/css/style-light.css" />
       </Head>
       <Navbar />
-      {children}
+      <div style={{ backgroundColor: "#f3ebdf" }}>{children}</div>
       <Footer classText={footerClass} />
     </>
   );
