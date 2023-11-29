@@ -26,7 +26,7 @@ const Services1 = () => {
               <h2 className="numb">{item.id}</h2>
               <h6 className="mb-20">{item.title}</h6>
               <p>{item.content}</p>
-              <Link href="/about">
+              <Link href="/hakkimizda">
                 <a className="more mt-30">Detay</a>
               </Link>
             </div>

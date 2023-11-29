@@ -7,7 +7,7 @@ const Store = () => {
     <div className="container mb-50 mt-100 store-container">
       {/* stones */}
       <div className="store-items-container-first">
-        <Link href="/stones">
+        <Link href="/kulturtaslari">
           <div className="store-image-container">
             <Image
               priority
@@ -23,7 +23,7 @@ const Store = () => {
       </div>
       {/* bricks */}
       <div className="store-items-container-second">
-        <Link href="/bricks">
+        <Link href="/kulturtuglalari">
           <div className="store-image-container">
             <Image
               priority
@@ -39,7 +39,7 @@ const Store = () => {
       </div>
       {/* fireplace */}
       <div className="store-items-container-third">
-        <Link href="/fireplaces">
+        <Link href="/somineler">
           <div className="store-image-container">
             <Image
               priority

@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const StoneCard = ({ item }) => {
   return (
-    <Link href={`/stones/${item.title}`}>
+    <Link href={`/kulturtaslari/${item.title}`}>
       <div className="stones-card" style={{ width: "18rem" }}>
         <div className="stones-page-image-container">
           <Image width={200} height={200} src={item.image} alt={item.title} />

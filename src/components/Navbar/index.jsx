@@ -70,7 +70,7 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                 </span>
               </li>
               <li className="nav-item">
-                <Link href="/about">
+                <Link href="/hakkimizda">
                   <a className="nav-link">Hakkımızda</a>
                 </Link>
               </li>
@@ -113,7 +113,7 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  <Link href="/store">Mağaza</Link>
+                  <Link href="/magaza">Mağaza</Link>
                 </span>
               </li>
               <li className="nav-item">

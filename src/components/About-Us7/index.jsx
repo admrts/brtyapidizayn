@@ -15,7 +15,7 @@ const AboutUs7 = () => {
                 nisi at porta convallis. In posuere interdum erat, et bibendum
                 arcu. Etiam quis viverra diam.
               </p>
-              <Link href="/about">
+              <Link href="/hakkimizda">
                 <a className="btn-curve btn-color mt-30">
                   <span>Read More</span>
                 </a>
