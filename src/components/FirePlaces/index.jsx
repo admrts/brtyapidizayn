@@ -1,5 +1,5 @@
 import React from "react";
-import StoneCard from "../StoneCard";
+import FireplaceCard from "../FireplaceCard";
 import firesplacesList from "../../data/fireplaces/fireplaces.json";
 
 const FirePlaces = () => {
@@ -10,7 +10,6 @@ const FirePlaces = () => {
           src="/assets/img/brt/fireplace/fireplaces1.mp4"
           type="video/mp4"
         />
-        Your browser does not support the video tag.
       </video>
 
       <div
@@ -20,7 +19,7 @@ const FirePlaces = () => {
         <h2 className="row justify-content-center">Şömineler</h2>
         <div className="row d-flex gap-3 justify-content-center mt-30 ">
           {firesplacesList.map((item) => (
-            <StoneCard item={item} key={item.id} />
+            <FireplaceCard item={item} key={item.id} />
           ))}
         </div>
       </div>

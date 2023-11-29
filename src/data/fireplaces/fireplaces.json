@@ -2,21 +2,61 @@
   {
     "id": "1",
     "title": "Odunlu Şömineler",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg"
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "odunulusomineler",
+    "types": [
+      {
+        "id": 1,
+        "title": "Klasik Şömine",
+        "image": "/assets/img/brt/fireplace/fireplace.jpg",
+        "href": "klasiksomine",
+        "type": "odunulusomineler"
+      },
+      {
+        "id": 2,
+        "title": "L Tipi Şömine",
+        "image": "/assets/img/brt/fireplace/fireplace.jpg",
+        "href": "Ltipisomine",
+        "type": "odunulusomineler"
+      },
+      {
+        "id": 3,
+        "title": "U Tipi Şömine",
+        "image": "/assets/img/brt/fireplace/fireplace.jpg",
+        "href": "Utipisomine",
+        "type": "odunulusomineler"
+      },
+      {
+        "id": 4,
+        "title": "Orta Şömine",
+        "image": "/assets/img/brt/fireplace/fireplace.jpg",
+        "href": "ortasomine",
+        "type": "odunulusomineler"
+      }
+    ]
   },
   {
     "id": 2,
     "title": "Elektrikli Şömineler",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg"
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "elektriklisomineler"
   },
   {
     "id": 3,
     "title": "Doğalgazlı Şömineler",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg"
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "dogalgazlısomineler"
   },
   {
     "id": 4,
     "title": "Etanollü Şömineler",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg"
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "etanollüsomineler"
+  },
+  {
+    "id": 5,
+    "title": "Sobalar",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "sobalar"
   }
 ]

@@ -13,6 +13,8 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <meta charSet="utf-8" />
+          <meta lang="tr" />
+          <meta translate="no" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="keywords"
@@ -23,8 +25,6 @@ class MyDocument extends Document {
             content="Archo - Onepage Multi-Purpose React nextjs Template"
           />
           <meta name="author" content="" />
-
-          {/* <link rel="shortcut icon" href="/assets/img/favicon.ico" /> */}
 
           <link
             href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"
