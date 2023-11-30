@@ -5,7 +5,7 @@ import data from "./cantenbury.json";
 const Page = () => {
   return (
     <MainLayout>
-      <FirePlaces data={data} />
+      <FirePlaces data={data} title={"Cantenbury"} />
     </MainLayout>
   );
 };

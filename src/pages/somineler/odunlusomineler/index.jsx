@@ -6,7 +6,7 @@ import odunlusomineler from "./odunlusomineler.json";
 const OdunluSomineler = () => {
   return (
     <MainLayout>
-      <FirePlaces data={odunlusomineler} />
+      <FirePlaces data={odunlusomineler} title={"Odunlu Şömineler"} />
     </MainLayout>
   );
 };

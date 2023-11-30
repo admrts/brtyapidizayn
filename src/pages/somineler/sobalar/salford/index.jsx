@@ -5,7 +5,7 @@ import data from "./salford.json";
 const Page = () => {
   return (
     <MainLayout>
-      <FirePlaces data={data} />
+      <FirePlaces data={data} title={"Salford"} />
     </MainLayout>
   );
 };

@@ -6,7 +6,7 @@ import data from "./whshire.json";
 const Page = () => {
   return (
     <MainLayout>
-      <FirePlaces data={data} />
+      <FirePlaces data={data} title={"W. Hshire Serisi"} />
     </MainLayout>
   );
 };

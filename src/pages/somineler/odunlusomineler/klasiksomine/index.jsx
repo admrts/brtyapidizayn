@@ -6,7 +6,7 @@ import FirePlaces from "../../../../components/FirePlaces";
 const Page = () => {
   return (
     <MainLayout>
-      <FirePlaces data={data} />
+      <FirePlaces data={data} title={"Klasik Şömineler"} />
     </MainLayout>
   );
 };

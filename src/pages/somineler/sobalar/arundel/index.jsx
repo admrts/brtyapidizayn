@@ -5,7 +5,7 @@ import data from "./arundel.json";
 const Page = () => {
   return (
     <MainLayout>
-      <FirePlaces data={data} />
+      <FirePlaces data={data} title={"Arundel Serisi"} />
     </MainLayout>
   );
 };

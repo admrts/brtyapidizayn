@@ -5,7 +5,7 @@ import data from "./elektrikli.json";
 const Page = () => {
   return (
     <MainLayout>
-      <FirePlaces data={data} />
+      <FirePlaces data={data} title={"Elektrikli Şömineler"} />
     </MainLayout>
   );
 };

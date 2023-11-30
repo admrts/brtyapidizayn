@@ -5,7 +5,7 @@ import data from "./sevenoaks.json";
 const Page = () => {
   return (
     <MainLayout>
-      <FirePlaces data={data} />
+      <FirePlaces data={data} title={"Sevenoaks Serisi"} />
     </MainLayout>
   );
 };

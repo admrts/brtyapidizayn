@@ -6,7 +6,7 @@ import somineler from "./somineler.json";
 const Somineler = () => {
   return (
     <MainLayout>
-      <FirePlaces data={somineler} />
+      <FirePlaces data={somineler} title={"Şömineler"} />
     </MainLayout>
   );
 };

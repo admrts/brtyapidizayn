@@ -5,7 +5,7 @@ import data from "./ripon.json";
 const Page = () => {
   return (
     <MainLayout>
-      <FirePlaces data={data} />
+      <FirePlaces data={data} title={"Ripon"} />
     </MainLayout>
   );
 };

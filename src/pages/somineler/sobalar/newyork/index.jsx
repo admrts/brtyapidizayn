@@ -5,7 +5,7 @@ import data from "./newyork.json";
 const Page = () => {
   return (
     <MainLayout>
-      <FirePlaces data={data} />
+      <FirePlaces data={data} title={"New York Serisi"} />
     </MainLayout>
   );
 };

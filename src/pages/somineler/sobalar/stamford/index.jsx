@@ -5,7 +5,7 @@ import data from "./stamford.json";
 const Page = () => {
   return (
     <MainLayout>
-      <FirePlaces data={data} />
+      <FirePlaces data={data} title={"Stamford Serisi"} />
     </MainLayout>
   );
 };
