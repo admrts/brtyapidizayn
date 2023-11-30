@@ -1,24 +1,19 @@
 import React from "react";
 import FireplaceCard from "../FireplaceCard";
-import firesplacesList from "../../data/fireplaces/fireplaces.json";
 
-const FirePlaces = () => {
+import FireplaceBackground from "../FireplaceBackground";
+
+const FirePlaces = ({ data }) => {
   return (
-    <div className=" pt-100 container  position-relative fireplaces">
-      <video loop autoPlay playsInline className="video-bg">
-        <source
-          src="/assets/img/brt/fireplace/fireplaces1.mp4"
-          type="video/mp4"
-        />
-      </video>
-
+    <div className=" pt-100 container fireplaces ">
+      <FireplaceBackground />
       <div
         className=" container d-flex flex-column align-items-center justify-content-center gap-5"
-        style={{ minHeight: "70vh" }}
+        style={{ height: "100%" }}
       >
         <h2 className="row justify-content-center">Şömineler</h2>
-        <div className="row d-flex gap-3 justify-content-center mt-30 ">
-          {firesplacesList.map((item) => (
+        <div className="row d-flex gap-3 justify-content-center mt-30 align-items-center ">
+          {data.map((item) => (
             <FireplaceCard item={item} key={item.id} />
           ))}
         </div>

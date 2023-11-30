@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "EK-01",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/elektriklisomineler/ek01"
+  },
+  {
+    "id": 2,
+    "name": "EK-02",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/elektriklisomineler/ek02"
+  },
+  {
+    "id": 3,
+    "name": "EK-03",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/elektriklisomineler/ek03"
+  },
+  {
+    "id": 4,
+    "name": "EK-04",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/elektriklisomineler/ek04"
+  }
+]

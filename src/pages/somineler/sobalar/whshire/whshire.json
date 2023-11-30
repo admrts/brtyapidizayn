@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "W. Hshire M Wood Burning",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/whsireserisi/mwoodburning"
+  },
+  {
+    "id": 2,
+    "name": "W. Hshire S Wood Burning",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/whsireserisi/swoodburning"
+  },
+  {
+    "id": 3,
+    "name": "W. Hshire L Wood Burning",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/whsireserisi/lwood"
+  }
+]

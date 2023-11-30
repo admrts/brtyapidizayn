@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "York Double Wood Burning Steve 34B",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/york/double34b"
+  },
+  {
+    "id": 2,
+    "name": "York Wood Burning Steve 34A",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/york/wood34a"
+  },
+  {
+    "id": 3,
+    "name": "New York Vision Multi Fuel 60C",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/york/vision60c"
+  },
+  {
+    "id": 4,
+    "name": "New York Double Multi Fuel 60B",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/york/double60b"
+  },
+  {
+    "id": 5,
+    "name": "New York Multi Fuel Steve 60",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/york/steve60"
+  }
+]

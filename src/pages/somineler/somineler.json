@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Odunlu Şömineler",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/odunlusomineler"
+  },
+  {
+    "id": 2,
+    "name": "Elektrikli Şömineler",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/elektriklisomineler"
+  },
+  {
+    "id": 3,
+    "name": "Doğalgazlı Şömineler",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/dogalgazlısomineler"
+  },
+  {
+    "id": 4,
+    "name": "Etanollü Şömineler",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/etanollüsomineler"
+  },
+  {
+    "id": 5,
+    "name": "Sobalar",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar"
+  }
+]

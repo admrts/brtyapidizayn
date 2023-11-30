@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "BlackPool Vision Multi Fuel 61C",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/blackpool/vision61c"
+  },
+  {
+    "id": 2,
+    "name": "BlackPool Double Multi Fuel Steve 61B",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/blackpool/double61b"
+  },
+  {
+    "id": 3,
+    "name": "BlackPool Multi Fuel Steve 61",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/blackpool/steve61"
+  }
+]

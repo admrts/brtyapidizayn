@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Klasik Şömine",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/odunlusomineler/klasiksomine"
+  },
+  {
+    "id": 2,
+    "name": "L Tipi Şömine",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/odunlusomineler/ltipisomine"
+  },
+  {
+    "id": 3,
+    "name": "U Tipi Şömine",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/odunlusomineler/utipisomine"
+  },
+  {
+    "id": 4,
+    "name": "Orta Şömine",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/odunlusomineler/ortasomine"
+  }
+]

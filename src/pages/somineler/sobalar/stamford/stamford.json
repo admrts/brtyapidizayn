@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Stamford DRW Multi Fuel Steve 29B",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/stamford/drw29b"
+  },
+  {
+    "id": 2,
+    "name": "Stamford DRW Multi Fuel Steve 29A",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/stamford/drw29a"
+  },
+  {
+    "id": 3,
+    "name": "Stamford DRW Multi Fuel Steve 25B",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/stamford/drw25B"
+  }
+]

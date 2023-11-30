@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "W. Hshire Serisi",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/whshire"
+  },
+  {
+    "id": 2,
+    "name": "Stamford Serisi",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/stamford"
+  },
+  {
+    "id": 3,
+    "name": "Arundel Serisi",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/arundel"
+  },
+  {
+    "id": 4,
+    "name": "Sevenoaks Serisi",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/sevenoaks"
+  },
+  {
+    "id": 5,
+    "name": "BlackPool Serisi",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/blackpool"
+  },
+  {
+    "id": 6,
+    "name": "New York Serisi",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/newyork"
+  },
+  {
+    "id": 7,
+    "name": "York Serisi",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/york"
+  },
+  {
+    "id": 8,
+    "name": "Ripon Serisi",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/ripon"
+  },
+  {
+    "id": 9,
+    "name": "Lincoln",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/lincoln"
+  },
+  {
+    "id": 10,
+    "name": "Salford",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/salford"
+  },
+  {
+    "id": 11,
+    "name": "Preston",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/preston"
+  },
+  {
+    "id": 12,
+    "name": "Cantenbury",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/sobalar/cantenbury"
+  }
+]

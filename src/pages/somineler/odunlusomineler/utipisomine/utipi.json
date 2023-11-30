@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Stirling",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/odunlusomineler/utipisomine/stirling"
+  },
+  {
+    "id": 2,
+    "name": "Edinburgh",
+    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "href": "somineler/odunlusomineler/utipisomine/edinburgh"
+  }
+]
