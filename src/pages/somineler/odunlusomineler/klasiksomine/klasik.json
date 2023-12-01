@@ -2,61 +2,61 @@
   {
     "id": 1,
     "name": "Oxford S",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfords.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/oxfords"
   },
   {
     "id": 2,
     "name": "Oxford L",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordL.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/oxfordl"
   },
   {
     "id": 3,
     "name": "Oxford SP",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordsp.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/oxfordsp"
   },
   {
     "id": 4,
     "name": "Oxford LP",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordLp.webp",
     "href": "somineler/odunlusomineler/klasiksomine/oxfordlp"
   },
   {
     "id": 5,
     "name": "Luton",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/luton.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/luton"
   },
   {
     "id": 6,
     "name": "Oxford LM",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordLm.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/oxfordlm"
   },
   {
     "id": 7,
     "name": "Arsenal S",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/arsenals.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/arsenals"
   },
   {
     "id": 8,
     "name": "Arsenal L",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/arsenalL.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/arsenall"
   },
   {
     "id": 9,
     "name": "Hereford",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/hereford.webp",
     "href": "somineler/odunlusomineler/klasiksomine/hereford"
   },
   {
     "id": 10,
     "name": "Wake Field",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/wakefield.webp",
     "href": "somineler/odunlusomineler/klasiksomine/wakefield"
   }
 ]
