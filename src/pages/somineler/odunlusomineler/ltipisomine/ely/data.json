@@ -1,0 +1,16 @@
+{
+  "name": "Ely",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/ltipi/ely.webp",
+  "subImage1": "/assets/img/brt/fireplace/odunlu/ltipi/ely-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/odunlu/ltipi/ely-02.webp",
+  "width": "75",
+  "height": "54",
+  "depth": "35",
+  "description": "Bu seride tamamen klasik modellerden çıktığımız modern bir mimari ile harikalar yaratacağız. Şimdi şöminenin tadını iki farklı açıdan çıkarma zamanı geldi.",
+  "effiency": "85%",
+  "heatOutput": "17kW",
+  "nominalOutput": "6.3kW",
+  "coEmissions": "12%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "150-250 m²"
+}

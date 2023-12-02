@@ -1,0 +1,16 @@
+{
+  "name": "Edinburgh",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/utipi/edinburgh.webp",
+  "subImage1": "/assets/img/brt/fireplace/odunlu/utipi/edinburgh-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/odunlu/utipi/edinburgh-02.webp",
+  "width": "110",
+  "height": "54",
+  "depth": "35",
+  "description": "İşte buradayız, olağandışı tasarımıyla üç farklı açıdan görülebilen muhteşem dizaynımızla aydınlatmak, ısıtmak ve modern bir görünüm yaratmak için.",
+  "effiency": "89%",
+  "heatOutput": "18kW",
+  "nominalOutput": "6.3kW",
+  "coEmissions": "12%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "150-250 m²"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Stirling",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/utipi/stirling.webp",
+  "subImage1": "/assets/img/brt/fireplace/odunlu/utipi/stirling-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/odunlu/utipi/stirling-02.webp",
+  "width": "60",
+  "height": "54",
+  "depth": "70",
+  "description": "Evlerinizin orta bölmeleri için harika bir fikirle ortaya çıktık. Bu modelde tamamen kendi tasarımımız olan tamamen farklı bir dizayn sunuyoruz. Evleriniz artık daha modern.",
+  "effiency": "86%",
+  "heatOutput": "16kW",
+  "nominalOutput": "6.3kW",
+  "coEmissions": "12%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "150-250 m²"
+}
