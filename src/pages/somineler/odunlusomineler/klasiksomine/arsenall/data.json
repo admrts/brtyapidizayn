@@ -1,8 +1,8 @@
 {
   "name": "Arsenal L",
-  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/arsenalL.jpeg",
-  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/arsenalL-02.webp",
-  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/arsenalL-01.webp",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/arsenall.jpeg",
+  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/arsenall-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/arsenall-02.webp",
   "width": "100",
   "height": "200",
   "depth": "300",
