@@ -5,9 +5,6 @@ import MainLayout from "../../layouts/main";
 import { WorkTwoColumn } from "../../components/Work-Two-Column";
 
 const Dekorasyon = () => {
-  React.useEffect(() => {
-    document.querySelector("body").classList.add("index3");
-  }, []);
   return (
     <MainLayout>
       <WorkHeader

@@ -5,9 +5,6 @@ import MainLayout from "../../layouts/main";
 import { WorkTwoColumn } from "../../components/Work-Two-Column";
 
 const KesifPlanlama = () => {
-  React.useEffect(() => {
-    document.querySelector("body").classList.add("index3");
-  }, []);
   return (
     <MainLayout>
       <WorkHeader

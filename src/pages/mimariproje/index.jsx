@@ -5,16 +5,12 @@ import MainLayout from "../../layouts/main";
 import { WorkTwoColumn } from "../../components/Work-Two-Column";
 
 const MimariProje = () => {
-  React.useEffect(() => {
-    document.querySelector("body").classList.add("index3");
-  }, []);
   return (
     <MainLayout>
       <WorkHeader
         title={{
           first: "Mimari Proje",
         }}
-        // title = "text",
         content="Mimari projeler, estetik ve işlevsellik açısından tasarlanmış binaların planlamasını içerir. Yapının dış görünümü, iç mekân düzenlemesi ve kullanıcı ihtiyaçları mimari projelerde önceliklidir. Firmamız, deneyimli mimarlarımızla özgün, işlevsel ve estetik açıdan zengin mimari projeler sunar. Her müşteriye özel çözümler üreterek kaliteyi ön planda tutar."
       />
       <WorkTwoColumn />

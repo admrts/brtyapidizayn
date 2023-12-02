@@ -5,9 +5,6 @@ import ContactWithMap from "../../components/Contact-with-map";
 import MainLayout from "../../layouts/main";
 
 const Iletisim = () => {
-  React.useEffect(() => {
-    document.querySelector("body").classList.add("index3");
-  }, []);
   return (
     <MainLayout>
       <PageHeader
