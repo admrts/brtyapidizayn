@@ -1,0 +1,18 @@
+{
+  "name": "Arsenal L",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/arsenalL.jpeg",
+  "subImage": [
+    "/assets/img/brt/fireplace/odunlu/klasik/arsenalL.jpeg",
+    "/assets/img/brt/fireplace/odunlu/klasik/arsenalL.jpeg"
+  ],
+  "width": "700",
+  "height": "520",
+  "depth": "440",
+  "warranty": "10 Yıl",
+  "description": "",
+  "heatingCapacity": "150-250m2",
+  "effiency": "82%",
+  "heatOutput": "14-16kw",
+  "nominalOutput": "6.3kW",
+  "coEmissions": "12%"
+}

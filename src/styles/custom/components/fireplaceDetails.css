@@ -1,0 +1,19 @@
+.fireplace-details-main-image {
+  border-radius: 10%;
+}
+.fireplace-details-main-image-container span {
+  box-shadow: 6px 8px 11px 0px #401e00;
+  -webkit-box-shadow: 6px 8px 11px 0px #401e00;
+  -moz-box-shadow: 6px 8px 11px 0px #401e00;
+  border-radius: 10%;
+}
+
+.fireplace-detail-description {
+  line-height: 2;
+  margin-top: 20px;
+}
+.fireplace-detail-divider {
+  width: 100%;
+  border: 0.5px solid #401e00;
+  margin-top: 20px;
+}
