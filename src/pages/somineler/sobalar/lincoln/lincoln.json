@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "name": "Lincoln Double Wood Burning Steve 8B",
+    "name": "Lincoln Double Wood Burning Stove 8B",
     "image": "/assets/img/brt/fireplace/fireplace.jpg",
-    "href": "somineler/sobalar/lincoln/double8b"
+    "href": "somineler/sobalar/lincoln/double-wood-burning-stove-8b"
   },
   {
     "id": 2,
-    "name": "Lincoln Wood Burning steve 8A",
+    "name": "Lincoln Wood Burning Stove 8A",
     "image": "/assets/img/brt/fireplace/fireplace.jpg",
-    "href": "somineler/sobalar/lincoln/steve8a"
+    "href": "somineler/sobalar/lincoln/wood-burning-stove-8a"
   }
 ]

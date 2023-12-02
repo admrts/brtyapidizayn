@@ -1,0 +1,16 @@
+{
+  "name": "BlackPool Double Multi Fuel Stove 61B",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/blackpool/61.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/blackpool/61-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/blackpool/61-02.webp",
+  "width": "52",
+  "height": "43",
+  "depth": "110",
+  "description": "Blackpool modeli, harika pizzalar pişirmenizi vaat ediyor. Muhteşem görünümü ve döküm kalitesiyle sadece evinizi ısıtmakla kalmaz, aynı zamanda size eşsiz tatlar sunarız.",
+  "effiency": "89%",
+  "heatOutput": "12kW",
+  "nominalOutput": "11.4kW",
+  "coEmissions": "0.12%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-150m2"
+}

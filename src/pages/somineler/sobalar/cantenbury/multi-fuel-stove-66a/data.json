@@ -1,0 +1,16 @@
+{
+  "name": "Cantenbury Multi Fuel Stove 66A",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/cantenbury/66a.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/cantenbury/66a-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/cantenbury/66a-02.webp",
+  "width": "59",
+  "height": "52",
+  "depth": "85",
+  "description": "Zarif ve incelikli görünümüyle Cantenbury, en sofistike iç mekanlarda bile uyum sağlayacak bir sobadır. Tasarımı süpürülmüş kıvrımlı bacaklar ve mısır tarzı üst bölüm gibi, diğer sobalarda bulunmayan benzersiz klasik özellikleri içerir.",
+  "effiency": "85%",
+  "heatOutput": "15kW",
+  "nominalOutput": "14kW",
+  "coEmissions": "0.20%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-175m2"
+}

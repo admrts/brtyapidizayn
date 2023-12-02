@@ -1,0 +1,16 @@
+{
+  "name": "Lincoln Double Wood Burning Stove 8B",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/lincoln/8b.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/lincoln/8b-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/lincoln/8b-02.webp",
+  "width": "70",
+  "height": "42",
+  "depth": "75",
+  "description": "Lincoln Double, çevreci ve verimli ısıtmanın özünü temsil eder. Odun sobası piyasadaki en temizlerden biri olup çevre dostu bir enerji kaynağını temsil eder.",
+  "effiency": "75%",
+  "heatOutput": "12kW",
+  "nominalOutput": "11.3kW",
+  "coEmissions": "0.12%",
+  "warranty": "2 Yıl",
+  "heatingCapacity": "50-150m2"
+}

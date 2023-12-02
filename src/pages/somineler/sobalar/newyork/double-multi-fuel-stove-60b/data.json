@@ -1,0 +1,16 @@
+{
+  "name": "New York Double Multi Fuel Stove 60B",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/newyork/60b.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/newyork/60b-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/newyork/60b-02.webp",
+  "width": "52",
+  "height": "43",
+  "depth": "67",
+  "description": "Bu ürün, New York modeli ile aynıdır ve yan pencerelere sahiptir. Ayrıca, odanın daha iyi ısınmasını sağlarken benzersiz odun alevini izleme olanağı sunar.",
+  "effiency": "90%",
+  "heatOutput": "12kW",
+  "nominalOutput": "10kW",
+  "coEmissions": "0.12%-0.20%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-175m2"
+}

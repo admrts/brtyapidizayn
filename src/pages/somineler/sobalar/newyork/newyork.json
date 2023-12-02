@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "name": "New York Vision Multi Fuel Steve 60C",
+    "name": "New York Vision Multi Fuel Stove 60C",
     "image": "/assets/img/brt/fireplace/fireplace.jpg",
-    "href": "somineler/sobalar/newyork/vision60c"
+    "href": "somineler/sobalar/newyork/vision-multi-fuel-stove-60c"
   },
   {
     "id": 2,
-    "name": "New York Double Multi Fuel Steve 60B",
+    "name": "New York Double Multi Fuel Stove 60B",
     "image": "/assets/img/brt/fireplace/fireplace.jpg",
-    "href": "somineler/sobalar/newyork/double60b"
+    "href": "somineler/sobalar/newyork/double-multi-fuel-stove-60b"
   },
   {
     "id": 3,
-    "name": "New York Multi Fuel Steve 60",
+    "name": "New York Multi Fuel Stove 60",
     "image": "/assets/img/brt/fireplace/fireplace.jpg",
-    "href": "somineler/sobalar/newyork/steve60"
+    "href": "somineler/sobalar/newyork/multi-fuel-stove-60"
   },
   {
     "id": 4,
-    "name": "York Double Wood Burning Steve 34B",
+    "name": "York Double Wood Burning Stove 34B",
     "image": "/assets/img/brt/fireplace/fireplace.jpg",
-    "href": "somineler/sobalar/newyork/steve34b"
+    "href": "somineler/sobalar/newyork/wood-burning-stove-34b"
   },
   {
     "id": 5,
-    "name": "York Wood Burning Steve 34A",
+    "name": "York Wood Burning Stove 34A",
     "image": "/assets/img/brt/fireplace/fireplace.jpg",
-    "href": "somineler/sobalar/newyork/steve34a"
+    "href": "somineler/sobalar/newyork/wood-burning-stove-34a"
   }
 ]

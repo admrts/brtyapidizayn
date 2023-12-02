@@ -10,6 +10,7 @@ const FireplaceDetails = ({ data }) => {
             width={400}
             height={500}
             className="fireplace-details-main-image"
+            objectFit="cover"
           />
         </div>
         <div className="col-12 col-md-6 pt-50">

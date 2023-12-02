@@ -1,0 +1,16 @@
+{
+  "name": "Lincoln Wood Burning Stove 8A",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/lincoln/8a.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/lincoln/8a-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/lincoln/8a-02.webp",
+  "width": "70",
+  "height": "42",
+  "depth": "75",
+  "description": "Lincoln, çevreci ve verimli ısıtmanın özünü temsil ediyor. Odun sobası piyasadaki en temizlerden biri olup çevre dostu bir enerji kaynağını temsil ediyor.",
+  "effiency": "75%",
+  "heatOutput": "12kW",
+  "nominalOutput": "11.3kW",
+  "coEmissions": "0.12%",
+  "warranty": "2 Yıl",
+  "heatingCapacity": "50-150m2"
+}

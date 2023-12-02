@@ -1,0 +1,16 @@
+{
+  "name": "New York Multi Fuel Stove 60",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/newyork/60.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/newyork/60-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/newyork/60-02.webp",
+  "width": "52",
+  "height": "43",
+  "depth": "67",
+  "description": "Modern bir ortam için ideal soba seçeneği. Şık silindirik hatları, odanın içinde durmasına ve çekici ve son derece etkili bir ısı kaynağı sağlamasına olanak tanır. 4 serisi odun yakmalı soba olarak mevcuttur.",
+  "effiency": "90%",
+  "heatOutput": "12kW",
+  "nominalOutput": "10kW",
+  "coEmissions": "0.12%-0.20%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-75m2"
+}

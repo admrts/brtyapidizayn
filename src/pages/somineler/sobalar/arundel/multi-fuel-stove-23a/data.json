@@ -1,0 +1,16 @@
+{
+  "name": "Arundel Multi Fuel Stove 23A",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/arundel/arundel23a.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/arundel/arundel23a-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/arundel/arundel23a-02.webp",
+  "width": "42",
+  "height": "70",
+  "depth": "70",
+  "description": "Bu ateş kutusu sağlamlığı ve zarafeti bir araya getirerek ısıtma deneyiminizi özgüvenle yaşamanızı sağlar.",
+  "effiency": "84%",
+  "heatOutput": "13kW",
+  "nominalOutput": "12.3kW",
+  "coEmissions": "0.20%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-150m2"
+}
