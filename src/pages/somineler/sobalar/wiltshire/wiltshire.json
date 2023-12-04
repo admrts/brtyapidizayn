@@ -2,19 +2,19 @@
   {
     "id": 1,
     "name": "Wiltshire M Wood Burning",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/sobalar/wiltshire/m.webp",
     "href": "somineler/sobalar/wiltshire/m-wood-burning"
   },
   {
     "id": 2,
     "name": "Wiltshire S Wood Burning",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/sobalar/wiltshire/s.webp",
     "href": "somineler/sobalar/wiltshire/s-wood-burning"
   },
   {
     "id": 3,
     "name": "Wiltshire L Wood Burning",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/sobalar/wiltshire/l.webp",
     "href": "somineler/sobalar/wiltshire/l-wood-burning"
   }
 ]

@@ -3778,9 +3778,6 @@ body {
 /* ====================== [ Start Footer ] ====================== */
 footer {
   background: #401e00;
-  width: calc(100% - 50px);
-  margin-left: 25px;
-  margin-bottom: 25px;
   color: #fff;
   padding: 100px 0;
 }

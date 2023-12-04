@@ -5,17 +5,17 @@ import MainLayout from "../../layouts/main";
 import { WorkTwoColumn } from "../../components/Work-Two-Column";
 
 const StatikProje = () => {
-  React.useEffect(() => {
-    document.querySelector("body").classList.add("index3");
-  }, []);
+  const title = "Statik Proje";
+  const content =
+    "Statik projeler, bina ve altyapıların dayanıklılığını sağlayan temel unsurlardan biridir. Mimarlar ve inşaat mühendisleri tarafından oluşturulan bu projeler, yapıların stabilitesini, yük taşıma kapasitesini ve güvenliğini belirler. Doğru hesaplamalar ve mühendislik prensipleriyle oluşturulan statik projeler, binaların uzun ömürlü olmasını sağlar. Firmamız, uzman kadrosuyla güvenilir ve etkili statik proje hizmetleri sunmaktadır.";
   return (
     <MainLayout>
       <WorkHeader
         title={{
-          first: "Statik Proje",
+          first: title,
         }}
         // title = "text",
-        content="Statik projeler, bina ve altyapıların dayanıklılığını sağlayan temel unsurlardan biridir. Mimarlar ve inşaat mühendisleri tarafından oluşturulan bu projeler, yapıların stabilitesini, yük taşıma kapasitesini ve güvenliğini belirler. Doğru hesaplamalar ve mühendislik prensipleriyle oluşturulan statik projeler, binaların uzun ömürlü olmasını sağlar. Firmamız, uzman kadrosuyla güvenilir ve etkili statik proje hizmetleri sunmaktadır."
+        content={content}
       />
       <WorkTwoColumn />
     </MainLayout>

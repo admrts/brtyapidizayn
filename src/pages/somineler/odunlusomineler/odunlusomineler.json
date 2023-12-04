@@ -2,19 +2,19 @@
   {
     "id": 1,
     "name": "Klasik Şömine",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/arsenals.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine"
   },
   {
     "id": 2,
     "name": "L Tipi Şömine",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/ltipi/ely.webp",
     "href": "somineler/odunlusomineler/ltipisomine"
   },
   {
     "id": 3,
     "name": "U Tipi Şömine",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/utipi/stirling.webp",
     "href": "somineler/odunlusomineler/utipisomine"
   },
   {

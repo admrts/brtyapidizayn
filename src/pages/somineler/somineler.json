@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Odunlu Şömineler",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/arsenall.jpeg",
     "href": "somineler/odunlusomineler"
   },
   {
@@ -26,7 +26,7 @@
   {
     "id": 5,
     "name": "Sobalar",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
+    "image": "/assets/img/brt/fireplace/sobalar/blackpool/61.webp",
     "href": "somineler/sobalar"
   }
 ]

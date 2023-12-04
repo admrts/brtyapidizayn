@@ -4916,11 +4916,8 @@ body {
 /* ====================== [ Start Footer ] ====================== */
 footer {
   background: #401e00;
-  width: calc(100% - 50px);
-  margin-left: 25px;
-  margin-bottom: 25px;
-  color: #f3ebdf;
   padding: 100px 0;
+  color: #fff;
 }
 footer .item .title h5 {
   margin-bottom: 30px;
