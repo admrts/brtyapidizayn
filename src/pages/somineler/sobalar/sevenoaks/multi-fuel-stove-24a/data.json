@@ -1,0 +1,16 @@
+{
+  "name": "Sevenoaks Multi Fuel Stove 24A",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/sevenoaks/24a.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/sevenoaks/24a-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/sevenoaks/24a-02.webp",
+  "width": "42",
+  "height": "70",
+  "depth": "70",
+  "description": "Sevenoaks, yoğun kullanım için tasarlanmış bir sobadır ve yanma odası uzun bir süre boyunca homojen ısıyı korumaya yardımcı olur.",
+  "effiency": "84%",
+  "heatOutput": "13kW",
+  "nominalOutput": "12.3kW",
+  "coEmissions": "0.20%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-150m2"
+}

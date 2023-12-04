@@ -1,0 +1,16 @@
+{
+  "name": "Stamford DRW Multi Fuel Stove 29B",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/stamford/29b.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/stamford/29b-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/stamford/29b-02.webp",
+  "width": "52",
+  "height": "89",
+  "depth": "75",
+  "description": "Bu daha çağdaş görünüm, birimin doğrudan yanmaz bir yüzeye yerleştirilmesini tercih edenler için minimalist bir görüntü sunar.",
+  "effiency": "75%",
+  "heatOutput": "18kW",
+  "nominalOutput": "16kW",
+  "coEmissions": "0.20%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-250m2"
+}

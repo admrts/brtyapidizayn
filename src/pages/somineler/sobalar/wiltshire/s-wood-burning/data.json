@@ -1,0 +1,16 @@
+{
+  "name": "Wiltshire M Wood Burning",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/wiltshire/m.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/wiltshire/m-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/wiltshire/m-02.webp",
+  "width": "41",
+  "height": "33",
+  "depth": "53",
+  "description": "Wiltshire Medium, detaylara özenle tasarlanmıştır. Karmaşık desenli kapılardan ince işlenmiş kulplara kadar, bu sobanın her elemanı dikkatlice düşünülerek bir araya getirilmiş, uyumlu ve göze hoş gelen bir tasarım oluşturmak için tasarlanmıştır.",
+  "effiency": "82%",
+  "heatOutput": "4.9kW",
+  "nominalOutput": "4.3kW",
+  "coEmissions": "0.08%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-150m2"
+}

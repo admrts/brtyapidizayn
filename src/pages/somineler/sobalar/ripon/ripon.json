@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "name": "Ripon Wood Burning Steve 2A",
+    "name": "Ripon Wood Burning Stove 2A",
     "image": "/assets/img/brt/fireplace/fireplace.jpg",
-    "href": "somineler/sobalar/ripon/steve2a"
+    "href": "somineler/sobalar/ripon/wood-burning-stove-2a"
   },
   {
     "id": 2,
-    "name": "Ripon Double Multi Fuel Steve 2B",
+    "name": "Ripon Double Multi Fuel Stove 2B",
     "image": "/assets/img/brt/fireplace/fireplace.jpg",
-    "href": "somineler/sobalar/ripon/steve2b"
+    "href": "somineler/sobalar/ripon/double-multi-fuel-stove-2b"
   }
 ]

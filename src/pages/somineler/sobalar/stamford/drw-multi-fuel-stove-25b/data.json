@@ -1,0 +1,16 @@
+{
+  "name": "Stamford DRW Multi Fuel Stove 25B",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/stamford/25b.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/stamford/25b-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/stamford/25b-02.webp",
+  "width": "42",
+  "height": "75",
+  "depth": "105",
+  "description": "Sunshine serisindeki en çok yönlü sobalardan biri. Basit ve düz hatları sayesinde farklı oda tarzlarına rahatlıkla uyum sağlayabilir ve çağdaş mimari tarzındaki bir yangın çevresi için ideal iç mekandır. Ayrıca entegre odun depolama alanıyla da bulunmaktadır.",
+  "effiency": "75%",
+  "heatOutput": "15kW",
+  "nominalOutput": "14.3kW",
+  "coEmissions": "0.20%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-250m2"
+}

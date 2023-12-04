@@ -1,0 +1,16 @@
+{
+  "name": "York Wood Burning Stove 34A",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/york/34a.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/york/34a-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/york/34a-02.webp",
+  "width": "39",
+  "height": "34",
+  "depth": "58",
+  "description": "Bu, daha küçük alanlarınızı ısıtmak için ideal bir üründür. Karavan, küçük odalar ve birçok farklı mekanda kullanabilirsiniz.",
+  "effiency": "75%",
+  "heatOutput": "4.5kW",
+  "nominalOutput": "4.3kW",
+  "coEmissions": "0.12%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "25-75cm2"
+}

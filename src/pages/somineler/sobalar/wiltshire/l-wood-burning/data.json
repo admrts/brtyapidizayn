@@ -1,0 +1,16 @@
+{
+  "name": "Wiltshire L Wood Burning",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/wiltshire/l.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/wiltshire/l-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/wiltshire/l-02.webp",
+  "width": "49",
+  "height": "33",
+  "depth": "59",
+  "description": "Wiltshire Large, temiz çizgilere ve minimalist bir tasarıma sahiptir, bu da şık ve çağdaş bir görünüm oluşturur. Kompakt boyutu ve akıcı silueti, küçük ve büyük alanlar için ideal olmasını sağlar, iç mekana sorunsuz bir şekilde uyum sağlamasına olanak tanır.",
+  "effiency": "84%",
+  "heatOutput": "5kW",
+  "nominalOutput": "4.3kW",
+  "coEmissions": "0.1%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-150m2"
+}

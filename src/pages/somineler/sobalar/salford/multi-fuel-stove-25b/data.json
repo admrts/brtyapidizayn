@@ -1,0 +1,16 @@
+{
+  "name": "Salford Multi Fuel Stove 25B",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/salford/25b.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/salford/25b-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/salford/25b-02.webp",
+  "width": "42",
+  "height": "75",
+  "depth": "105",
+  "description": "Sunshine serisindeki en çok yönlü sobalardan biri. Basit ve temiz hatları, geniş bir oda tarzı yelpazesinde rahatça yer almasını sağlar ve çağdaş mimari tarzında bir yangın çevresi için ideal iç mekanı oluşturur. Ayrıca entegre odun depolama alanıyla da mevcuttur.",
+  "effiency": "75%",
+  "heatOutput": "14kW",
+  "nominalOutput": "14.3kW",
+  "coEmissions": "0.20%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-250m2"
+}

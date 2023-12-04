@@ -1,0 +1,16 @@
+{
+  "name": "Stamford DRW Multi Fuel Stove 29A",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/stamford/29a.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/stamford/29a-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/stamford/29a-02.webp",
+  "width": "52",
+  "height": "89",
+  "depth": "75",
+  "description": "Kışın sert koşullarıyla başa çıkmak üzere özel olarak tasarlanan Stamford, özellikle zorlu hava koşullarının olduğu bir bölgede yaşayanlar için her geniş evde olmazsa olmaz bir üründür.",
+  "effiency": "75%",
+  "heatOutput": "18kW",
+  "nominalOutput": "16kW",
+  "coEmissions": "0.20%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-250m2"
+}

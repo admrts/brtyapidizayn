@@ -1,0 +1,16 @@
+{
+  "name": "Ripon Double Multi Fuel Stove 2B",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/ripon/2b.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/ripon/2b-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/ripon/2b-02.webp",
+  "width": "70",
+  "height": "42",
+  "depth": "75",
+  "description": "Ripon, çevre dostu ve verimli ısıtmanın özünü temsil eder. Ahşap sobası, piyasadaki en temizlerden biridir ve çevre dostu bir enerji kaynağını temsil eder.",
+  "effiency": "75%",
+  "heatOutput": "12kW",
+  "nominalOutput": "11.3kW",
+  "coEmissions": "0.12%",
+  "warranty": "2 Yıl",
+  "heatingCapacity": "50-150m2"
+}

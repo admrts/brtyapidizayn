@@ -1,0 +1,16 @@
+{
+  "name": "New York Vision Multi Fuel Stove 60C",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/york/60c.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/york/60c-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/york/60c-02.webp",
+  "width": "52",
+  "height": "43",
+  "depth": "67",
+  "description": "Bu ürün, New York modeli ile aynı özelliklere sahip olup yan pencerelere sahiptir. Ayrıca odanın daha iyi ısınmasıyla birlikte benzersiz odun alevini izleme imkanı sunar. Yan açılış özelliği ile daha konforlu bir kullanım sağlar.",
+  "effiency": "90%",
+  "heatOutput": "12kW",
+  "nominalOutput": "10kW",
+  "coEmissions": "0.12%-%20",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "25-75cm2"
+}

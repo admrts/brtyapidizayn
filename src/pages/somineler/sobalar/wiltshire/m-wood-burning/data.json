@@ -1,0 +1,16 @@
+{
+  "name": "Wiltshire S Wood Burning",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/wiltshire/s.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/wiltshire/s-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/wiltshire/s-02.webp",
+  "width": "44",
+  "height": "35",
+  "depth": "49",
+  "description": "Zarif tasarımıyla, Wiltshire Small odayı odak noktası haline getirir, dikkat çeker ve sıcak ve davetkân bir atmosfer yaratır. Oturma odasına, yemek odasına veya yatak odasına yerleştirilmiş olsun, bu şömine, odanın genel estetiğini arttıran bir merkez parça haline gelir.",
+  "effiency": "83%",
+  "heatOutput": "4.9kW",
+  "nominalOutput": "4.3kW",
+  "coEmissions": "0.09%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-150m2"
+}

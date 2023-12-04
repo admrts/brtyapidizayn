@@ -1,0 +1,16 @@
+{
+  "name": "New York Multi Fuel Stove 60",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/york/60.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/york/60-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/york/60-02.webp",
+  "width": "52",
+  "height": "43",
+  "depth": "67",
+  "description": "Modern bir ortam için ideal şömine seçimi. Zarif silindirik hatları, odanın içinde durmasını sağlar ve çekici ve oldukça etkili bir ısı kaynağı sunar. 4 serisi odun yakmalı şömine olarak mevcuttur.",
+  "effiency": "90%",
+  "heatOutput": "12kW",
+  "nominalOutput": "10kW",
+  "coEmissions": "0.12%-%20",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-75m2"
+}

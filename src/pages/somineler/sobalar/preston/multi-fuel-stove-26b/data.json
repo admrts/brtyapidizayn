@@ -1,0 +1,16 @@
+{
+  "name": "Preston Multi Fuel Stove 26B",
+  "mainImage": "/assets/img/brt/fireplace/sobalar/preston/26b.webp",
+  "subImage1": "/assets/img/brt/fireplace/sobalar/preston/26b-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/sobalar/preston/26b-02.webp",
+  "width": "42",
+  "height": "72",
+  "depth": "105",
+  "description": "Her bir Preston'un tasarımını karakterize eden detaylara dikkat çeker. Alınlık kısmı ve sağlam kaide, şöminenin ana gövdesiyle mükemmel orantıda durur; burada Preston'un ticari markası olan geniş camlı izleme penceresi bulunur.",
+  "effiency": "82%",
+  "heatOutput": "15kW",
+  "nominalOutput": "14kW",
+  "coEmissions": "0.20%",
+  "warranty": "5 Yıl",
+  "heatingCapacity": "50-175m2"
+}
