@@ -31,8 +31,8 @@ const Services3 = ({ bigTitle, grid }) => {
 
         <div className="row justify-content-center gap-2">
           {services3Data.map((item, index) => (
-            <Link href={item.href}>
-              <div className="col-lg-3 services-item-container" key={item.id}>
+            <Link href={item.href} key={item.id}>
+              <div className="col-lg-3 services-item-container">
                 <div
                   className="item-bx bg-img wow fadeInUp"
                   data-wow-delay={

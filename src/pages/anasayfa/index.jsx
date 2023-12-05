@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
-import Services1 from "../../components/Services3";
+import Services3 from "../../components/Services3";
 import IntroWithHorizontal from "../../components/Intro-with-horizontal";
 import LightLayout from "../../layouts/light";
 import Testimonials from "../../components/Testimonials1";
@@ -10,7 +10,7 @@ const Home1 = () => {
   return (
     <LightLayout>
       <IntroWithHorizontal />
-      <Services1 />
+      <Services3 />
       <Process />
       <Testimonials />
     </LightLayout>
