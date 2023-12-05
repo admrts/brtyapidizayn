@@ -6,7 +6,7 @@ const Footer = ({ classText }) => {
   const date = new Date();
   const currentYear = date.getFullYear();
   return (
-    <footer className={`${classText ? "classText" : ""}`}>
+    <footer className={`${classText ? "classText" : ""} mt-30`}>
       <div className="container ">
         <div className="row justify-content-between">
           <div className="col-lg-4">

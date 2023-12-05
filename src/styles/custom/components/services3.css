@@ -1,0 +1,15 @@
+.services3-title {
+  color: #401e00;
+}
+.services-item-container:hover .services3-title {
+  color: #fff;
+}
+.services-item-container {
+  cursor: pointer;
+}
+#services-item-icon {
+  color: #401e00;
+}
+.services-item-container:hover #services-item-icon {
+  color: #fff;
+}

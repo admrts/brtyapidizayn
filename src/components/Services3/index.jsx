@@ -29,19 +29,23 @@ const Services3 = ({ bigTitle, grid }) => {
           </div>
         )}
 
-        <div className="row">
+        <div className="row justify-content-center gap-2">
           {services3Data.map((item, index) => (
-            <div className="col-lg-4" key={item.id}>
-              <div
-                className="item-bx bg-img wow fadeInUp"
-                data-wow-delay={index == 0 ? ".3s" : index == 1 ? ".5s" : ".7s"}
-                style={{ backgroundImage: `url(${item.image})` }}
-              >
-                <span className={item.icon}></span>
-                <h6 className="mb-20 text-light">{item.title}</h6>
-                <p>{item.content}</p>
+            <Link href={item.href}>
+              <div className="col-lg-3 services-item-container" key={item.id}>
+                <div
+                  className="item-bx bg-img wow fadeInUp"
+                  data-wow-delay={
+                    index == 0 ? ".3s" : index == 1 ? ".5s" : ".7s"
+                  }
+                  style={{ backgroundImage: `url(${item.image})` }}
+                >
+                  <span id="services-item-icon" className={item.icon}></span>
+                  <h6 className="mb-20 services3-title">{item.title}</h6>
+                  <p>{item.content}</p>
+                </div>
               </div>
-            </div>
+            </Link>
           ))}
         </div>
       </div>

@@ -3,21 +3,48 @@
     "id": 1,
     "image": "/assets/img/brt/slider/img2.jpg",
     "icon": "icon flaticon-home-1",
-    "title": "Mimarlık",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+    "title": "Statik Proje",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.",
+    "href": "statikproje"
   },
   {
     "id": 2,
     "image": "/assets/img/brt/slider/img4.jpg",
     "icon": "icon flaticon-living-room",
-    "title": "İç Mekan Tasarımı",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+    "title": "Mimari Proje",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.",
+    "href": "mimariproje"
   },
   {
     "id": 3,
     "image": "/assets/img/brt/slider/img1.jpg",
     "icon": "icon flaticon-interior-design",
-    "title": "3 Boyutlu Modelleme",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+    "title": "Keşif Planlama",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.",
+    "href": "kesifplanlama"
+  },
+  {
+    "id": 4,
+    "image": "/assets/img/brt/slider/img4.jpg",
+    "icon": "icon flaticon-living-room",
+    "title": "Lazer Tarama & 3D Modelleme",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.",
+    "href": "lazertarama3dmodelleme"
+  },
+  {
+    "id": 5,
+    "image": "/assets/img/brt/slider/img4.jpg",
+    "icon": "icon flaticon-interior-design",
+    "title": "Dekorasyon",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.",
+    "href": "dekorasyon"
+  },
+  {
+    "id": 6,
+    "image": "/assets/img/brt/slider/img4.jpg",
+    "icon": "icon flaticon-home-1",
+    "title": "Çelik Konstrüksiyon",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.",
+    "href": "celikkonstruksiyon"
   }
 ]
