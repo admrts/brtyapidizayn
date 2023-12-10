@@ -2,49 +2,53 @@
   {
     "id": 1,
     "title": {
-      "first": "Architecture & interior",
-      "second": "Innovative Architecture"
+      "first": "Yenilikçi Mimari",
+      "second": "Mimari Proje"
     },
     "content": {
-      "first": "Right design and right ideas matter a lot of in interior design",
-      "second": "business. a style that makes a statement."
+      "first": "Yenilikçi mimari, sınırları zorlayarak estetik, ",
+      "second": "teknoloji ve çevre uyumunu birleştirerek geleceği şekillendirir."
     },
-    "image": "/assets/img/brt/slider/img1.jpg"
+    "image": "/assets/img/brt/slider/img1.jpg",
+    "href": "/mimariproje"
   },
   {
     "id": 2,
     "title": {
-      "first": "Architecture & interior",
-      "second": "Classic and Modern"
+      "first": "Dayanıklı ve Esnek Yapı Malzemesi",
+      "second": "Çelik Konstrüksiyon"
     },
     "content": {
-      "first": "Right design and right ideas matter a lot of in interior design",
-      "second": "business. a style that makes a statement."
+      "first": "Çelik konstrüksiyon, yapıların sağlamlığını ve estetiğini birleştirerek ",
+      "second": "modern mimariye dayanak sağlayan önemli bir yapı malzemesidir."
     },
-    "image": "/assets/img/brt/slider/img2.jpg"
+    "image": "/assets/img/brt/slider/img2.jpg",
+    "href": "/celikkonstruksiyon"
   },
   {
     "id": 3,
     "title": {
-      "first": "Architecture & interior",
-      "second": "Elegant & Unique Design"
+      "first": "Mekan Analizi ve Planlama",
+      "second": "Dekorasyon"
     },
     "content": {
-      "first": "Right design and right ideas matter a lot of in interior design",
-      "second": "business. a style that makes a statement."
+      "first": "Estetik ve fonksiyonu birleştirerek özgün iç mekanlar tasarlayarak yaşamınıza değer katıyoruz. ",
+      "second": "Profesyonel iç mimarlık hizmetleri için buradayız!"
     },
-    "image": "/assets/img/brt/slider/img3.jpg"
+    "image": "/assets/img/brt/slider/img3.jpg",
+    "href": "/dekorasyon"
   },
   {
     "id": 4,
     "title": {
-      "first": "Architecture & interior",
-      "second": "Interior Design agency"
+      "first": "Mağaza",
+      "second": "Kültür Taşı ve Şömineler"
     },
     "content": {
-      "first": "Right design and right ideas matter a lot of in interior design",
-      "second": "business. a style that makes a statement."
+      "first": "Zarif şömine ve kültür taşı çözümleriyle ",
+      "second": "yaşam alanlarınıza sıcaklık ve estetik katıyoruz."
     },
-    "image": "/assets/img/brt/slider/img4.jpg"
+    "image": "/assets/img/brt/slider/img4.jpg",
+    "href": "/magaza"
   }
 ]
