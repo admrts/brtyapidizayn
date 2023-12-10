@@ -4,7 +4,7 @@
     "image": "/assets/img/brt/slider/img2.jpg",
     "icon": "icon flaticon-home-1",
     "title": "Statik Proje",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.",
+    "content": "Dayanıklılık ve Güvenilirlik İçin Profesyonel Statik Proje Çözümleri Sunuyoruz.",
     "href": "statikproje"
   },
   {
@@ -12,7 +12,7 @@
     "image": "/assets/img/brt/slider/img4.jpg",
     "icon": "icon flaticon-living-room",
     "title": "Mimari Proje",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.",
+    "content": "Yaratıcı, Fonksiyonel ve Estetik Mimari Projelerimizi Keşfedin.",
     "href": "mimariproje"
   },
   {
@@ -20,7 +20,7 @@
     "image": "/assets/img/brt/slider/img1.jpg",
     "icon": "icon flaticon-interior-design",
     "title": "Keşif Planlama",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.",
+    "content": "Detaylı Keşif ve Planlama: Mükemmel Projeler İçin Temel Adım.",
     "href": "kesifplanlama"
   },
   {
@@ -28,7 +28,7 @@
     "image": "/assets/img/brt/slider/img4.jpg",
     "icon": "icon flaticon-living-room",
     "title": "Lazer Tarama & 3D Modelleme",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.",
+    "content": "Keskin Lazer Tarama ve Hassas 3D Modelleme Çözümleri Sunuyoruz.",
     "href": "lazertarama3dmodelleme"
   },
   {
@@ -36,7 +36,7 @@
     "image": "/assets/img/brt/slider/img4.jpg",
     "icon": "icon flaticon-interior-design",
     "title": "Dekorasyon",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.",
+    "content": "Estetikten fonksiyona; Mekanlarınızı özelleştiriyoruz, tarzınızı yansıtın.",
     "href": "dekorasyon"
   },
   {
@@ -44,7 +44,7 @@
     "image": "/assets/img/brt/slider/img4.jpg",
     "icon": "icon flaticon-home-1",
     "title": "Çelik Konstrüksiyon",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat.",
+    "content": "İleri teknolojiyle özelleştirilmiş çelik yapılarımızda estetik ve dayanıklılığı bir arada bulun.",
     "href": "celikkonstruksiyon"
   }
 ]

@@ -4,7 +4,7 @@ import React from "react";
 
 const Store = () => {
   return (
-    <div className="container mb-50 mt-100 store-container">
+    <div className="container mb-100 mt-100 store-container">
       {/* stones */}
       <div className="store-items-container-first">
         <Link href="/kulturtaslari">

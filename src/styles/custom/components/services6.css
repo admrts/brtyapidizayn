@@ -1,0 +1,29 @@
+.btn-magaza {
+  border: 1px solid #401e00;
+  text-align: center;
+  padding: 10px 20px;
+  color: #401e00;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.btn-magaza:hover {
+  background-color: #401e00;
+  color: #f3ebdf;
+}
+
+.services6-title {
+  text-align: center;
+  margin-bottom: 50px;
+  color: #401e00;
+}
+
+.services6-image {
+  border-radius: 10%;
+}
+.services6-image-container span {
+  box-shadow: 6px 8px 11px 0px #401e00;
+  -webkit-box-shadow: 6px 8px 11px 0px #401e00;
+  -moz-box-shadow: 6px 8px 11px 0px #401e00;
+  border-radius: 10%;
+}

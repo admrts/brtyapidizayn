@@ -10,7 +10,7 @@ const MainLayout = ({ children, logoClassText }) => {
         <link rel="stylesheet" href="/assets/css/style.css" />
       </Head>
       <Navbar logoClass={logoClassText} />
-      {children}
+      <div>{children}</div>
       <Footer />
     </>
   );
