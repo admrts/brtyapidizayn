@@ -11,7 +11,7 @@ const Brands2 = () => {
           <div className="brands col-lg-2 col-4">
             <div className="item mb-40" data-wow-delay=".3s">
               <div className="img">
-                <img src="/assets/img/clients/brands/01.png" alt="" />
+                <img src="/assets/img/clients/1.png" alt="" />
               </div>
               <Split>
                 <Link href="#" data-splitting>
@@ -23,7 +23,7 @@ const Brands2 = () => {
           <div className="brands col-lg-2 col-4">
             <div className="item mb-40" data-wow-delay=".6s">
               <div className="img">
-                <img src="/assets/img/clients/brands/02.png" alt="" />
+                <img src="/assets/img/clients/2.png" alt="" />
               </div>
               <Split>
                 <Link href="#" data-splitting>
@@ -35,7 +35,7 @@ const Brands2 = () => {
           <div className="brands col-lg-2 col-4">
             <div className="item mb-40" data-wow-delay=".8s">
               <div className="img">
-                <img src="/assets/img/clients/brands/03.png" alt="" />
+                <img src="/assets/img/clients/3.png" alt="" />
               </div>
               <Split>
                 <Link href="#" data-splitting>
@@ -47,7 +47,7 @@ const Brands2 = () => {
           <div className="brands col-lg-2 col-4">
             <div className="item mb-40" data-wow-delay=".3s">
               <div className="img">
-                <img src="/assets/img/clients/brands/04.png" alt="" />
+                <img src="/assets/img/clients/4.png" alt="" />
               </div>
               <Split>
                 <Link href="#" data-splitting>

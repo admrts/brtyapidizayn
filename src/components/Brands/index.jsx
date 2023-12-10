@@ -9,35 +9,35 @@ const Brands = () => {
           <div className="col-lg col-md-3 col-sm-6">
             <div className="item">
               <div className="img">
-                <img src="/assets/img/clients/brands/1.png" alt="" />
+                <img src="/assets/img/clients/1.png" alt="" />
               </div>
             </div>
           </div>
           <div className="col-lg col-md-3 col-sm-6">
             <div className="item">
               <div className="img">
-                <img src="/assets/img/clients/brands/2.png" alt="" />
+                <img src="/assets/img/clients/2.png" alt="" />
               </div>
             </div>
           </div>
           <div className="col-lg col-md-3 col-sm-6">
             <div className="item">
               <div className="img">
-                <img src="/assets/img/clients/brands/1.png" alt="" />
+                <img src="/assets/img/clients/1.png" alt="" />
               </div>
             </div>
           </div>
           <div className="col-lg col-md-3 col-sm-6">
             <div className="item">
               <div className="img">
-                <img src="/assets/img/clients/brands/2.png" alt="" />
+                <img src="/assets/img/clients/2.png" alt="" />
               </div>
             </div>
           </div>
           <div className="col-lg col-md-3 col-sm-6">
             <div className="item">
               <div className="img">
-                <img src="/assets/img/clients/brands/1.png" alt="" />
+                <img src="/assets/img/clients/1.png" alt="" />
               </div>
             </div>
           </div>

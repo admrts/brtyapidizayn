@@ -43,11 +43,8 @@ class Testimonials1 extends React.Component {
               <div className="section-head text-center">
                 <div className="row justify-content-center">
                   <div className="col-lg-6 col-md-8 col-sm-10">
-                    <h6 className="wow fadeInDown" data-wow-delay=".3s">
-                      Testimonials
-                    </h6>
                     <h4 className="playfont wow flipInX" data-wow-delay=".5s">
-                      What People Says?
+                      Referanslar
                     </h4>
                   </div>
                 </div>

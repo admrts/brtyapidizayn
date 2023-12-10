@@ -2,9 +2,9 @@ import React from "react";
 import MainLayout from "../../layouts/main";
 import PageHeader from "../../components/Page-header";
 import AboutUs4 from "../../components/About-Us5";
-import Services3 from "../../components/Services3";
 import Testimonials1 from "../../components/Testimonials1";
-import Team2 from "../../components/Team2";
+import Vision from "../../components/Vision";
+import Brands3 from "../../components/Brands3";
 
 const About = () => {
   return (
@@ -17,9 +17,10 @@ const About = () => {
         ]}
         image="/assets/img/brt/about/about.jpg"
       />
+      <Vision />
       <AboutUs4 />
-      <Services3 bigTitle grid />
-      <Testimonials1 bigTitle />
+      <Testimonials1 />
+      <Brands3 />
     </MainLayout>
   );
 };
