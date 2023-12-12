@@ -13,26 +13,23 @@
   gap: 100px;
   margin-left: 150px;
   margin-top: 50px;
+  cursor: pointer;
 }
 .store-items-container-second {
   display: flex;
   align-items: center;
   justify-content: flex-end;
   gap: 100px;
+  cursor: pointer;
 }
 .store-items-container-third {
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 100px;
-}
-
-.store-image-container:hover {
-  box-shadow: #401e0075 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px,
-    rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px,
-    rgba(0, 0, 0, 0.09) 0px -3px 5px;
   cursor: pointer;
 }
+
 .store-image-container span {
   border-radius: 50%;
   width: 200px;
