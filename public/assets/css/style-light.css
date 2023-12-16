@@ -744,9 +744,8 @@ span:hover {
   transition-delay: 1s;
 }
 .loading-text {
-  font-weight: 300;
-  text-transform: uppercase;
-  letter-spacing: 10px;
+  font-weight: 100;
+  letter-spacing: 15px;
   position: absolute;
   top: calc(50% - 30px);
   left: 50%;
@@ -754,7 +753,7 @@ span:hover {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   color: #f3ebdf;
-  font-family: "Teko", sans-serif;
+  /* font-family: "Teko", sans-serif; */
   z-index: 9999;
 }
 .loading-text.isdone {
