@@ -1,6 +1,6 @@
 import React from "react";
 import MainLayout from "../../../../layouts/main";
-import data from "./klasik.json";
+import data from "./data.json";
 import FirePlaces from "../../../../components/FirePlaces";
 
 const Page = () => {
