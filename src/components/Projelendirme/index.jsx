@@ -1,5 +1,6 @@
 import Image from "next/image";
 import React from "react";
+import blurData from "../../common/blurdataUrl";
 
 const Projelendirme = () => {
   return (
@@ -14,6 +15,8 @@ const Projelendirme = () => {
             height={200}
             width={200}
             className="img-fluid rounded-circle"
+            placeholder="blur"
+            blurDataURL={() => blurData("/assets/img/brt/contact/contact.jpg")}
           />
         </div>
         <h4>Mimari Proje</h4>
@@ -28,6 +31,8 @@ const Projelendirme = () => {
             height={200}
             width={200}
             className="img-fluid rounded-circle"
+            placeholder="blur"
+            blurDataURL={() => blurData("/assets/img/brt/contact/contact.jpg")}
           />
         </div>
         <h4>Statik Proje</h4>
@@ -42,6 +47,8 @@ const Projelendirme = () => {
             height={200}
             width={200}
             className="img-fluid rounded-circle"
+            placeholder="blur"
+            blurDataURL={() => blurData("/assets/img/brt/contact/contact.jpg")}
           />
         </div>
         <h4>Mimari Proje</h4>
@@ -56,6 +63,8 @@ const Projelendirme = () => {
             height={200}
             width={200}
             className="img-fluid rounded-circle"
+            placeholder="blur"
+            blurDataURL={() => blurData("/assets/img/brt/contact/contact.jpg")}
           />
         </div>
         <h4>Mimari Proje</h4>

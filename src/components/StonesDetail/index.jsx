@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import stones from "../../data/stonesBricks/stones.json";
 import bricks from "../../data/stonesBricks/bricks.json";
 import Image from "next/image";
+import blurData from "../../common/blurdataUrl";
 
 const Stones = ({ category, name }) => {
   const [mainImage, setMainImage] = useState();
@@ -82,6 +83,8 @@ const Stones = ({ category, name }) => {
                   src={mainImage.image}
                   alt={mainImage.title}
                   onClick={handleMainImageClick}
+                  placeholder="blur"
+                  blurDataURL={() => blurData(mainImage.image)}
                 />
               </div>
             ) : null}
@@ -99,6 +102,8 @@ const Stones = ({ category, name }) => {
                       src={item.image}
                       alt={item.title}
                       onClick={() => handleColorsClick(item)}
+                      placeholder="blur"
+                      blurDataURL={() => blurData(item.image)}
                     />
                     <div className="text-center mt-10">{item.title}</div>
                   </div>
@@ -138,6 +143,8 @@ const ImagePreviewModal = ({ item, setImagePreview }) => {
         alt={item.title}
         height={700}
         width={1000}
+        placeholder="blur"
+        blurDataURL={() => blurData(item.image)}
       />
     </div>
   );

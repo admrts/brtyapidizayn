@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
+import blurData from "../../common/blurdataUrl";
 
 const Services6 = () => {
   return (
@@ -16,6 +17,12 @@ const Services6 = () => {
                 src="/assets/img/stones/asimetrik/atacama/antracita.jpeg"
                 alt=""
                 className="img-fluid rounded-circle    "
+                placeholder="blur"
+                blurDataURL={() =>
+                  blurData(
+                    "/assets/img/stones/asimetrik/atacama/antracita.jpeg"
+                  )
+                }
               />
             </div>
             <div className="article-container">
@@ -40,6 +47,10 @@ const Services6 = () => {
                 src="/assets/img/stones/tuglalar/java/cotto.jpeg"
                 alt=""
                 className="img-fluid rounded-circle "
+                placeholder="blur"
+                blurDataURL={() =>
+                  blurData("/assets/img/stones/tuglalar/java/cotto.jpeg")
+                }
               />
             </div>
           </Link>
@@ -63,6 +74,10 @@ const Services6 = () => {
                 src="/assets/img/brt/fireplace/fireplace.jpg"
                 alt=""
                 className="img-fluid rounded-circle"
+                placeholder="blur"
+                blurDataURL={() =>
+                  blurData("/assets/img/brt/fireplace/fireplace.jpg")
+                }
               />
             </div>
           </Link>

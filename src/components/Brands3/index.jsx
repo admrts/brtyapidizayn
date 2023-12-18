@@ -1,5 +1,6 @@
 import Image from "next/image";
 import React from "react";
+import blurData from "../../common/blurdataUrl";
 
 const Brands3 = () => {
   return (
@@ -15,6 +16,8 @@ const Brands3 = () => {
               src="/assets/img/brt/brands/bmw.svg"
               width={300}
               height={150}
+              placeholder="blur"
+              blurDataURL={() => blurData("/assets/img/brt/brands/bmw.svg")}
             />
           </div>
         </div>
@@ -25,6 +28,10 @@ const Brands3 = () => {
               src="/assets/img/brt/brands/coca-cola.svg"
               width={300}
               height={150}
+              placeholder="blur"
+              blurDataURL={() =>
+                blurData("/assets/img/brt/brands/coca-cola.svg")
+              }
             />
           </div>
         </div>
@@ -35,6 +42,8 @@ const Brands3 = () => {
               src="/assets/img/brt/brands/google.svg"
               width={300}
               height={150}
+              placeholder="blur"
+              blurDataURL={() => blurData("/assets/img/brt/brands/google.svg")}
             />
           </div>
         </div>
@@ -45,6 +54,10 @@ const Brands3 = () => {
               src="/assets/img/brt/brands/mcdonalds.svg"
               width={300}
               height={150}
+              placeholder="blur"
+              blurDataURL={() =>
+                blurData("/assets/img/brt/brands/mcdonalds.svg")
+              }
             />
           </div>
         </div>

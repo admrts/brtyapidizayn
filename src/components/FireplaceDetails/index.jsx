@@ -1,4 +1,5 @@
 import Image from "next/image";
+import blurData from "../../common/blurdataUrl";
 
 const FireplaceDetails = ({ data }) => {
   return (
@@ -12,6 +13,8 @@ const FireplaceDetails = ({ data }) => {
             height={500}
             className="fireplace-details-main-image"
             objectFit="cover"
+            placeholder="blur"
+            blurDataURL={() => blurData(data.mainImage)}
           />
         </div>
         <div className="col-12 col-md-6 pt-50">
@@ -50,6 +53,8 @@ const FireplaceDetails = ({ data }) => {
             width={200}
             height={250}
             className="fireplace-details-main-image"
+            placeholder="blur"
+            blurDataURL={() => blurData(data.subImage1)}
           />
         </div>
         <div className="col-12 col-md-6 d-flex justify-content-around align-items-center gap-3 order-md-1 order-0 mb-25">
@@ -60,6 +65,10 @@ const FireplaceDetails = ({ data }) => {
                 src="/assets/img/brt/fireplace/svg/effiency.svg"
                 width={30}
                 height={30}
+                placeholder="blur"
+                blurDataURL={() =>
+                  blurData("/assets/img/brt/fireplace/svg/effiency.svg")
+                }
               />
             </div>
             <div>Effiency</div>
@@ -72,6 +81,10 @@ const FireplaceDetails = ({ data }) => {
                 src="/assets/img/brt/fireplace/svg/heat-output.svg"
                 width={30}
                 height={30}
+                placeholder="blur"
+                blurDataURL={() =>
+                  blurData("/assets/img/brt/fireplace/svg/heat-output.svg")
+                }
               />
             </div>
             <div>Heat-Output</div>
@@ -84,6 +97,10 @@ const FireplaceDetails = ({ data }) => {
                 src="/assets/img/brt/fireplace/svg/nominal-output.svg"
                 width={30}
                 height={30}
+                placeholder="blur"
+                blurDataURL={() =>
+                  blurData("/assets/img/brt/fireplace/svg/nominal-output.svg")
+                }
               />
             </div>
             <div>Nomimal-Output</div>
@@ -96,6 +113,10 @@ const FireplaceDetails = ({ data }) => {
                 src="/assets/img/brt/fireplace/svg/emissions.svg"
                 width={30}
                 height={30}
+                placeholder="blur"
+                blurDataURL={() =>
+                  blurData("/assets/img/brt/fireplace/svg/emissions.svg")
+                }
               />
             </div>
             <div>Co-Emissions</div>
@@ -109,6 +130,8 @@ const FireplaceDetails = ({ data }) => {
             width={200}
             height={250}
             className="fireplace-details-main-image"
+            placeholder="blur"
+            blurDataURL={() => blurData(data.subImage2)}
           />
         </div>
       </div>
