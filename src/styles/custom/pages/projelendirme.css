@@ -61,11 +61,11 @@ h3 {
 
 @media screen and (max-width: 960px) {
   .projelendirme-card-container-first {
-    justify-content: center;
+    justify-content: space-around;
     margin-left: 0px;
   }
   .projelendirme-card-container-second {
-    justify-content: center;
+    justify-content: space-around;
     margin-right: 0px;
   }
 
@@ -76,11 +76,11 @@ h3 {
     order: 0;
   }
   .projelendirme-card-container-third {
-    justify-content: center;
+    justify-content: space-around;
     padding-left: 0px;
   }
   .projelendirme-card-container-fourth {
-    justify-content: center;
+    justify-content: space-around;
     margin-left: 0px;
   }
   .projelendirme-card-container-fourth div {

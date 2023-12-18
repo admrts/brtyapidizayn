@@ -339,39 +339,9 @@
       }
     ]
   },
+
   {
     "id": 2,
-    "title": "Hardwood",
-    "image": "/assets/img/stones/hardwood/mountLeuser/arena.jpeg",
-    "description": "1 Model 3 Renk",
-    "kind": [
-      {
-        "id": 1,
-        "title": "MountLeuser",
-        "category": "Hardwood",
-        "image": "/assets/img/stones/hardwood/mountLeuser/arena.jpeg",
-        "colors": [
-          {
-            "id": 1,
-            "title": "Arena",
-            "image": "/assets/img/stones/hardwood/mountLeuser/arena.jpeg"
-          },
-          {
-            "id": 2,
-            "title": "Ceniza",
-            "image": "/assets/img/stones/hardwood/mountLeuser/ceniza.jpeg"
-          },
-          {
-            "id": 3,
-            "title": "Marron",
-            "image": "/assets/img/stones/hardwood/mountLeuser/marron.jpeg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 3,
     "title": "Modüler",
     "image": "/assets/img/stones/moduler/evo/bianco.jpeg",
     "description": "7 Model 16 Renk",
@@ -591,6 +561,29 @@
             "id": 7,
             "title": "Tramonto",
             "image": "/assets/img/stones/moduler/volantis/tramonto.jpeg"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "MountLeuser",
+        "category": "Modüler",
+        "image": "/assets/img/stones/hardwood/mountLeuser/arena.jpeg",
+        "colors": [
+          {
+            "id": 1,
+            "title": "Arena",
+            "image": "/assets/img/stones/hardwood/mountLeuser/arena.jpeg"
+          },
+          {
+            "id": 2,
+            "title": "Ceniza",
+            "image": "/assets/img/stones/hardwood/mountLeuser/ceniza.jpeg"
+          },
+          {
+            "id": 3,
+            "title": "Marron",
+            "image": "/assets/img/stones/hardwood/mountLeuser/marron.jpeg"
           }
         ]
       }
