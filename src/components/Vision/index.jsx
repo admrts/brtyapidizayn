@@ -1,8 +1,12 @@
 import React from "react";
+import Head from "next/head";
 
 const Vision = () => {
   return (
     <div className="container mt-100 ">
+      <Head>
+        <meta name="keywords" content="sdsd" />
+      </Head>
       <div className="row">
         <div className="col-12 col-lg-6 mb-30">
           <h3>Vizyon</h3>

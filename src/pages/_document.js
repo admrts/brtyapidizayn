@@ -16,14 +16,7 @@ class MyDocument extends Document {
           <meta lang="tr" />
           <meta translate="no" />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <meta
-            name="keywords"
-            content="React Nextjs Template Archo onepage themeforest"
-          />
-          <meta
-            name="description"
-            content="Archo - Onepage Multi-Purpose React nextjs Template"
-          />
+
           <meta name="author" content="" />
 
           <link

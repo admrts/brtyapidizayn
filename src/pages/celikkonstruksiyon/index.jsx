@@ -3,6 +3,7 @@ import React from "react";
 import WorkHeader from "../../components/Work-header";
 import MainLayout from "../../layouts/main";
 import { WorkTwoColumn } from "../../components/Work-Two-Column";
+import Head from "next/head";
 
 const CelikKonstruksiyon = () => {
   const title = "Çelik Konstrüksiyon";
@@ -11,6 +12,11 @@ const CelikKonstruksiyon = () => {
 
   return (
     <MainLayout>
+      <Head>
+        <title>Çelik Konstruksiyon</title>
+        <meta name="description" content={title} />
+        <meta name="description" content={content} />
+      </Head>
       <WorkHeader
         title={{
           first: title,

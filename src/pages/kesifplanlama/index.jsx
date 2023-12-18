@@ -3,6 +3,7 @@ import React from "react";
 import WorkHeader from "../../components/Work-header";
 import MainLayout from "../../layouts/main";
 import { WorkTwoColumn } from "../../components/Work-Two-Column";
+import Head from "next/head";
 
 const KesifPlanlama = () => {
   const title = "Keşif Planlama";
@@ -10,6 +11,10 @@ const KesifPlanlama = () => {
     "Keşif planlama, inşaat projelerinin başlangıcında önemli bir adımdır. Bu aşamada, maliyet analizi, kaynak tahmini ve proje planlaması yapılır. Firmamız, uzman ekipleriyle detaylı keşif planlaması sunar. Proje gereksinimlerini değerlendirir, bütçe ve zaman çerçevesinde optimize edilmiş çözümler sunarak projenin başarılı bir şekilde ilerlemesini sağlar.";
   return (
     <MainLayout>
+      <Head>
+        <title>Keşif Planlama</title>
+        <meta name="keywords" content={content} />
+      </Head>
       <WorkHeader
         title={{
           first: title,
