@@ -6,7 +6,7 @@ const Services6 = () => {
   return (
     <div className="services6-section">
       <div className="container homepage-store-container">
-        <Link href="/kulturtaslari">
+        <Link href="/kulturtaslari" passHref>
           <div className="homepage-store-items-container-first">
             <div className="homepage-store-image-container">
               <Image
@@ -31,7 +31,7 @@ const Services6 = () => {
         </Link>
 
         <div className="homepage-store-items-container-second">
-          <Link href="/kulturtuglalari">
+          <Link href="/kulturtuglalari" passHref>
             <div className="homepage-store-image-container">
               <Image
                 priority
@@ -54,7 +54,7 @@ const Services6 = () => {
           </div>
         </div>
         <div className="homepage-store-items-container-third">
-          <Link href="/somineler">
+          <Link href="/somineler" passHref>
             <div className="homepage-store-image-container">
               <Image
                 priority

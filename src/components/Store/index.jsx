@@ -6,7 +6,7 @@ const Store = () => {
   return (
     <div className="container mb-100 mt-100 store-container">
       {/* stones */}
-      <Link href="/kulturtaslari">
+      <Link href="/kulturtaslari" passHref>
         <div className="store-items-container-first">
           <div className="store-image-container">
             <Image
@@ -23,7 +23,7 @@ const Store = () => {
       </Link>
       {/* bricks */}
       <div className="store-items-container-second">
-        <Link href="/kulturtuglalari">
+        <Link href="/kulturtuglalari" passHref>
           <div className="store-image-container">
             <Image
               priority
@@ -39,7 +39,7 @@ const Store = () => {
       </div>
       {/* fireplace */}
       <div className="store-items-container-third">
-        <Link href="/somineler">
+        <Link href="/somineler" passHref>
           <div className="store-image-container">
             <Image
               priority

@@ -9,6 +9,7 @@ const Projelendirme = () => {
       <div className="projelendirme-card-container-first">
         <div className="projelendirme-image-container">
           <Image
+            alt="mimari"
             src="/assets/img/brt/contact/contact.jpg"
             height={200}
             width={200}
@@ -22,6 +23,7 @@ const Projelendirme = () => {
       <div className="projelendirme-card-container-second">
         <div className="projelendirme-image-container">
           <Image
+            alt="statik"
             src="/assets/img/brt/contact/contact.jpg"
             height={200}
             width={200}
@@ -35,6 +37,7 @@ const Projelendirme = () => {
       <div className="projelendirme-card-container-third">
         <div className="projelendirme-image-container">
           <Image
+            alt="mimari"
             src="/assets/img/brt/contact/contact.jpg"
             height={200}
             width={200}
@@ -48,6 +51,7 @@ const Projelendirme = () => {
       <div className="projelendirme-card-container-fourth">
         <div className="projelendirme-image-container">
           <Image
+            alt="statik"
             src="/assets/img/brt/contact/contact.jpg"
             height={200}
             width={200}

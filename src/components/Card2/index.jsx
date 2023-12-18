@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const Card2 = ({ item }) => {
   return (
-    <Link href={`/stones-details/${item.category}/${item.title}`}>
+    <Link href={`/stones-details/${item.category}/${item.title}`} passHref>
       <div className="stones-card" style={{ width: "18rem" }}>
         <div className="stones-page-image-container">
           <Image width={200} height={200} src={item.image} alt={item.title} />

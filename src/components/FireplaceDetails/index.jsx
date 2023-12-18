@@ -6,6 +6,7 @@ const FireplaceDetails = ({ data }) => {
       <div className="row">
         <div className="col-12 col-md-6  fireplace-details-main-image-container">
           <Image
+            alt={data.name}
             src={data.mainImage}
             width={400}
             height={500}
@@ -44,6 +45,7 @@ const FireplaceDetails = ({ data }) => {
       <div className="row mt-25 mb-25">
         <div className="col-12 col-md-3 fireplace-details-main-image-container order-md-0 order-1 text-center">
           <Image
+            alt={data.name}
             src={data.subImage1}
             width={200}
             height={250}
@@ -54,6 +56,7 @@ const FireplaceDetails = ({ data }) => {
           <div>
             <div className="text-center">
               <Image
+                alt={data.name}
                 src="/assets/img/brt/fireplace/svg/effiency.svg"
                 width={30}
                 height={30}
@@ -65,6 +68,7 @@ const FireplaceDetails = ({ data }) => {
           <div>
             <div className="text-center">
               <Image
+                alt={data.name}
                 src="/assets/img/brt/fireplace/svg/heat-output.svg"
                 width={30}
                 height={30}
@@ -76,6 +80,7 @@ const FireplaceDetails = ({ data }) => {
           <div>
             <div className="text-center">
               <Image
+                alt={data.name}
                 src="/assets/img/brt/fireplace/svg/nominal-output.svg"
                 width={30}
                 height={30}
@@ -87,6 +92,7 @@ const FireplaceDetails = ({ data }) => {
           <div>
             <div className="text-center">
               <Image
+                alt={data.name}
                 src="/assets/img/brt/fireplace/svg/emissions.svg"
                 width={30}
                 height={30}
@@ -98,6 +104,7 @@ const FireplaceDetails = ({ data }) => {
         </div>
         <div className="col-12 col-md-3 fireplace-details-main-image-container order-md-2 order-2 text-center">
           <Image
+            alt={data.name}
             src={data.subImage2}
             width={200}
             height={250}

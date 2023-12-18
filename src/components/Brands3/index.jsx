@@ -11,6 +11,7 @@ const Brands3 = () => {
         <div className="col-12 col-md-6 col-lg-3">
           <div className="mt-10">
             <Image
+              alt="bmw"
               src="/assets/img/brt/brands/bmw.svg"
               width={300}
               height={150}
@@ -20,6 +21,7 @@ const Brands3 = () => {
         <div className="col-12 col-md-6 col-lg-3">
           <div className="mt-10">
             <Image
+              alt="cocacola"
               src="/assets/img/brt/brands/coca-cola.svg"
               width={300}
               height={150}
@@ -29,6 +31,7 @@ const Brands3 = () => {
         <div className="col-12 col-md-6 col-lg-3">
           <div className="mt-10">
             <Image
+              alt="google"
               src="/assets/img/brt/brands/google.svg"
               width={300}
               height={150}
@@ -38,6 +41,7 @@ const Brands3 = () => {
         <div className="col-12 col-md-6 col-lg-3">
           <div className="mt-10">
             <Image
+              alt="mcdonalds"
               src="/assets/img/brt/brands/mcdonalds.svg"
               width={300}
               height={150}
