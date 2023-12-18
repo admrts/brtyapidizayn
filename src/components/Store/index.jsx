@@ -6,21 +6,6 @@ const Store = () => {
   return (
     <div className="container mb-100 mt-100 store-container">
       {/* stones */}
-      {/* <div className="store-items-container-first">
-        <Link href="/kulturtaslari">
-          <div className="store-image-container">
-            <Image
-              priority
-              width={200}
-              height={200}
-              src="/assets/img/stones/asimetrik/atacama/antracita.jpeg"
-              alt=""
-              className="img-fluid rounded-circle    "
-            />
-          </div>
-        </Link>
-        <h3 className="store-items-title">Kültür Taşları</h3>
-      </div> */}
       <Link href="/kulturtaslari">
         <div className="store-items-container-first">
           <div className="store-image-container">

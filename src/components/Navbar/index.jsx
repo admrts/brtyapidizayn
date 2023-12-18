@@ -86,11 +86,8 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                   Hizmetlerimiz
                 </span>
                 <div className="dropdown-menu">
-                  <Link href="/statikproje">
-                    <a className="dropdown-item">Statik Proje</a>
-                  </Link>
-                  <Link href="/mimariproje">
-                    <a className="dropdown-item">Mimari Proje</a>
+                  <Link href="/projelendirme">
+                    <a className="dropdown-item">Projelendirme</a>
                   </Link>
                   <Link href="/kesifplanlama">
                     <a className="dropdown-item">Keşif Planlama</a>

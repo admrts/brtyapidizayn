@@ -1,68 +1,81 @@
-/* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 
 const Services6 = () => {
   return (
-    <section className="services-feat section-padding">
-      <h2 className="services6-title">Kültür Taşları ve Şömineler</h2>
-      <div className="container">
-        <div className="row">
-          <div className="col-lg-6">
-            <div className="d-flex flex-column shadow-lg">
+    <div className="services6-section">
+      <div className="container homepage-store-container">
+        <Link href="/kulturtaslari">
+          <div className="homepage-store-items-container-first">
+            <div className="homepage-store-image-container">
               <Image
-                width={910}
-                height={663}
-                src="/assets/img/brt/services6.jpg"
+                priority
+                width={150}
+                height={150}
+                src="/assets/img/stones/asimetrik/atacama/antracita.jpeg"
                 alt=""
+                className="img-fluid rounded-circle    "
               />
             </div>
-          </div>
-          <div className="col-lg-6 valign">
-            <div className="d-flex flex-column  mt-20">
-              <div className="item ">
-                <span className="icon flaticon-home-1"></span>
-                <div>
-                  <h5>Kültür Taşları</h5>
-                  <p>
-                    Yapısal olarak elverişli ve uygun biçimde hazırlanmış
-                    herhangi bir yüzeye uygulanabilir ve uygulandığı yüzeyin
-                    dahili bir parçası haline geldiğinden, hiçbir temel veya
-                    yapısal değişiklik gerektirmez.
-                  </p>
-                </div>
-              </div>
-              <div className="item">
-                <span className="icon flaticon-living-room"></span>
-                <div>
-                  <h5>Kültür Tuğlaları</h5>
-                  <p>
-                    Yapısal olarak elverişli ve uygun biçimde hazırlanmış
-                    herhangi bir yüzeye uygulanabilir ve uygulandığı yüzeyin
-                    dahili bir parçası haline geldiğinden, hiçbir temel veya
-                    yapısal değişiklik gerektirmez.
-                  </p>
-                </div>
-              </div>
-              <div className="item">
-                <span className="icon flaticon-interior-design"></span>
-                <div>
-                  <h5>Şömineler</h5>
-                  <p>
-                    Maksimum konfor ve modern tasarım sunan evler oluşturmak
-                    için tasarlıyoruz.
-                  </p>
-                </div>
-              </div>
-              <Link href="/magaza">
-                <span className="btn-magaza">Mağazaya Git</span>
-              </Link>
+            <div className="article-container">
+              <h3 className="store-items-title">Kültür Taşları</h3>
+              <p>
+                Yapısal olarak elverişli ve uygun biçimde hazırlanmış herhangi
+                bir yüzeye uygulanabilir ve uygulandığı yüzeyin dahili bir
+                parçası haline geldiğinden, hiçbir temel veya yapısal değişiklik
+                gerektirmez.
+              </p>
             </div>
+          </div>
+        </Link>
+
+        <div className="homepage-store-items-container-second">
+          <Link href="/kulturtuglalari">
+            <div className="homepage-store-image-container">
+              <Image
+                priority
+                width={150}
+                height={150}
+                src="/assets/img/stones/tuglalar/java/cotto.jpeg"
+                alt=""
+                className="img-fluid rounded-circle "
+              />
+            </div>
+          </Link>
+          <div className="article-container">
+            <h3 className="store-items-title">Kültür Tuğlası</h3>
+            <p>
+              Yapısal olarak elverişli ve uygun biçimde hazırlanmış herhangi bir
+              yüzeye uygulanabilir ve uygulandığı yüzeyin dahili bir parçası
+              haline geldiğinden, hiçbir temel veya yapısal değişiklik
+              gerektirmez.
+            </p>
+          </div>
+        </div>
+        <div className="homepage-store-items-container-third">
+          <Link href="/somineler">
+            <div className="homepage-store-image-container">
+              <Image
+                priority
+                width={150}
+                height={150}
+                src="/assets/img/brt/fireplace/fireplace.jpg"
+                alt=""
+                className="img-fluid rounded-circle"
+              />
+            </div>
+          </Link>
+          <div className="article-container">
+            <h3 className="store-items-title">Şömineler</h3>
+            <p>
+              Maksimum konfor ve modern tasarım sunan evler oluşturmak için
+              tasarlıyoruz.
+            </p>
           </div>
         </div>
       </div>
-    </section>
+    </div>
   );
 };
 

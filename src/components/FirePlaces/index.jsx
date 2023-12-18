@@ -4,7 +4,6 @@ import FireplaceCard from "../FireplaceCard";
 import FireplaceBackground from "../FireplaceBackground";
 
 const FirePlaces = ({ data, title }) => {
-  console.log(data);
   return (
     <div className=" pt-100 container fireplaces ">
       <FireplaceBackground />

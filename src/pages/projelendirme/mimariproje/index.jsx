@@ -1,8 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
-import WorkHeader from "../../components/Work-header";
-import MainLayout from "../../layouts/main";
-import { WorkTwoColumn } from "../../components/Work-Two-Column";
+import WorkHeader from "../../../components/Work-header";
+import MainLayout from "../../../layouts/main";
+import { WorkTwoColumn } from "../../../components/Work-Two-Column";
 
 const MimariProje = () => {
   const title = "Mimari Proje";

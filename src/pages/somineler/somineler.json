@@ -31,14 +31,14 @@
   },
   {
     "id": 6,
-    "name": "Aksesuar",
-    "image": "/assets/img/brt/fireplace/sobalar/blackpool/61.webp",
-    "href": "somineler/aksesuar"
-  },
-  {
-    "id": 7,
     "name": "Barbeküler",
     "image": "/assets/img/brt/fireplace/sobalar/blackpool/61.webp",
     "href": "somineler/barbekuler"
+  },
+  {
+    "id": 7,
+    "name": "Aksesuar",
+    "image": "/assets/img/brt/fireplace/sobalar/blackpool/61.webp",
+    "href": "somineler/aksesuar"
   }
 ]

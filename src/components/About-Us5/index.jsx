@@ -47,14 +47,14 @@ const AboutUs5 = () => {
             <div className="content">
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                  Beş yıllık inşaat sektöründeki deneyimimizle, sağlam temeller
+                  10 yıllık inşaat sektöründeki deneyimimizle, sağlam temeller
                   üzerine kurulu, yenilikçi ve özgün projeler üretiyoruz.
                   Müşterilerimize özel çözümler sunarak kalite ve güveni bir
                   araya getiriyoruz.
                 </p>
               </Split>
               <div className="exp">
-                <h3 className="">5</h3>
+                <h3 className="">10</h3>
                 <h5 className=" valign">
                   <Split>
                     <span className="wow words chars splitting" data-splitting>

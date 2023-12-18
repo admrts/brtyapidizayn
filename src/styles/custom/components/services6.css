@@ -1,29 +1,71 @@
-.btn-magaza {
-  border: 1px solid #401e00;
-  text-align: center;
-  padding: 10px 20px;
-  color: #401e00;
+.services6-section {
+  background: url("/assets/img/line-pattern.png");
+}
+.homepage-store-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.homepage-store-items-container-first {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  padding-left: 200px;
+}
+
+.homepage-store-items-container-second {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 70px;
+}
+.homepage-store-items-container-third {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  padding-left: 50px;
+}
+
+.homepage-store-image-container span {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  box-shadow: #401e0075 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px,
+    rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px,
+    rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.homepage-store-items-title {
+  text-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.homepage-store-items-title:hover {
+  text-shadow: #401e0075 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px,
+    rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px,
+    rgba(0, 0, 0, 0.09) 0px -3px 5px;
   cursor: pointer;
-  transition: all 0.3s;
 }
 
-.btn-magaza:hover {
-  background-color: #401e00;
-  color: #f3ebdf;
+.article-container {
+  width: 40%;
 }
 
-.services6-title {
-  text-align: center;
-  margin-bottom: 50px;
-  color: #401e00;
-}
-
-.services6-image {
-  border-radius: 10%;
-}
-.services6-image-container span {
-  box-shadow: 6px 8px 11px 0px #401e00;
-  -webkit-box-shadow: 6px 8px 11px 0px #401e00;
-  -moz-box-shadow: 6px 8px 11px 0px #401e00;
-  border-radius: 10%;
+@media screen and (max-width: 768px) {
+  .homepage-store-items-container-first {
+    justify-content: center;
+    padding-left: 0px;
+  }
+  .homepage-store-items-container-second {
+    justify-content: center;
+    padding-right: 0px;
+  }
+  .homepage-store-items-container-third {
+    justify-content: center;
+    padding-left: 0px;
+  }
+  .article-container {
+    width: 100%;
+  }
 }
