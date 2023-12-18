@@ -6,6 +6,19 @@
   margin-bottom: 100px;
 }
 
+.projelendirme-container h4,
+h3 {
+  text-shadow: #401e0075 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px,
+    rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px,
+    rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.projelendirme-image-container span {
+  border-radius: 50%;
+  box-shadow: #401e0075 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px,
+    rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px,
+    rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
 /* First Start */
 .projelendirme-card-container-first {
   display: flex;
@@ -45,3 +58,35 @@
   margin-left: 250px;
 }
 /* Fourth End */
+
+@media screen and (max-width: 960px) {
+  .projelendirme-card-container-first {
+    justify-content: center;
+    margin-left: 0px;
+  }
+  .projelendirme-card-container-second {
+    justify-content: center;
+    margin-right: 0px;
+  }
+
+  .projelendirme-card-container-second div {
+    order: 1;
+  }
+  .projelendirme-card-container-second h4 {
+    order: 0;
+  }
+  .projelendirme-card-container-third {
+    justify-content: center;
+    padding-left: 0px;
+  }
+  .projelendirme-card-container-fourth {
+    justify-content: center;
+    margin-left: 0px;
+  }
+  .projelendirme-card-container-fourth div {
+    order: 1;
+  }
+  .projelendirme-card-container-fourth h4 {
+    order: 0;
+  }
+}

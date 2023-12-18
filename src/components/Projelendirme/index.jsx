@@ -5,8 +5,9 @@ const Projelendirme = () => {
   return (
     <div className="container mt-100 projelendirme-container">
       {/* First start */}
+      <h3 className="text-center mb-50">Projelendirme</h3>
       <div className="projelendirme-card-container-first">
-        <div>
+        <div className="projelendirme-image-container">
           <Image
             src="/assets/img/brt/contact/contact.jpg"
             height={200}
@@ -19,7 +20,7 @@ const Projelendirme = () => {
       {/* First End */}
       {/* Second start */}
       <div className="projelendirme-card-container-second">
-        <div>
+        <div className="projelendirme-image-container">
           <Image
             src="/assets/img/brt/contact/contact.jpg"
             height={200}
@@ -32,7 +33,7 @@ const Projelendirme = () => {
       {/* Second End */}
       {/* Third start */}
       <div className="projelendirme-card-container-third">
-        <div>
+        <div className="projelendirme-image-container">
           <Image
             src="/assets/img/brt/contact/contact.jpg"
             height={200}
@@ -45,7 +46,7 @@ const Projelendirme = () => {
       {/* Third End */}
       {/* Fourth start */}
       <div className="projelendirme-card-container-fourth">
-        <div>
+        <div className="projelendirme-image-container">
           <Image
             src="/assets/img/brt/contact/contact.jpg"
             height={200}
