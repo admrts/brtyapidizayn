@@ -1,26 +1,32 @@
 [
   {
     "id": 1,
-    "name": "EK-01",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
-    "href": "somineler/elektriklisomineler/ek01"
+    "name": "Windsor",
+    "image": "/assets/img/brt/fireplace/barbekuler/windsor.webp",
+    "href": "somineler/barbekuler/windsor"
   },
   {
     "id": 2,
-    "name": "EK-02",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
-    "href": "somineler/elektriklisomineler/ek02"
+    "name": "Bakewell",
+    "image": "/assets/img/brt/fireplace/barbekuler/bakewell.webp",
+    "href": "somineler/barbekuler/bakewell"
   },
   {
     "id": 3,
-    "name": "EK-03",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
-    "href": "somineler/elektriklisomineler/ek03"
+    "name": "Woodbridge",
+    "image": "/assets/img/brt/fireplace/barbekuler/woodbridge.jpeg",
+    "href": "somineler/barbekuler/woodbridge"
   },
   {
     "id": 4,
-    "name": "EK-04",
-    "image": "/assets/img/brt/fireplace/fireplace.jpg",
-    "href": "somineler/elektriklisomineler/ek04"
+    "name": "Stroud",
+    "image": "/assets/img/brt/fireplace/barbekuler/stroud.webp",
+    "href": "somineler/barbekuler/stroud"
+  },
+  {
+    "id": 5,
+    "name": "Greenwich",
+    "image": "/assets/img/brt/fireplace/barbekuler/greenwich.webp",
+    "href": "somineler/barbekuler/greenwich"
   }
 ]
