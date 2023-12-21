@@ -1,0 +1,16 @@
+{
+  "name": "MF D 15",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/oxfordl.jpeg",
+  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/oxfordl-02.webp",
+  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/oxfordl-01.webp",
+  "width": "93.5",
+  "height": "40",
+  "depth": "44",
+  "description": "Estetik ve fonksiyonellik bir araya gelerek evlerimize sıcak bir atmosfer katıyor. 800 derece termal sıcaklığa dayanıklı vitroseramik cam, bu özel şömine modelinde güvenli ve etkileyici bir deneyim sunuyor.",
+  "effiency": "82%",
+  "heatOutput": "14-16kW",
+  "nominalOutput": "6.3kW",
+  "coEmissions": "0.12%",
+  "warranty": "10 Yıl",
+  "heatingCapacity": "150-250m2"
+}

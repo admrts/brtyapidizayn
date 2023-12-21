@@ -1,12 +1,14 @@
+import React from "react";
 import MainLayout from "../../../../../layouts/main";
-import FireplaceDetails from "../../../../../components/FireplaceDetails";
 import data from "./data.json";
+import FirePlaces from "../../../../../components/FirePlaces";
 
 const Page = () => {
   return (
     <MainLayout>
-      <FireplaceDetails data={data} />
+      <FirePlaces data={data} title={"Roe-Deer"} />
     </MainLayout>
   );
 };
+
 export default Page;

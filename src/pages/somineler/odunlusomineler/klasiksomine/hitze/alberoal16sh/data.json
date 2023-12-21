@@ -1,0 +1,16 @@
+{
+  "name": "Albero AL16 SH",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/oxfordl.jpeg",
+  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/oxfordl-02.webp",
+  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/oxfordl-01.webp",
+  "width": "77",
+  "height": "115",
+  "depth": "50",
+  "description": "Yüksek sıcaklıklarda yanmadan özel bir hava perdesi bulunmaktadır ve yanma sonucu ortaya çıkan karbondioksit emisyonlarını azaltır.",
+  "effiency": "80%",
+  "heatOutput": "16kW",
+  "nominalOutput": "8-20kW",
+  "coEmissions": "0.20%",
+  "warranty": "10 Yıl",
+  "heatingCapacity": "150-250m2"
+}

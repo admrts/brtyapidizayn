@@ -1,14 +1,26 @@
 [
   {
     "id": 1,
-    "name": "Stirling",
-    "image": "/assets/img/brt/fireplace/odunlu/utipi/stirling.webp",
-    "href": "somineler/odunlusomineler/utipisomine/stirling"
+    "name": "Roe-Deer",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfords.jpeg",
+    "href": "somineler/odunlusomineler/utipisomine/roe-deer"
   },
   {
     "id": 2,
-    "name": "Edinburgh",
-    "image": "/assets/img/brt/fireplace/odunlu/utipi/edinburgh.webp",
-    "href": "somineler/odunlusomineler/utipisomine/edinburgh"
+    "name": "MacroFlam",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordL.jpeg",
+    "href": "somineler/odunlusomineler/utipisomine/macroflam"
+  },
+  {
+    "id": 3,
+    "name": "NordFlam",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordsp.jpeg",
+    "href": "somineler/odunlusomineler/utipisomine/nordflam"
+  },
+  {
+    "id": 4,
+    "name": "Hitze",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordLp.webp",
+    "href": "somineler/odunlusomineler/utipisomine/hitze"
   }
 ]

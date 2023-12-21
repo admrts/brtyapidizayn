@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Albero AL16 SH",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfords.jpeg",
+    "href": "somineler/odunlusomineler/klasiksomine/hitze/alberoal16sh"
+  },
+  {
+    "id": 2,
+    "name": "Albero AL16 GH",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfords.jpeg",
+    "href": "somineler/odunlusomineler/klasiksomine/hitze/alberoal16gh"
+  },
+  {
+    "id": 3,
+    "name": "Albero AL19 SH",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfords.jpeg",
+    "href": "somineler/odunlusomineler/klasiksomine/hitze/alberoal19sh"
+  },
+  {
+    "id": 4,
+    "name": "Albero AL19 GH",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfords.jpeg",
+    "href": "somineler/odunlusomineler/klasiksomine/hitze/alberoal19gh"
+  }
+]
