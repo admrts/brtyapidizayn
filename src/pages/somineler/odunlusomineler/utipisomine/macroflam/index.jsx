@@ -6,7 +6,7 @@ import FirePlaces from "../../../../../components/FirePlaces";
 const Page = () => {
   return (
     <MainLayout>
-      <FirePlaces data={data} title={"Roe-Deer"} />
+      <FirePlaces data={data} title={"Macroflam"} />
     </MainLayout>
   );
 };

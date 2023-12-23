@@ -2,25 +2,13 @@
   {
     "id": 1,
     "name": "Roe-Deer",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfords.jpeg",
+    "image": "/assets/img/brt/fireplace/odunlu/utipi/roe-deer/edinburgh.webp",
     "href": "somineler/odunlusomineler/utipisomine/roe-deer"
   },
   {
     "id": 2,
     "name": "MacroFlam",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordL.jpeg",
+    "image": "/assets/img/brt/fireplace/odunlu/utipi/macroflam/mfu125.jpg",
     "href": "somineler/odunlusomineler/utipisomine/macroflam"
-  },
-  {
-    "id": 3,
-    "name": "NordFlam",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordsp.jpeg",
-    "href": "somineler/odunlusomineler/utipisomine/nordflam"
-  },
-  {
-    "id": 4,
-    "name": "Hitze",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordLp.webp",
-    "href": "somineler/odunlusomineler/utipisomine/hitze"
   }
 ]

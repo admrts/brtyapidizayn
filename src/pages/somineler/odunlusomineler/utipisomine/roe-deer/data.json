@@ -2,13 +2,13 @@
   {
     "id": 1,
     "name": "Stirling",
-    "image": "/assets/img/brt/fireplace/odunlu/utipi/stirling.webp",
+    "image": "/assets/img/brt/fireplace/odunlu/utipi/roe-deer/stirling.webp",
     "href": "somineler/odunlusomineler/utipisomine/roe-deer/stirling"
   },
   {
     "id": 2,
     "name": "Edinburgh",
-    "image": "/assets/img/brt/fireplace/odunlu/utipi/edinburgh.webp",
+    "image": "/assets/img/brt/fireplace/odunlu/utipi/roe-deer/edinburgh.webp",
     "href": "somineler/odunlusomineler/utipisomine/roe-deer/edinburgh"
   }
 ]
