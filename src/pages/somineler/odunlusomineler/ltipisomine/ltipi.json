@@ -2,19 +2,19 @@
   {
     "id": 1,
     "name": "Roe-Deer",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfords.jpeg",
+    "image": "/assets/img/brt/fireplace/odunlu/ltipi/roe-deer/ely.webp",
     "href": "somineler/odunlusomineler/ltipisomine/roe-deer"
   },
   {
     "id": 2,
     "name": "MacroFlam",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordL.jpeg",
+    "image": "/assets/img/brt/fireplace/odunlu/ltipi/macroflam/mfl85.jpg",
     "href": "somineler/odunlusomineler/ltipisomine/macroflam"
   },
   {
     "id": 3,
     "name": "Hitze",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordLp.webp",
+    "image": "/assets/img/brt/fireplace/odunlu/ltipi/hitze/alberoal16kose.png",
     "href": "somineler/odunlusomineler/ltipisomine/hitze"
   }
 ]

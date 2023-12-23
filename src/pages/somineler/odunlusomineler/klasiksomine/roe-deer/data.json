@@ -2,61 +2,61 @@
   {
     "id": 1,
     "name": "Oxford S",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfords.jpeg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/oxfords.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/roe-deer/oxfords"
   },
   {
     "id": 2,
     "name": "Oxford L",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordL.jpeg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/oxfordL.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/roe-deer/oxfordl"
   },
   {
     "id": 3,
     "name": "Oxford SP",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordsp.jpeg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/oxfordsp.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/roe-deer/oxfordsp"
   },
   {
     "id": 4,
     "name": "Oxford LP",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordLp.webp",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/oxfordLp.webp",
     "href": "somineler/odunlusomineler/klasiksomine/roe-deer/oxfordlp"
   },
   {
     "id": 5,
     "name": "Luton",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/luton.jpeg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/luton.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/roe-deer/luton"
   },
   {
     "id": 6,
     "name": "Oxford LM",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordLm.jpeg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/oxfordLm.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/roe-deer/oxfordlm"
   },
   {
     "id": 7,
     "name": "Arsenal S",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/arsenals.jpeg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/arsenals.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/roe-deer/arsenals"
   },
   {
     "id": 8,
     "name": "Arsenal L",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/arsenalL.jpeg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/arsenalL.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine/roe-deer/arsenall"
   },
   {
     "id": 9,
     "name": "Hereford",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/hereford.webp",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/hereford.webp",
     "href": "somineler/odunlusomineler/klasiksomine/roe-deer/hereford"
   },
   {
     "id": 10,
     "name": "Wake Field",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/wakefield.webp",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/wakefield.webp",
     "href": "somineler/odunlusomineler/klasiksomine/roe-deer/wakefield"
   }
 ]

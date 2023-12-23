@@ -93,38 +93,44 @@ const FireplaceDetails = ({ data }) => {
               <div>Heat-Output</div>
               <div>{data.heatOutput}</div>
             </div>
-            <div>
-              <div className="text-center">
-                <Image
-                  alt={data.name}
-                  src="/assets/img/brt/fireplace/svg/nominal-output.svg"
-                  width={30}
-                  height={30}
-                  placeholder="blur"
-                  blurDataURL={() =>
-                    blurData("/assets/img/brt/fireplace/svg/nominal-output.svg")
-                  }
-                />
+            {data.nominalOutput ? (
+              <div>
+                <div className="text-center">
+                  <Image
+                    alt={data.name}
+                    src="/assets/img/brt/fireplace/svg/nominal-output.svg"
+                    width={30}
+                    height={30}
+                    placeholder="blur"
+                    blurDataURL={() =>
+                      blurData(
+                        "/assets/img/brt/fireplace/svg/nominal-output.svg"
+                      )
+                    }
+                  />
+                </div>
+                <div>Nomimal-Output</div>
+                <div>{data.nominalOutput}</div>
               </div>
-              <div>Nomimal-Output</div>
-              <div>{data.nominalOutput}</div>
-            </div>
-            <div>
-              <div className="text-center">
-                <Image
-                  alt={data.name}
-                  src="/assets/img/brt/fireplace/svg/emissions.svg"
-                  width={30}
-                  height={30}
-                  placeholder="blur"
-                  blurDataURL={() =>
-                    blurData("/assets/img/brt/fireplace/svg/emissions.svg")
-                  }
-                />
+            ) : null}
+            {data.coEmissions ? (
+              <div>
+                <div className="text-center">
+                  <Image
+                    alt={data.name}
+                    src="/assets/img/brt/fireplace/svg/emissions.svg"
+                    width={30}
+                    height={30}
+                    placeholder="blur"
+                    blurDataURL={() =>
+                      blurData("/assets/img/brt/fireplace/svg/emissions.svg")
+                    }
+                  />
+                </div>
+                <div>Co-Emissions</div>
+                <div>{data.coEmissions}</div>
               </div>
-              <div>Co-Emissions</div>
-              <div>{data.coEmissions}</div>
-            </div>
+            ) : null}
           </div>
         ) : null}
         <div className="col-12 col-md-3 fireplace-details-main-image-container order-md-2 order-2 text-center">

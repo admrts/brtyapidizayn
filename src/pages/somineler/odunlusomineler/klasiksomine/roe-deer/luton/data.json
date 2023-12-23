@@ -1,8 +1,8 @@
 {
   "name": "Luton",
-  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/luton.jpeg",
-  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/luton-01.webp",
-  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/luton-02.webp",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/luton.jpeg",
+  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/luton-01.webp",
+  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/luton-02.webp",
   "width": "800",
   "height": "560",
   "depth": "500",

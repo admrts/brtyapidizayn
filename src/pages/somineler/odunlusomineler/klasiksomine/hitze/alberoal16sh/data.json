@@ -1,8 +1,8 @@
 {
   "name": "Albero AL16 SH",
-  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/oxfordl.jpeg",
-  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/oxfordl-02.webp",
-  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/oxfordl-01.webp",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/hitze/alberoal16sh.png",
+  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/hitze/alberoal16sh-01.png",
+  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/hitze/alberoal16sh-02.jpg",
   "width": "77",
   "height": "115",
   "depth": "50",
@@ -11,6 +11,5 @@
   "heatOutput": "16kW",
   "nominalOutput": "8-20kW",
   "coEmissions": "0.20%",
-  "warranty": "10 Yıl",
-  "heatingCapacity": "150-250m2"
+  "heatingCapacity": "100-130m2"
 }

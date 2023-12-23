@@ -1,8 +1,8 @@
 {
   "name": "Albero AL19 GH",
-  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/oxfordl.jpeg",
-  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/oxfordl-02.webp",
-  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/oxfordl-01.webp",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/hitze/alberoal19gh.png",
+  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/hitze/alberoal19gh-01.png",
+  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/hitze/alberoal19gh-02.png",
   "width": "90",
   "height": "47,5",
   "depth": "50",
@@ -11,6 +11,5 @@
   "heatOutput": "19kW",
   "nominalOutput": "9,5-24kW",
   "coEmissions": "0.20%",
-  "warranty": "10 Yıl",
-  "heatingCapacity": "150-250m2"
+  "heatingCapacity": "133-152m2"
 }

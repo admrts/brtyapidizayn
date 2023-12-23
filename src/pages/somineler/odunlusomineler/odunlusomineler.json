@@ -2,13 +2,13 @@
   {
     "id": 1,
     "name": "Klasik Şömine",
-    "image": "/assets/img/brt/fireplace/odunlu/klasik/arsenals.jpeg",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/roe-deer/arsenals.jpeg",
     "href": "somineler/odunlusomineler/klasiksomine"
   },
   {
     "id": 2,
     "name": "L Tipi Şömine",
-    "image": "/assets/img/brt/fireplace/odunlu/ltipi/ely.webp",
+    "image": "/assets/img/brt/fireplace/odunlu/ltipi/roe-deer/ely.webp",
     "href": "somineler/odunlusomineler/ltipisomine"
   },
   {
