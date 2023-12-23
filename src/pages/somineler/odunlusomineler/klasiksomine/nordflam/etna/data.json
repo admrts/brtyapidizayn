@@ -1,0 +1,15 @@
+{
+  "name": "ETNA",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/etna.jpeg",
+  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/etna-01.png",
+  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/etna-02.png",
+  "width": "66",
+  "height": "62",
+  "depth": "35",
+  "description": "Mükemmel dayanıklılık ve performans sunan, ısınan ve her eve konfor getiren, yüksek malzeme gücüne sahip çok yönlü ve verimli bir üründür.",
+  "effiency": "70%",
+  "heatOutput": "13kW",
+  "nominalOutput": "10-18kW",
+  "coEmissions": "0.16%",
+  "heatingCapacity": "130m2"
+}

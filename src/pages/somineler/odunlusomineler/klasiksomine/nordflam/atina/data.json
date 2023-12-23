@@ -1,0 +1,15 @@
+{
+  "name": "ATINA",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/atina.png",
+  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/atina-01.png",
+  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/atina-02.png",
+  "width": "70",
+  "height": "68",
+  "depth": "43",
+  "description": "ATINA, standart 70 cm genişliğindedir ve çeşitli ısıtma gereksinimlerine sahip çeşitli iç mekanlarda kullanılan bir haznedir. Şömine haznesi, damlama havalandırma sistemine sahip ısıya dayanıklı seramik cam bölmeye sahiptir.",
+  "effiency": "71%",
+  "heatOutput": "14kW",
+  "nominalOutput": "12-16kW",
+  "coEmissions": "0.12%",
+  "heatingCapacity": "140m2"
+}

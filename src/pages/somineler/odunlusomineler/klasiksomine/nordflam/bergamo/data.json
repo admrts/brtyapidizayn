@@ -1,0 +1,15 @@
+{
+  "name": "BERGAMO",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/bergamo.webp",
+  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/bergamo-01.png",
+  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/bergamo-02.jpeg",
+  "width": "90",
+  "height": "52",
+  "depth": "46",
+  "description": "Mükemmel dayanıklılık ve performans sunan, ısınan ve her eve konfor getiren, yüksek malzeme gücüne sahip çok yönlü ve verimli bir üründür.",
+  "effiency": "67%",
+  "heatOutput": "16kW",
+  "nominalOutput": "10-18kW",
+  "coEmissions": "0.15%",
+  "heatingCapacity": "160m2"
+}

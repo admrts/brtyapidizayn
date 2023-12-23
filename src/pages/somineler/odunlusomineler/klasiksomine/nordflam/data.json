@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "ATINA",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/atina.png",
+    "href": "somineler/odunlusomineler/klasiksomine/nordflam/atina"
+  },
+  {
+    "id": 2,
+    "name": "REMUS",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/remus.jpeg",
+    "href": "somineler/odunlusomineler/klasiksomine/nordflam/remus"
+  },
+  {
+    "id": 3,
+    "name": "BERGAMO",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/bergamo.webp",
+    "href": "somineler/odunlusomineler/klasiksomine/nordflam/bergamo"
+  },
+  {
+    "id": 4,
+    "name": "ETNA",
+    "image": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/etna.jpeg",
+    "href": "somineler/odunlusomineler/klasiksomine/nordflam/etna"
+  }
+]

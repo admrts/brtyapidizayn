@@ -3,24 +3,24 @@
     "id": 1,
     "name": "Roe-Deer",
     "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfords.jpeg",
-    "href": "somineler/odunlusomineler/klasiksomine/roe-deer"
+    "href": "somineler/odunlusomineler/ortasomine/roe-deer"
   },
   {
     "id": 2,
     "name": "MacroFlam",
     "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordL.jpeg",
-    "href": "somineler/odunlusomineler/klasiksomine/macroflam"
+    "href": "somineler/odunlusomineler/ortasomine/macroflam"
   },
   {
     "id": 3,
     "name": "NordFlam",
     "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordsp.jpeg",
-    "href": "somineler/odunlusomineler/klasiksomine/nordflam"
+    "href": "somineler/odunlusomineler/ortasomine/nordflam"
   },
   {
     "id": 4,
     "name": "Hitze",
     "image": "/assets/img/brt/fireplace/odunlu/klasik/oxfordLp.webp",
-    "href": "somineler/odunlusomineler/klasiksomine/hitze"
+    "href": "somineler/odunlusomineler/ortasomine/hitze"
   }
 ]

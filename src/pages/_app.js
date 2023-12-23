@@ -30,7 +30,7 @@ function MyApp({ Component, pageProps }) {
       </Head>
 
       <Cursor />
-      <LoadingScreen />
+      {/* <LoadingScreen /> */}
       <Component {...pageProps} />
       <ScrollToTop />
       <Whatsapp />

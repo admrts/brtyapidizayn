@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "MF U 95",
+    "image": "/assets/img/brt/fireplace/odunlu/utipisomine/macroflam/mfu95.jpeg",
+    "href": "somineler/odunlusomineler/utipisomine/macroflam/mfu95"
+  },
+  {
+    "id": 2,
+    "name": "MF U 125",
+    "image": "/assets/img/brt/fireplace/odunlu/utipisomine/macroflam/mfu125.jpg",
+    "href": "somineler/odunlusomineler/utipisomine/macroflam/mfu125"
+  },
+  {
+    "id": 3,
+    "name": "MF PRİZMA 95",
+    "image": "/assets/img/brt/fireplace/odunlu/utipisomine/macroflam/mfprizma95.jpg",
+    "href": "somineler/odunlusomineler/utipisomine/macroflam/mfprizma95"
+  },
+  {
+    "id": 4,
+    "name": "MF EPİ 75",
+    "image": "/assets/img/brt/fireplace/odunlu/utipisomine/macroflam/mfepi75.jpg",
+    "href": "somineler/odunlusomineler/utipisomine/macroflam/mfepi75"
+  }
+]

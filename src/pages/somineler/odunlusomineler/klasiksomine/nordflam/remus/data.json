@@ -1,0 +1,15 @@
+{
+  "name": "REMUS",
+  "mainImage": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/remus.jpeg",
+  "subImage1": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/remus-01.png",
+  "subImage2": "/assets/img/brt/fireplace/odunlu/klasik/nordflam/remus-02.png",
+  "width": "85",
+  "height": "75",
+  "depth": "46",
+  "description": "Dökme demir şömine ekidir. REMUS, yüksek sıcaklığa dayanıklı cam seramikler, hava perdesi sistemi ve en kaliteli dökme demir malzemeler içeren dayanıklı bir şömine ekidir. Yüksek baca kapağı, dumanlardan odanın iç kısmına sıcaklık değişimini arttırır, çift deflektör duman yolunu uzatır, odaya yansıyan sıcaklığı arttırır ve ek parçanın verimini arttırır ve son olarak isteğe bağlı harici hava besleme (CDP) sistemi, onu modern, enerji tasarruflu, yenilenme özellikli konutlar için uygun bir ürün haline getirir.",
+  "effiency": "73%",
+  "heatOutput": "16kW",
+  "nominalOutput": "10-17kW",
+  "coEmissions": "0.14%",
+  "heatingCapacity": "160m2"
+}

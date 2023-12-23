@@ -38,10 +38,12 @@ const FireplaceDetails = ({ data }) => {
               <h6>Isıtma Kapasitesi: </h6>
               <h6>{data.heatingCapacity}</h6>
             </div>
-            <div className="d-flex gap-3">
-              <h6>Garanti Süresi:</h6>
-              <h6>{data.warranty}</h6>
-            </div>
+            {data.warranty ? (
+              <div className="d-flex gap-3">
+                <h6>Garanti Süresi:</h6>
+                <h6>{data.warranty}</h6>
+              </div>
+            ) : null}
           </div>
         </div>
       </div>
