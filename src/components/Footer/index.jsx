@@ -53,7 +53,7 @@ const Footer = ({ classText }) => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    <i className="fab fa-whatsapp"></i>
+                    <i className="fab fa-whatsapp w-25 h-25"></i>
                   </a>
                 </Link>
                 {/*
