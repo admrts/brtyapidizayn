@@ -1,6 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 const Footer = ({ classText }) => {
   const date = new Date();
@@ -44,7 +45,12 @@ const Footer = ({ classText }) => {
           <div className="col-lg-4">
             <div className="item">
               <div className="logo">
-                <img src="/assets/img/logo-light.png" alt="" />
+                <Image
+                  width={175}
+                  height={60}
+                  src="/assets/img/logo-light.png"
+                  alt=""
+                />
               </div>
               <div className="social">
                 <Link href="#">
@@ -56,22 +62,12 @@ const Footer = ({ classText }) => {
                     <i className="fab fa-whatsapp w-25 h-25"></i>
                   </a>
                 </Link>
-                {/*
-                <Link href="#">
-                  <a>
-                    <i className="fab fa-twitter"></i>
-                  </a>
-                </Link> */}
+
                 <Link href="https://instagram.com/brtyapidizayn">
                   <a target="_blank">
                     <i className="fab fa-instagram"></i>
                   </a>
                 </Link>
-                {/* <Link href="#">
-                  <a>
-                    <i className="fab fa-youtube"></i>
-                  </a>
-                </Link> */}
               </div>
               <div className="copy-right">
                 <p>© {currentYear}, Tüm Hakları Saklıdır</p>

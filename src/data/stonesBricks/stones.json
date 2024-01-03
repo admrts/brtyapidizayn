@@ -381,24 +381,6 @@
       },
       {
         "id": 2,
-        "title": "Evo",
-        "category": "Modüler",
-        "image": "/assets/img/stones/moduler/evo/bianco.jpeg",
-        "colors": [
-          {
-            "id": 1,
-            "title": "Bianco",
-            "image": "/assets/img/stones/moduler/evo/bianco.jpeg"
-          },
-          {
-            "id": 2,
-            "title": "Fumo",
-            "image": "/assets/img/stones/moduler/evo/fumo.jpeg"
-          }
-        ]
-      },
-      {
-        "id": 3,
         "title": "Mujica",
         "category": "Modüler",
         "image": "/assets/img/stones/moduler/mujica/arena.jpeg",
@@ -441,7 +423,7 @@
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Persia",
         "category": "Modüler",
         "image": "/assets/img/stones/moduler/persia/ceniza.jpeg",
@@ -479,7 +461,7 @@
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Roldos",
         "category": "Modüler",
         "image": "/assets/img/stones/moduler/roldos/bianco.jpeg",
@@ -522,7 +504,7 @@
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Volantis",
         "category": "Modüler",
         "image": "/assets/img/stones/moduler/volantis/marron.jpeg",
@@ -565,7 +547,7 @@
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "MountLeuser",
         "category": "Modüler",
         "image": "/assets/img/stones/hardwood/mountLeuser/arena.jpeg",
