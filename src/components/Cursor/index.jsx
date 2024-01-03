@@ -3,7 +3,7 @@ import mouseEffect from "../../common/mouseEffect";
 
 const Cursor = () => {
   React.useEffect(() => {
-    // mouseEffect();
+    mouseEffect();
   }, []);
   return (
     <>
